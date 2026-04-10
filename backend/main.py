@@ -66,7 +66,7 @@ ACTIONS:
 - [Second specific recommendation]
 - [Third specific recommendation]
 
-Be direct. Reference specific activities and numbers from the analysis."""
+Be direct. Reference specific activities and numbers. No markdown. No asterisks. No bold. Plain text only."""
 
     response = client.messages.create(
         model="claude-sonnet-4-20250514",
