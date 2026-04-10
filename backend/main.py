@@ -1,5 +1,6 @@
 import os
 import io
+import re
 import pandas as pd
 from fastapi import FastAPI, UploadFile, File
 from fastapi.middleware.cors import CORSMiddleware
@@ -75,10 +76,10 @@ Be direct. Reference specific activities and numbers from the analysis."""
 
     text = response.content[0].text
     parts = text.split("ACTIONS:")
-    analysis = parts[0].replace("ANALYSIS:", "").strip()
+    analysis = re.sub(r'\*+', '', parts[0].replace("ANALYSIS:", "").strip()).replace("—", "-").strip()
     actions = []
     if len(parts) > 1:
-        action_lines = [l.strip().lstrip("- ").strip() for l in parts[1].strip().split("\n") if l.strip().startswith("-")]
+        action_lines = [re.sub(r'\*+', '', l.strip().lstrip("- ").strip()) for l in parts[1].strip().split("\n") if l.strip().startswith("-")]
         actions = action_lines
 
     return {"analysis": analysis, "actions": actions}
