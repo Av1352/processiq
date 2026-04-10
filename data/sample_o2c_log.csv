@@ -1,0 +1,2476 @@
+case_id,activity,timestamp,resource,amount
+ORD-001,Order Created,2024-04-02 00:00:00,Sales Rep,19352.47
+ORD-001,Credit Check,2024-04-09 02:24:52,Finance Team,19352.47
+ORD-001,Goods Issued,2024-04-11 15:50:23,Warehouse,19352.47
+ORD-001,Invoice Sent,2024-04-13 20:29:18,Accounts Receivable,19352.47
+ORD-001,Payment Received,2024-04-15 17:53:18,Accounts Receivable,19352.47
+ORD-002,Order Created,2024-03-28 00:00:00,Sales Rep,5898.77
+ORD-002,Credit Check,2024-04-05 00:03:14,Finance Team,5898.77
+ORD-002,Goods Issued,2024-04-06 06:54:41,Warehouse,5898.77
+ORD-002,Invoice Sent,2024-04-08 14:09:15,Accounts Receivable,5898.77
+ORD-002,Payment Received,2024-04-09 16:51:43,Accounts Receivable,5898.77
+ORD-003,Order Created,2024-06-06 00:00:00,Sales Rep,36377.94
+ORD-003,Credit Check,2024-06-14 17:29:31,Finance Team,36377.94
+ORD-003,Goods Issued,2024-06-16 08:45:55,Warehouse,36377.94
+ORD-003,Invoice Sent,2024-06-18 00:07:45,Accounts Receivable,36377.94
+ORD-003,Payment Received,2024-06-19 22:27:13,Accounts Receivable,36377.94
+ORD-004,Order Created,2024-03-29 00:00:00,Sales Rep,26713.07
+ORD-004,Credit Check,2024-04-05 17:56:13,Finance Team,26713.07
+ORD-004,Goods Issued,2024-04-07 23:18:21,Warehouse,26713.07
+ORD-004,Invoice Sent,2024-04-09 06:00:05,Accounts Receivable,26713.07
+ORD-004,Payment Received,2024-04-10 20:01:28,Accounts Receivable,26713.07
+ORD-005,Order Created,2024-06-23 00:00:00,Sales Rep,18951.73
+ORD-005,Credit Check,2024-07-02 17:02:51,Finance Team,18951.73
+ORD-005,Goods Issued,2024-07-04 11:24:20,Warehouse,18951.73
+ORD-005,Invoice Sent,2024-07-07 10:36:03,Accounts Receivable,18951.73
+ORD-005,Payment Received,2024-07-09 09:00:19,Accounts Receivable,18951.73
+ORD-006,Order Created,2024-05-14 00:00:00,Sales Rep,43137.08
+ORD-006,Credit Check,2024-05-22 10:15:59,Finance Team,43137.08
+ORD-006,Goods Issued,2024-05-23 18:48:48,Warehouse,43137.08
+ORD-006,Invoice Sent,2024-05-27 06:16:09,Accounts Receivable,43137.08
+ORD-006,Payment Received,2024-05-30 18:41:23,Accounts Receivable,43137.08
+ORD-007,Order Created,2024-01-09 00:00:00,Sales Rep,40611.47
+ORD-007,Credit Check,2024-01-16 07:33:32,Finance Team,40611.47
+ORD-007,Goods Issued,2024-01-18 01:39:30,Warehouse,40611.47
+ORD-007,Invoice Sent,2024-01-19 20:20:29,Accounts Receivable,40611.47
+ORD-007,Payment Received,2024-01-22 16:29:50,Accounts Receivable,40611.47
+ORD-008,Order Created,2024-01-08 00:00:00,Sales Rep,30889.84
+ORD-008,Credit Check,2024-01-15 10:44:32,Finance Team,30889.84
+ORD-008,Goods Issued,2024-01-18 19:55:09,Warehouse,30889.84
+ORD-008,Invoice Sent,2024-01-20 15:37:29,Accounts Receivable,30889.84
+ORD-008,Payment Received,2024-01-23 10:35:10,Accounts Receivable,30889.84
+ORD-009,Order Created,2024-05-13 00:00:00,Sales Rep,16273.84
+ORD-009,Credit Check,2024-05-20 05:56:36,Finance Team,16273.84
+ORD-009,Goods Issued,2024-05-22 09:11:35,Warehouse,16273.84
+ORD-009,Invoice Sent,2024-05-23 10:41:46,Accounts Receivable,16273.84
+ORD-009,Payment Received,2024-05-26 03:07:33,Accounts Receivable,16273.84
+ORD-010,Order Created,2024-01-14 00:00:00,Sales Rep,23037.95
+ORD-010,Credit Check,2024-01-24 08:43:37,Finance Team,23037.95
+ORD-010,Goods Issued,2024-01-26 00:24:04,Warehouse,23037.95
+ORD-010,Invoice Sent,2024-01-28 03:46:56,Accounts Receivable,23037.95
+ORD-010,Payment Received,2024-01-30 04:46:56,Accounts Receivable,23037.95
+ORD-011,Order Created,2024-03-22 00:00:00,Sales Rep,48097.43
+ORD-011,Credit Check,2024-04-02 02:03:31,Finance Team,48097.43
+ORD-011,Goods Issued,2024-04-04 16:39:20,Warehouse,48097.43
+ORD-011,Invoice Sent,2024-04-08 05:03:15,Accounts Receivable,48097.43
+ORD-011,Payment Received,2024-04-10 20:49:10,Accounts Receivable,48097.43
+ORD-012,Order Created,2024-06-05 00:00:00,Sales Rep,14523.96
+ORD-012,Credit Check,2024-06-15 19:30:58,Finance Team,14523.96
+ORD-012,Goods Issued,2024-06-16 23:05:41,Warehouse,14523.96
+ORD-012,Invoice Sent,2024-06-19 22:27:55,Accounts Receivable,14523.96
+ORD-012,Payment Received,2024-06-22 11:31:59,Accounts Receivable,14523.96
+ORD-013,Order Created,2024-03-03 00:00:00,Sales Rep,10737.07
+ORD-013,Credit Check,2024-03-13 21:25:35,Finance Team,10737.07
+ORD-013,Goods Issued,2024-03-16 07:21:20,Warehouse,10737.07
+ORD-013,Invoice Sent,2024-03-18 18:20:52,Accounts Receivable,10737.07
+ORD-013,Payment Received,2024-03-21 07:22:08,Accounts Receivable,10737.07
+ORD-014,Order Created,2024-02-10 00:00:00,Sales Rep,4628.19
+ORD-014,Credit Check,2024-02-21 11:45:15,Finance Team,4628.19
+ORD-014,Goods Issued,2024-02-24 04:33:21,Warehouse,4628.19
+ORD-014,Invoice Sent,2024-02-26 02:07:46,Accounts Receivable,4628.19
+ORD-014,Payment Received,2024-02-27 06:42:33,Accounts Receivable,4628.19
+ORD-015,Order Created,2024-03-02 00:00:00,Sales Rep,19170.09
+ORD-015,Credit Check,2024-03-09 22:49:35,Finance Team,19170.09
+ORD-015,Goods Issued,2024-03-12 09:50:50,Warehouse,19170.09
+ORD-015,Invoice Sent,2024-03-14 16:27:00,Accounts Receivable,19170.09
+ORD-015,Payment Received,2024-03-17 11:02:11,Accounts Receivable,19170.09
+ORD-016,Order Created,2024-04-10 00:00:00,Sales Rep,24138.53
+ORD-016,Credit Check,2024-04-21 19:55:35,Finance Team,24138.53
+ORD-016,Goods Issued,2024-04-24 12:40:27,Warehouse,24138.53
+ORD-016,Invoice Sent,2024-04-26 23:19:02,Accounts Receivable,24138.53
+ORD-016,Payment Received,2024-04-28 10:38:40,Accounts Receivable,24138.53
+ORD-017,Order Created,2024-01-27 00:00:00,Sales Rep,13547.35
+ORD-017,Credit Check,2024-02-05 03:16:24,Finance Team,13547.35
+ORD-017,Goods Issued,2024-02-06 23:47:43,Warehouse,13547.35
+ORD-017,Invoice Sent,2024-02-08 01:00:56,Accounts Receivable,13547.35
+ORD-017,Payment Received,2024-02-09 06:11:39,Accounts Receivable,13547.35
+ORD-018,Order Created,2024-02-21 00:00:00,Sales Rep,2540.03
+ORD-018,Credit Check,2024-03-01 09:06:42,Finance Team,2540.03
+ORD-018,Goods Issued,2024-03-03 18:29:47,Warehouse,2540.03
+ORD-018,Invoice Sent,2024-03-05 01:11:03,Accounts Receivable,2540.03
+ORD-018,Payment Received,2024-03-07 06:11:47,Accounts Receivable,2540.03
+ORD-019,Order Created,2024-01-29 00:00:00,Sales Rep,27452.21
+ORD-019,Credit Check,2024-02-05 08:56:48,Finance Team,27452.21
+ORD-019,Goods Issued,2024-02-06 12:38:31,Warehouse,27452.21
+ORD-019,Invoice Sent,2024-02-08 02:33:00,Accounts Receivable,27452.21
+ORD-019,Payment Received,2024-02-09 10:17:19,Accounts Receivable,27452.21
+ORD-020,Order Created,2024-02-14 00:00:00,Sales Rep,46555.18
+ORD-020,Credit Check,2024-02-23 07:53:07,Finance Team,46555.18
+ORD-020,Goods Issued,2024-02-24 18:45:43,Warehouse,46555.18
+ORD-020,Invoice Sent,2024-02-27 01:51:30,Accounts Receivable,46555.18
+ORD-020,Payment Received,2024-02-28 19:14:25,Accounts Receivable,46555.18
+ORD-021,Order Created,2024-03-15 00:00:00,Sales Rep,21408.99
+ORD-021,Credit Check,2024-03-22 22:42:20,Finance Team,21408.99
+ORD-021,Goods Issued,2024-03-24 04:33:57,Warehouse,21408.99
+ORD-021,Invoice Sent,2024-03-25 21:40:05,Accounts Receivable,21408.99
+ORD-021,Payment Received,2024-03-28 17:11:45,Accounts Receivable,21408.99
+ORD-022,Order Created,2024-01-27 00:00:00,Sales Rep,14334.48
+ORD-022,Credit Check,2024-02-04 13:30:12,Finance Team,14334.48
+ORD-022,Goods Issued,2024-02-07 04:46:05,Warehouse,14334.48
+ORD-022,Invoice Sent,2024-02-09 22:04:59,Accounts Receivable,14334.48
+ORD-022,Payment Received,2024-02-10 22:25:01,Accounts Receivable,14334.48
+ORD-023,Order Created,2024-05-16 00:00:00,Sales Rep,26026.62
+ORD-023,Credit Check,2024-05-24 21:48:55,Finance Team,26026.62
+ORD-023,Goods Issued,2024-05-27 07:03:08,Warehouse,26026.62
+ORD-023,Invoice Sent,2024-05-28 19:59:03,Accounts Receivable,26026.62
+ORD-023,Payment Received,2024-05-30 07:42:08,Accounts Receivable,26026.62
+ORD-024,Order Created,2024-06-08 00:00:00,Sales Rep,9246.26
+ORD-024,Credit Check,2024-06-17 02:42:21,Finance Team,9246.26
+ORD-024,Goods Issued,2024-06-19 12:27:02,Warehouse,9246.26
+ORD-024,Invoice Sent,2024-06-21 05:54:17,Accounts Receivable,9246.26
+ORD-024,Payment Received,2024-06-24 04:33:01,Accounts Receivable,9246.26
+ORD-025,Order Created,2024-02-08 00:00:00,Sales Rep,48159.92
+ORD-025,Credit Check,2024-02-18 18:43:28,Finance Team,48159.92
+ORD-025,Goods Issued,2024-02-20 16:51:18,Warehouse,48159.92
+ORD-025,Invoice Sent,2024-02-22 14:03:43,Accounts Receivable,48159.92
+ORD-025,Payment Received,2024-02-23 20:59:11,Accounts Receivable,48159.92
+ORD-026,Order Created,2024-05-09 00:00:00,Sales Rep,30868.65
+ORD-026,Credit Check,2024-05-19 03:49:37,Finance Team,30868.65
+ORD-026,Goods Issued,2024-05-20 10:31:51,Warehouse,30868.65
+ORD-026,Invoice Sent,2024-05-22 11:12:25,Accounts Receivable,30868.65
+ORD-026,Payment Received,2024-05-25 04:32:44,Accounts Receivable,30868.65
+ORD-027,Order Created,2024-02-22 00:00:00,Sales Rep,34354.57
+ORD-027,Credit Check,2024-03-03 17:22:38,Finance Team,34354.57
+ORD-027,Goods Issued,2024-03-07 06:57:03,Warehouse,34354.57
+ORD-027,Invoice Sent,2024-03-09 01:41:35,Accounts Receivable,34354.57
+ORD-027,Payment Received,2024-03-11 21:12:29,Accounts Receivable,34354.57
+ORD-028,Order Created,2024-05-02 00:00:00,Sales Rep,38319.36
+ORD-028,Credit Check,2024-05-10 22:38:42,Finance Team,38319.36
+ORD-028,Goods Issued,2024-05-14 01:42:21,Warehouse,38319.36
+ORD-028,Invoice Sent,2024-05-16 09:35:43,Accounts Receivable,38319.36
+ORD-028,Payment Received,2024-05-19 23:02:26,Accounts Receivable,38319.36
+ORD-029,Order Created,2024-05-23 00:00:00,Sales Rep,20542.4
+ORD-029,Credit Check,2024-06-03 00:17:00,Finance Team,20542.4
+ORD-029,Goods Issued,2024-06-04 15:40:51,Warehouse,20542.4
+ORD-029,Invoice Sent,2024-06-06 00:38:02,Accounts Receivable,20542.4
+ORD-029,Payment Received,2024-06-07 02:35:27,Accounts Receivable,20542.4
+ORD-030,Order Created,2024-06-12 00:00:00,Sales Rep,29953.75
+ORD-030,Credit Check,2024-06-18 02:23:19,Finance Team,29953.75
+ORD-030,Goods Issued,2024-06-20 02:58:08,Warehouse,29953.75
+ORD-030,Invoice Sent,2024-06-21 13:50:27,Accounts Receivable,29953.75
+ORD-030,Payment Received,2024-06-23 20:48:33,Accounts Receivable,29953.75
+ORD-031,Order Created,2024-06-09 00:00:00,Sales Rep,9543.96
+ORD-031,Credit Check,2024-06-17 09:15:01,Finance Team,9543.96
+ORD-031,Goods Issued,2024-06-19 10:06:08,Warehouse,9543.96
+ORD-031,Invoice Sent,2024-06-22 02:18:45,Accounts Receivable,9543.96
+ORD-031,Payment Received,2024-06-24 10:44:44,Accounts Receivable,9543.96
+ORD-032,Order Created,2024-06-26 00:00:00,Sales Rep,37025.59
+ORD-032,Credit Check,2024-07-09 20:35:13,Finance Team,37025.59
+ORD-032,Goods Issued,2024-07-13 03:55:18,Warehouse,37025.59
+ORD-032,Invoice Sent,2024-07-14 23:34:45,Accounts Receivable,37025.59
+ORD-032,Payment Received,2024-07-17 18:23:39,Accounts Receivable,37025.59
+ORD-033,Order Created,2024-02-29 00:00:00,Sales Rep,41043.89
+ORD-033,Credit Check,2024-03-09 01:52:16,Finance Team,41043.89
+ORD-033,Goods Issued,2024-03-12 16:03:19,Warehouse,41043.89
+ORD-033,Invoice Sent,2024-03-16 04:27:49,Accounts Receivable,41043.89
+ORD-033,Payment Received,2024-03-18 17:25:16,Accounts Receivable,41043.89
+ORD-034,Order Created,2024-01-09 00:00:00,Sales Rep,44249.18
+ORD-034,Credit Check,2024-01-18 04:59:20,Finance Team,44249.18
+ORD-034,Goods Issued,2024-01-21 02:07:46,Warehouse,44249.18
+ORD-034,Invoice Sent,2024-01-24 07:41:50,Accounts Receivable,44249.18
+ORD-034,Payment Received,2024-01-27 13:49:17,Accounts Receivable,44249.18
+ORD-035,Order Created,2024-06-09 00:00:00,Sales Rep,20820.9
+ORD-035,Credit Check,2024-06-18 20:27:09,Finance Team,20820.9
+ORD-035,Goods Issued,2024-06-20 00:29:28,Warehouse,20820.9
+ORD-035,Invoice Sent,2024-06-21 08:14:58,Accounts Receivable,20820.9
+ORD-035,Payment Received,2024-06-24 03:22:48,Accounts Receivable,20820.9
+ORD-036,Order Created,2024-04-21 00:00:00,Sales Rep,30715.02
+ORD-036,Credit Check,2024-04-28 22:20:03,Finance Team,30715.02
+ORD-036,Goods Issued,2024-05-01 17:21:07,Warehouse,30715.02
+ORD-036,Invoice Sent,2024-05-02 22:26:36,Accounts Receivable,30715.02
+ORD-036,Payment Received,2024-05-04 12:30:21,Accounts Receivable,30715.02
+ORD-037,Order Created,2024-02-23 00:00:00,Sales Rep,27887.96
+ORD-037,Credit Check,2024-03-02 16:34:23,Finance Team,27887.96
+ORD-037,Goods Issued,2024-03-05 16:18:25,Warehouse,27887.96
+ORD-037,Invoice Sent,2024-03-07 00:45:05,Accounts Receivable,27887.96
+ORD-037,Payment Received,2024-03-08 01:37:08,Accounts Receivable,27887.96
+ORD-038,Order Created,2024-02-17 00:00:00,Sales Rep,25200.79
+ORD-038,Credit Check,2024-02-27 11:29:41,Finance Team,25200.79
+ORD-038,Goods Issued,2024-02-29 18:40:37,Warehouse,25200.79
+ORD-038,Invoice Sent,2024-03-03 11:26:23,Accounts Receivable,25200.79
+ORD-038,Payment Received,2024-03-05 19:00:19,Accounts Receivable,25200.79
+ORD-039,Order Created,2024-04-24 00:00:00,Sales Rep,28847.12
+ORD-039,Credit Check,2024-05-03 19:37:54,Finance Team,28847.12
+ORD-039,Goods Issued,2024-05-05 07:39:14,Warehouse,28847.12
+ORD-039,Invoice Sent,2024-05-07 11:58:04,Accounts Receivable,28847.12
+ORD-039,Payment Received,2024-05-10 10:57:16,Accounts Receivable,28847.12
+ORD-040,Order Created,2024-01-08 00:00:00,Sales Rep,24850.37
+ORD-040,Credit Check,2024-01-17 18:53:02,Finance Team,24850.37
+ORD-040,Goods Issued,2024-01-20 09:02:05,Warehouse,24850.37
+ORD-040,Invoice Sent,2024-01-22 09:09:41,Accounts Receivable,24850.37
+ORD-040,Payment Received,2024-01-24 12:51:10,Accounts Receivable,24850.37
+ORD-041,Order Created,2024-03-01 00:00:00,Sales Rep,25133.37
+ORD-041,Credit Check,2024-03-09 23:53:01,Finance Team,25133.37
+ORD-041,Goods Issued,2024-03-12 03:20:24,Warehouse,25133.37
+ORD-041,Invoice Sent,2024-03-14 16:13:50,Accounts Receivable,25133.37
+ORD-041,Payment Received,2024-03-15 18:19:25,Accounts Receivable,25133.37
+ORD-042,Order Created,2024-06-06 00:00:00,Sales Rep,49732.98
+ORD-042,Credit Check,2024-06-20 01:38:19,Finance Team,49732.98
+ORD-042,Goods Issued,2024-06-23 11:08:06,Warehouse,49732.98
+ORD-042,Invoice Sent,2024-06-25 13:15:22,Accounts Receivable,49732.98
+ORD-042,Payment Received,2024-06-26 18:56:47,Accounts Receivable,49732.98
+ORD-043,Order Created,2024-02-15 00:00:00,Sales Rep,46487.61
+ORD-043,Credit Check,2024-02-29 03:50:16,Finance Team,46487.61
+ORD-043,Goods Issued,2024-03-03 16:08:32,Warehouse,46487.61
+ORD-043,Invoice Sent,2024-03-06 22:04:32,Accounts Receivable,46487.61
+ORD-043,Payment Received,2024-03-08 19:50:09,Accounts Receivable,46487.61
+ORD-044,Order Created,2024-06-09 00:00:00,Sales Rep,19869.79
+ORD-044,Credit Check,2024-06-16 21:38:12,Finance Team,19869.79
+ORD-044,Goods Issued,2024-06-18 05:46:20,Warehouse,19869.79
+ORD-044,Invoice Sent,2024-06-20 08:29:55,Accounts Receivable,19869.79
+ORD-044,Payment Received,2024-06-23 05:26:03,Accounts Receivable,19869.79
+ORD-045,Order Created,2024-04-13 00:00:00,Sales Rep,35105.46
+ORD-045,Credit Check,2024-04-20 16:58:04,Finance Team,35105.46
+ORD-045,Goods Issued,2024-04-22 09:48:05,Warehouse,35105.46
+ORD-045,Invoice Sent,2024-04-25 05:15:34,Accounts Receivable,35105.46
+ORD-045,Payment Received,2024-04-27 06:43:03,Accounts Receivable,35105.46
+ORD-046,Order Created,2024-05-09 00:00:00,Sales Rep,13454.02
+ORD-046,Credit Check,2024-05-16 22:26:50,Finance Team,13454.02
+ORD-046,Goods Issued,2024-05-19 15:11:00,Warehouse,13454.02
+ORD-046,Invoice Sent,2024-05-20 21:44:28,Accounts Receivable,13454.02
+ORD-046,Payment Received,2024-05-23 07:46:08,Accounts Receivable,13454.02
+ORD-047,Order Created,2024-06-18 00:00:00,Sales Rep,28088.18
+ORD-047,Credit Check,2024-06-28 20:32:52,Finance Team,28088.18
+ORD-047,Goods Issued,2024-07-01 11:26:00,Warehouse,28088.18
+ORD-047,Invoice Sent,2024-07-04 05:03:10,Accounts Receivable,28088.18
+ORD-047,Payment Received,2024-07-07 00:53:18,Accounts Receivable,28088.18
+ORD-048,Order Created,2024-02-26 00:00:00,Sales Rep,26055.78
+ORD-048,Credit Check,2024-03-06 18:25:00,Finance Team,26055.78
+ORD-048,Goods Issued,2024-03-08 03:44:31,Warehouse,26055.78
+ORD-048,Invoice Sent,2024-03-09 07:08:49,Accounts Receivable,26055.78
+ORD-048,Payment Received,2024-03-11 02:11:33,Accounts Receivable,26055.78
+ORD-049,Order Created,2024-04-24 00:00:00,Sales Rep,3487.66
+ORD-049,Credit Check,2024-05-02 00:40:16,Finance Team,3487.66
+ORD-049,Goods Issued,2024-05-03 18:41:57,Warehouse,3487.66
+ORD-049,Invoice Sent,2024-05-04 23:12:37,Accounts Receivable,3487.66
+ORD-049,Payment Received,2024-05-07 02:58:04,Accounts Receivable,3487.66
+ORD-050,Order Created,2024-06-01 00:00:00,Sales Rep,2761.17
+ORD-050,Credit Check,2024-06-07 22:19:33,Finance Team,2761.17
+ORD-050,Goods Issued,2024-06-10 21:27:15,Warehouse,2761.17
+ORD-050,Invoice Sent,2024-06-13 13:43:23,Accounts Receivable,2761.17
+ORD-050,Payment Received,2024-06-16 07:01:21,Accounts Receivable,2761.17
+ORD-051,Order Created,2024-06-18 00:00:00,Sales Rep,13262.32
+ORD-051,Credit Check,2024-06-28 22:27:16,Finance Team,13262.32
+ORD-051,Goods Issued,2024-06-30 15:44:37,Warehouse,13262.32
+ORD-051,Invoice Sent,2024-07-01 21:50:33,Accounts Receivable,13262.32
+ORD-051,Payment Received,2024-07-03 22:54:36,Accounts Receivable,13262.32
+ORD-052,Order Created,2024-04-17 00:00:00,Sales Rep,38729.68
+ORD-052,Credit Check,2024-04-28 16:26:07,Finance Team,38729.68
+ORD-052,Goods Issued,2024-04-30 02:09:05,Warehouse,38729.68
+ORD-052,Invoice Sent,2024-05-01 09:55:42,Accounts Receivable,38729.68
+ORD-052,Payment Received,2024-05-03 21:20:03,Accounts Receivable,38729.68
+ORD-053,Order Created,2024-02-24 00:00:00,Sales Rep,27491.12
+ORD-053,Credit Check,2024-03-01 19:55:22,Finance Team,27491.12
+ORD-053,Goods Issued,2024-03-03 02:17:40,Warehouse,27491.12
+ORD-053,Invoice Sent,2024-03-06 00:49:56,Accounts Receivable,27491.12
+ORD-053,Payment Received,2024-03-08 11:07:58,Accounts Receivable,27491.12
+ORD-054,Order Created,2024-04-29 00:00:00,Sales Rep,3012.31
+ORD-054,Credit Check,2024-05-06 14:59:59,Finance Team,3012.31
+ORD-054,Goods Issued,2024-05-08 12:04:13,Warehouse,3012.31
+ORD-054,Invoice Sent,2024-05-09 15:50:10,Accounts Receivable,3012.31
+ORD-054,Payment Received,2024-05-10 17:03:11,Accounts Receivable,3012.31
+ORD-055,Order Created,2024-01-23 00:00:00,Sales Rep,48169.77
+ORD-055,Credit Check,2024-02-02 06:48:45,Finance Team,48169.77
+ORD-055,Goods Issued,2024-02-05 03:16:13,Warehouse,48169.77
+ORD-055,Invoice Sent,2024-02-06 11:25:20,Accounts Receivable,48169.77
+ORD-055,Payment Received,2024-02-09 20:56:18,Accounts Receivable,48169.77
+ORD-056,Order Created,2024-04-05 00:00:00,Sales Rep,22675.26
+ORD-056,Credit Check,2024-04-14 07:05:19,Finance Team,22675.26
+ORD-056,Goods Issued,2024-04-16 17:23:21,Warehouse,22675.26
+ORD-056,Invoice Sent,2024-04-19 01:04:43,Accounts Receivable,22675.26
+ORD-056,Payment Received,2024-04-20 14:30:55,Accounts Receivable,22675.26
+ORD-057,Order Created,2024-03-09 00:00:00,Sales Rep,47788.4
+ORD-057,Credit Check,2024-03-20 14:30:19,Finance Team,47788.4
+ORD-057,Goods Issued,2024-03-22 19:28:27,Warehouse,47788.4
+ORD-057,Invoice Sent,2024-03-24 14:32:37,Accounts Receivable,47788.4
+ORD-057,Payment Received,2024-03-26 15:50:51,Accounts Receivable,47788.4
+ORD-058,Order Created,2024-01-29 00:00:00,Sales Rep,38134.46
+ORD-058,Credit Check,2024-02-06 00:51:26,Finance Team,38134.46
+ORD-058,Goods Issued,2024-02-07 08:18:25,Warehouse,38134.46
+ORD-058,Invoice Sent,2024-02-08 15:27:11,Accounts Receivable,38134.46
+ORD-058,Payment Received,2024-02-11 21:31:39,Accounts Receivable,38134.46
+ORD-059,Order Created,2024-05-23 00:00:00,Sales Rep,35479.24
+ORD-059,Credit Check,2024-05-30 21:42:20,Finance Team,35479.24
+ORD-059,Goods Issued,2024-06-02 06:49:22,Warehouse,35479.24
+ORD-059,Invoice Sent,2024-06-04 14:53:41,Accounts Receivable,35479.24
+ORD-059,Payment Received,2024-06-06 05:40:16,Accounts Receivable,35479.24
+ORD-060,Order Created,2024-01-23 00:00:00,Sales Rep,22258.73
+ORD-060,Credit Check,2024-01-29 06:55:13,Finance Team,22258.73
+ORD-060,Goods Issued,2024-02-01 04:28:46,Warehouse,22258.73
+ORD-060,Invoice Sent,2024-02-03 23:02:24,Accounts Receivable,22258.73
+ORD-060,Payment Received,2024-02-05 11:33:46,Accounts Receivable,22258.73
+ORD-061,Order Created,2024-05-26 00:00:00,Sales Rep,1749.92
+ORD-061,Credit Check,2024-06-04 00:27:05,Finance Team,1749.92
+ORD-061,Goods Issued,2024-06-06 17:33:47,Warehouse,1749.92
+ORD-061,Invoice Sent,2024-06-09 01:10:49,Accounts Receivable,1749.92
+ORD-061,Payment Received,2024-06-10 09:00:04,Accounts Receivable,1749.92
+ORD-062,Order Created,2024-01-02 00:00:00,Sales Rep,4457.87
+ORD-062,Credit Check,2024-01-08 03:49:03,Finance Team,4457.87
+ORD-062,Goods Issued,2024-01-10 07:56:05,Warehouse,4457.87
+ORD-062,Invoice Sent,2024-01-13 05:03:57,Accounts Receivable,4457.87
+ORD-062,Payment Received,2024-01-15 08:41:19,Accounts Receivable,4457.87
+ORD-063,Order Created,2024-05-03 00:00:00,Sales Rep,20020.33
+ORD-063,Credit Check,2024-05-09 18:30:14,Finance Team,20020.33
+ORD-063,Goods Issued,2024-05-12 09:26:30,Warehouse,20020.33
+ORD-063,Invoice Sent,2024-05-15 00:49:57,Accounts Receivable,20020.33
+ORD-063,Payment Received,2024-05-17 06:52:39,Accounts Receivable,20020.33
+ORD-064,Order Created,2024-06-16 00:00:00,Sales Rep,41200.92
+ORD-064,Credit Check,2024-06-29 17:14:40,Finance Team,41200.92
+ORD-064,Goods Issued,2024-07-01 09:19:19,Warehouse,41200.92
+ORD-064,Invoice Sent,2024-07-02 18:07:02,Accounts Receivable,41200.92
+ORD-064,Payment Received,2024-07-04 04:43:19,Accounts Receivable,41200.92
+ORD-065,Order Created,2024-02-04 00:00:00,Sales Rep,1892.87
+ORD-065,Credit Check,2024-02-12 00:27:49,Finance Team,1892.87
+ORD-065,Goods Issued,2024-02-14 07:56:18,Warehouse,1892.87
+ORD-065,Invoice Sent,2024-02-16 02:26:15,Accounts Receivable,1892.87
+ORD-065,Payment Received,2024-02-18 11:09:17,Accounts Receivable,1892.87
+ORD-066,Order Created,2024-04-24 00:00:00,Sales Rep,17690.6
+ORD-066,Credit Check,2024-05-01 16:35:13,Finance Team,17690.6
+ORD-066,Goods Issued,2024-05-02 22:15:32,Warehouse,17690.6
+ORD-066,Invoice Sent,2024-05-05 07:42:08,Accounts Receivable,17690.6
+ORD-066,Payment Received,2024-05-07 13:53:29,Accounts Receivable,17690.6
+ORD-067,Order Created,2024-06-12 00:00:00,Sales Rep,43996.13
+ORD-067,Credit Check,2024-06-22 05:01:15,Finance Team,43996.13
+ORD-067,Goods Issued,2024-06-25 17:33:13,Warehouse,43996.13
+ORD-067,Invoice Sent,2024-06-28 05:55:00,Accounts Receivable,43996.13
+ORD-067,Payment Received,2024-06-30 11:06:31,Accounts Receivable,43996.13
+ORD-068,Order Created,2024-06-25 00:00:00,Sales Rep,28857.49
+ORD-068,Credit Check,2024-07-05 09:21:26,Finance Team,28857.49
+ORD-068,Goods Issued,2024-07-06 15:29:10,Warehouse,28857.49
+ORD-068,Invoice Sent,2024-07-08 03:29:13,Accounts Receivable,28857.49
+ORD-068,Payment Received,2024-07-10 07:21:11,Accounts Receivable,28857.49
+ORD-069,Order Created,2024-02-06 00:00:00,Sales Rep,43488.71
+ORD-069,Credit Check,2024-02-14 22:01:46,Finance Team,43488.71
+ORD-069,Goods Issued,2024-02-17 17:59:18,Warehouse,43488.71
+ORD-069,Invoice Sent,2024-02-20 17:24:26,Accounts Receivable,43488.71
+ORD-069,Payment Received,2024-02-22 11:55:47,Accounts Receivable,43488.71
+ORD-070,Order Created,2024-04-22 00:00:00,Sales Rep,19508.72
+ORD-070,Credit Check,2024-05-01 00:45:22,Finance Team,19508.72
+ORD-070,Goods Issued,2024-05-03 16:25:34,Warehouse,19508.72
+ORD-070,Invoice Sent,2024-05-05 07:47:19,Accounts Receivable,19508.72
+ORD-070,Payment Received,2024-05-08 02:46:25,Accounts Receivable,19508.72
+ORD-071,Order Created,2024-05-19 00:00:00,Sales Rep,20070.88
+ORD-071,Credit Check,2024-05-30 18:01:47,Finance Team,20070.88
+ORD-071,Goods Issued,2024-06-02 10:41:34,Warehouse,20070.88
+ORD-071,Invoice Sent,2024-06-04 03:43:41,Accounts Receivable,20070.88
+ORD-071,Payment Received,2024-06-07 01:39:17,Accounts Receivable,20070.88
+ORD-072,Order Created,2024-02-21 00:00:00,Sales Rep,34161.73
+ORD-072,Credit Check,2024-03-03 07:53:24,Finance Team,34161.73
+ORD-072,Goods Issued,2024-03-06 01:05:02,Warehouse,34161.73
+ORD-072,Invoice Sent,2024-03-08 07:42:51,Accounts Receivable,34161.73
+ORD-072,Payment Received,2024-03-10 05:24:11,Accounts Receivable,34161.73
+ORD-073,Order Created,2024-05-02 00:00:00,Sales Rep,17104.56
+ORD-073,Credit Check,2024-05-09 06:37:58,Finance Team,17104.56
+ORD-073,Goods Issued,2024-05-12 04:03:00,Warehouse,17104.56
+ORD-073,Invoice Sent,2024-05-14 17:33:08,Accounts Receivable,17104.56
+ORD-073,Payment Received,2024-05-15 22:59:55,Accounts Receivable,17104.56
+ORD-074,Order Created,2024-06-15 00:00:00,Sales Rep,46615.53
+ORD-074,Credit Check,2024-06-29 08:53:48,Finance Team,46615.53
+ORD-074,Goods Issued,2024-06-30 16:54:54,Warehouse,46615.53
+ORD-074,Invoice Sent,2024-07-03 16:10:06,Accounts Receivable,46615.53
+ORD-074,Payment Received,2024-07-06 04:24:47,Accounts Receivable,46615.53
+ORD-075,Order Created,2024-03-16 00:00:00,Sales Rep,35585.74
+ORD-075,Credit Check,2024-03-28 03:41:29,Finance Team,35585.74
+ORD-075,Goods Issued,2024-03-31 08:42:02,Warehouse,35585.74
+ORD-075,Invoice Sent,2024-04-03 15:25:56,Accounts Receivable,35585.74
+ORD-075,Payment Received,2024-04-06 20:31:43,Accounts Receivable,35585.74
+ORD-076,Order Created,2024-06-16 00:00:00,Sales Rep,21878.48
+ORD-076,Credit Check,2024-06-17 03:29:33,Finance Team,21878.48
+ORD-076,Goods Issued,2024-06-19 18:56:30,Warehouse,21878.48
+ORD-076,Invoice Sent,2024-06-22 04:50:29,Accounts Receivable,21878.48
+ORD-077,Order Created,2024-06-13 00:00:00,Sales Rep,4986.09
+ORD-077,Credit Check,2024-06-14 11:11:41,Finance Team,4986.09
+ORD-077,Goods Issued,2024-06-16 15:05:51,Warehouse,4986.09
+ORD-077,Invoice Sent,2024-06-19 08:31:41,Accounts Receivable,4986.09
+ORD-078,Order Created,2024-05-24 00:00:00,Sales Rep,44137.64
+ORD-078,Credit Check,2024-05-27 11:21:41,Finance Team,44137.64
+ORD-078,Goods Issued,2024-05-31 00:57:18,Warehouse,44137.64
+ORD-078,Invoice Sent,2024-06-03 01:08:59,Accounts Receivable,44137.64
+ORD-079,Order Created,2024-06-07 00:00:00,Sales Rep,19436.72
+ORD-079,Credit Check,2024-06-08 23:07:12,Finance Team,19436.72
+ORD-079,Goods Issued,2024-06-10 17:15:48,Warehouse,19436.72
+ORD-079,Invoice Sent,2024-06-13 03:06:26,Accounts Receivable,19436.72
+ORD-080,Order Created,2024-01-19 00:00:00,Sales Rep,13187.48
+ORD-080,Credit Check,2024-01-20 05:20:14,Finance Team,13187.48
+ORD-080,Goods Issued,2024-01-22 04:59:00,Warehouse,13187.48
+ORD-080,Invoice Sent,2024-01-23 05:31:42,Accounts Receivable,13187.48
+ORD-081,Order Created,2024-02-27 00:00:00,Sales Rep,23964.37
+ORD-081,Credit Check,2024-02-29 11:34:00,Finance Team,23964.37
+ORD-081,Goods Issued,2024-03-03 00:23:31,Warehouse,23964.37
+ORD-081,Invoice Sent,2024-03-05 15:53:09,Accounts Receivable,23964.37
+ORD-082,Order Created,2024-05-10 00:00:00,Sales Rep,37466.37
+ORD-082,Credit Check,2024-05-12 14:24:07,Finance Team,37466.37
+ORD-082,Goods Issued,2024-05-16 02:37:23,Warehouse,37466.37
+ORD-082,Invoice Sent,2024-05-18 05:00:56,Accounts Receivable,37466.37
+ORD-083,Order Created,2024-02-25 00:00:00,Sales Rep,14999.89
+ORD-083,Credit Check,2024-02-27 01:21:42,Finance Team,14999.89
+ORD-083,Goods Issued,2024-02-28 22:18:21,Warehouse,14999.89
+ORD-083,Invoice Sent,2024-03-02 12:48:25,Accounts Receivable,14999.89
+ORD-084,Order Created,2024-06-21 00:00:00,Sales Rep,48917.13
+ORD-084,Credit Check,2024-06-22 07:17:09,Finance Team,48917.13
+ORD-084,Goods Issued,2024-06-25 15:24:57,Warehouse,48917.13
+ORD-084,Invoice Sent,2024-06-28 02:36:41,Accounts Receivable,48917.13
+ORD-085,Order Created,2024-06-12 00:00:00,Sales Rep,49655.28
+ORD-085,Credit Check,2024-06-14 12:42:07,Finance Team,49655.28
+ORD-085,Goods Issued,2024-06-18 01:20:01,Warehouse,49655.28
+ORD-085,Invoice Sent,2024-06-20 12:15:51,Accounts Receivable,49655.28
+ORD-086,Order Created,2024-01-14 00:00:00,Sales Rep,31840.53
+ORD-086,Credit Check,2024-01-15 21:45:46,Finance Team,31840.53
+ORD-086,Goods Issued,2024-01-19 11:55:21,Warehouse,31840.53
+ORD-086,Invoice Sent,2024-01-22 08:51:56,Accounts Receivable,31840.53
+ORD-087,Order Created,2024-01-12 00:00:00,Sales Rep,19825.89
+ORD-087,Credit Check,2024-01-14 22:01:03,Finance Team,19825.89
+ORD-087,Goods Issued,2024-01-16 00:47:42,Warehouse,19825.89
+ORD-087,Invoice Sent,2024-01-17 19:43:56,Accounts Receivable,19825.89
+ORD-088,Order Created,2024-04-26 00:00:00,Sales Rep,6231.05
+ORD-088,Credit Check,2024-04-27 13:18:51,Finance Team,6231.05
+ORD-088,Goods Issued,2024-04-28 22:20:38,Warehouse,6231.05
+ORD-088,Invoice Sent,2024-04-30 20:36:05,Accounts Receivable,6231.05
+ORD-089,Order Created,2024-06-26 00:00:00,Sales Rep,18314.26
+ORD-089,Credit Check,2024-06-27 12:45:54,Finance Team,18314.26
+ORD-089,Goods Issued,2024-06-29 06:03:41,Warehouse,18314.26
+ORD-089,Invoice Sent,2024-06-30 18:32:21,Accounts Receivable,18314.26
+ORD-090,Order Created,2024-05-24 00:00:00,Sales Rep,23208.8
+ORD-090,Credit Check,2024-05-25 13:25:43,Finance Team,23208.8
+ORD-090,Goods Issued,2024-05-27 09:09:59,Warehouse,23208.8
+ORD-090,Invoice Sent,2024-05-29 14:06:00,Accounts Receivable,23208.8
+ORD-091,Order Created,2024-05-20 00:00:00,Sales Rep,14276.92
+ORD-091,Credit Check,2024-05-22 19:43:28,Finance Team,14276.92
+ORD-091,Goods Issued,2024-05-25 11:12:22,Warehouse,14276.92
+ORD-091,Invoice Sent,2024-05-28 08:47:48,Accounts Receivable,14276.92
+ORD-092,Order Created,2024-02-16 00:00:00,Sales Rep,36560.26
+ORD-092,Credit Check,2024-02-19 09:44:40,Finance Team,36560.26
+ORD-092,Goods Issued,2024-02-20 19:18:39,Warehouse,36560.26
+ORD-092,Invoice Sent,2024-02-24 02:36:23,Accounts Receivable,36560.26
+ORD-093,Order Created,2024-01-05 00:00:00,Sales Rep,28027.81
+ORD-093,Credit Check,2024-01-06 01:15:56,Finance Team,28027.81
+ORD-093,Goods Issued,2024-01-07 19:20:09,Warehouse,28027.81
+ORD-093,Invoice Sent,2024-01-10 10:14:32,Accounts Receivable,28027.81
+ORD-094,Order Created,2024-06-25 00:00:00,Sales Rep,49376.53
+ORD-094,Credit Check,2024-06-27 02:30:00,Finance Team,49376.53
+ORD-094,Goods Issued,2024-06-30 02:28:33,Warehouse,49376.53
+ORD-094,Invoice Sent,2024-07-02 05:54:43,Accounts Receivable,49376.53
+ORD-095,Order Created,2024-06-25 00:00:00,Sales Rep,41629.05
+ORD-095,Credit Check,2024-06-28 05:05:15,Finance Team,41629.05
+ORD-095,Goods Issued,2024-06-30 12:53:04,Warehouse,41629.05
+ORD-095,Invoice Sent,2024-07-02 17:34:41,Accounts Receivable,41629.05
+ORD-096,Order Created,2024-02-24 00:00:00,Sales Rep,14396.95
+ORD-096,Credit Check,2024-02-26 17:30:24,Finance Team,14396.95
+ORD-096,Goods Issued,2024-02-29 08:31:33,Warehouse,14396.95
+ORD-096,Invoice Sent,2024-03-03 08:30:44,Accounts Receivable,14396.95
+ORD-097,Order Created,2024-01-23 00:00:00,Sales Rep,49835.21
+ORD-097,Credit Check,2024-01-26 01:05:37,Finance Team,49835.21
+ORD-097,Goods Issued,2024-01-29 12:18:43,Warehouse,49835.21
+ORD-097,Invoice Sent,2024-02-01 18:03:06,Accounts Receivable,49835.21
+ORD-098,Order Created,2024-03-18 00:00:00,Sales Rep,13120.06
+ORD-098,Credit Check,2024-03-19 09:50:31,Finance Team,13120.06
+ORD-098,Goods Issued,2024-03-20 21:54:41,Warehouse,13120.06
+ORD-098,Invoice Sent,2024-03-22 11:05:54,Accounts Receivable,13120.06
+ORD-099,Order Created,2024-04-22 00:00:00,Sales Rep,11154.15
+ORD-099,Credit Check,2024-04-24 12:20:09,Finance Team,11154.15
+ORD-099,Goods Issued,2024-04-25 14:35:13,Warehouse,11154.15
+ORD-099,Invoice Sent,2024-04-27 03:28:59,Accounts Receivable,11154.15
+ORD-100,Order Created,2024-06-10 00:00:00,Sales Rep,2087.05
+ORD-100,Credit Check,2024-06-11 22:51:29,Finance Team,2087.05
+ORD-100,Goods Issued,2024-06-14 14:45:50,Warehouse,2087.05
+ORD-100,Invoice Sent,2024-06-16 05:32:14,Accounts Receivable,2087.05
+ORD-101,Order Created,2024-05-12 00:00:00,Sales Rep,41002.9
+ORD-101,Credit Check,2024-05-13 09:53:32,Finance Team,41002.9
+ORD-101,Goods Issued,2024-05-16 12:18:03,Warehouse,41002.9
+ORD-101,Invoice Sent,2024-05-19 03:04:56,Accounts Receivable,41002.9
+ORD-102,Order Created,2024-05-30 00:00:00,Sales Rep,24522.25
+ORD-102,Credit Check,2024-06-01 12:14:47,Finance Team,24522.25
+ORD-102,Goods Issued,2024-06-03 18:01:17,Warehouse,24522.25
+ORD-102,Invoice Sent,2024-06-06 03:49:02,Accounts Receivable,24522.25
+ORD-103,Order Created,2024-06-14 00:00:00,Sales Rep,11435.24
+ORD-103,Credit Check,2024-06-16 05:37:43,Finance Team,11435.24
+ORD-103,Goods Issued,2024-06-19 04:41:27,Warehouse,11435.24
+ORD-103,Invoice Sent,2024-06-21 09:52:44,Accounts Receivable,11435.24
+ORD-104,Order Created,2024-03-19 00:00:00,Sales Rep,32195.57
+ORD-104,Credit Check,2024-03-21 05:59:54,Finance Team,32195.57
+ORD-104,Goods Issued,2024-03-24 14:52:41,Warehouse,32195.57
+ORD-104,Invoice Sent,2024-03-26 15:44:15,Accounts Receivable,32195.57
+ORD-105,Order Created,2024-03-19 00:00:00,Sales Rep,26185.48
+ORD-105,Credit Check,2024-03-20 19:02:02,Finance Team,26185.48
+ORD-105,Goods Issued,2024-03-23 00:53:39,Warehouse,26185.48
+ORD-105,Invoice Sent,2024-03-25 18:17:15,Accounts Receivable,26185.48
+ORD-106,Order Created,2024-05-11 00:00:00,Sales Rep,47526.51
+ORD-106,Credit Check,2024-05-13 07:15:30,Finance Team,47526.51
+ORD-106,Goods Issued,2024-05-16 12:33:46,Warehouse,47526.51
+ORD-106,Invoice Sent,2024-05-19 13:39:09,Accounts Receivable,47526.51
+ORD-107,Order Created,2024-03-09 00:00:00,Sales Rep,4245.56
+ORD-107,Credit Check,2024-03-11 23:02:29,Finance Team,4245.56
+ORD-107,Goods Issued,2024-03-13 22:41:14,Warehouse,4245.56
+ORD-107,Invoice Sent,2024-03-15 14:28:02,Accounts Receivable,4245.56
+ORD-108,Order Created,2024-04-24 00:00:00,Sales Rep,32036.64
+ORD-108,Credit Check,2024-04-26 11:44:46,Finance Team,32036.64
+ORD-108,Goods Issued,2024-04-28 19:02:57,Warehouse,32036.64
+ORD-108,Invoice Sent,2024-05-01 09:31:54,Accounts Receivable,32036.64
+ORD-109,Order Created,2024-05-23 00:00:00,Sales Rep,20614.72
+ORD-109,Credit Check,2024-05-25 06:45:43,Finance Team,20614.72
+ORD-109,Goods Issued,2024-05-26 15:29:32,Warehouse,20614.72
+ORD-109,Invoice Sent,2024-05-28 08:05:03,Accounts Receivable,20614.72
+ORD-110,Order Created,2024-06-03 00:00:00,Sales Rep,44942.63
+ORD-110,Credit Check,2024-06-05 19:15:04,Finance Team,44942.63
+ORD-110,Goods Issued,2024-06-07 09:58:37,Warehouse,44942.63
+ORD-110,Invoice Sent,2024-06-09 01:51:10,Accounts Receivable,44942.63
+ORD-111,Order Created,2024-01-05 00:00:00,Sales Rep,3002.56
+ORD-111,Credit Check,2024-01-06 16:33:50,Finance Team,3002.56
+ORD-111,Goods Issued,2024-01-08 09:14:58,Warehouse,3002.56
+ORD-111,Invoice Sent,2024-01-09 10:46:34,Accounts Receivable,3002.56
+ORD-112,Order Created,2024-05-12 00:00:00,Sales Rep,27887.05
+ORD-112,Credit Check,2024-05-13 22:07:02,Finance Team,27887.05
+ORD-112,Goods Issued,2024-05-15 08:01:17,Warehouse,27887.05
+ORD-112,Invoice Sent,2024-05-17 01:30:22,Accounts Receivable,27887.05
+ORD-113,Order Created,2024-02-14 00:00:00,Sales Rep,25667.45
+ORD-113,Credit Check,2024-02-15 15:26:09,Finance Team,25667.45
+ORD-113,Goods Issued,2024-02-16 19:51:57,Warehouse,25667.45
+ORD-113,Invoice Sent,2024-02-18 18:57:39,Accounts Receivable,25667.45
+ORD-114,Order Created,2024-02-25 00:00:00,Sales Rep,34701.45
+ORD-114,Credit Check,2024-02-28 07:07:05,Finance Team,34701.45
+ORD-114,Goods Issued,2024-03-02 16:57:37,Warehouse,34701.45
+ORD-114,Invoice Sent,2024-03-04 01:16:42,Accounts Receivable,34701.45
+ORD-115,Order Created,2024-01-01 00:00:00,Sales Rep,14567.0
+ORD-115,Credit Check,2024-01-02 04:03:24,Finance Team,14567.0
+ORD-115,Goods Issued,2024-01-04 08:43:34,Warehouse,14567.0
+ORD-115,Invoice Sent,2024-01-07 08:03:59,Accounts Receivable,14567.0
+ORD-116,Order Created,2024-02-25 00:00:00,Sales Rep,27292.94
+ORD-116,Credit Check,2024-02-26 23:15:25,Finance Team,27292.94
+ORD-116,Goods Issued,2024-02-29 04:55:59,Warehouse,27292.94
+ORD-116,Invoice Sent,2024-03-01 22:38:28,Accounts Receivable,27292.94
+ORD-117,Order Created,2024-04-18 00:00:00,Sales Rep,23664.2
+ORD-117,Credit Check,2024-04-19 02:59:32,Finance Team,23664.2
+ORD-117,Goods Issued,2024-04-20 10:05:01,Warehouse,23664.2
+ORD-117,Invoice Sent,2024-04-21 16:28:24,Accounts Receivable,23664.2
+ORD-118,Order Created,2024-05-30 00:00:00,Sales Rep,34671.11
+ORD-118,Credit Check,2024-06-01 10:16:21,Finance Team,34671.11
+ORD-118,Goods Issued,2024-06-03 21:43:20,Warehouse,34671.11
+ORD-118,Invoice Sent,2024-06-05 08:41:43,Accounts Receivable,34671.11
+ORD-119,Order Created,2024-04-24 00:00:00,Sales Rep,22923.21
+ORD-119,Credit Check,2024-04-25 11:38:18,Finance Team,22923.21
+ORD-119,Goods Issued,2024-04-27 00:33:44,Warehouse,22923.21
+ORD-119,Invoice Sent,2024-04-28 18:40:18,Accounts Receivable,22923.21
+ORD-120,Order Created,2024-01-17 00:00:00,Sales Rep,1983.49
+ORD-120,Credit Check,2024-01-18 10:08:58,Finance Team,1983.49
+ORD-120,Goods Issued,2024-01-20 01:52:09,Warehouse,1983.49
+ORD-120,Invoice Sent,2024-01-21 07:37:04,Accounts Receivable,1983.49
+ORD-121,Order Created,2024-01-25 00:00:00,Sales Rep,44635.84
+ORD-121,Credit Check,2024-01-27 19:54:58,Finance Team,44635.84
+ORD-121,Goods Issued,2024-01-30 22:10:21,Warehouse,44635.84
+ORD-121,Invoice Sent,2024-02-02 07:40:58,Accounts Receivable,44635.84
+ORD-122,Order Created,2024-04-20 00:00:00,Sales Rep,5259.09
+ORD-122,Credit Check,2024-04-22 11:22:02,Finance Team,5259.09
+ORD-122,Goods Issued,2024-04-24 14:08:20,Warehouse,5259.09
+ORD-122,Invoice Sent,2024-04-26 18:17:34,Accounts Receivable,5259.09
+ORD-123,Order Created,2024-02-11 00:00:00,Sales Rep,28658.47
+ORD-123,Credit Check,2024-02-12 13:37:16,Finance Team,28658.47
+ORD-123,Goods Issued,2024-02-14 07:02:57,Warehouse,28658.47
+ORD-123,Invoice Sent,2024-02-16 14:03:11,Accounts Receivable,28658.47
+ORD-124,Order Created,2024-02-28 00:00:00,Sales Rep,28968.14
+ORD-124,Credit Check,2024-03-01 23:21:09,Finance Team,28968.14
+ORD-124,Goods Issued,2024-03-04 04:25:47,Warehouse,28968.14
+ORD-124,Invoice Sent,2024-03-05 15:49:00,Accounts Receivable,28968.14
+ORD-125,Order Created,2024-03-10 00:00:00,Sales Rep,5987.34
+ORD-125,Credit Check,2024-03-11 11:48:21,Finance Team,5987.34
+ORD-125,Goods Issued,2024-03-12 19:31:07,Warehouse,5987.34
+ORD-125,Invoice Sent,2024-03-14 04:28:26,Accounts Receivable,5987.34
+ORD-126,Order Created,2024-04-04 00:00:00,Sales Rep,14969.66
+ORD-126,Credit Check,2024-04-05 02:40:16,Finance Team,14969.66
+ORD-126,Goods Issued,2024-04-07 19:06:08,Warehouse,14969.66
+ORD-126,Invoice Sent,2024-04-08 21:34:51,Accounts Receivable,14969.66
+ORD-126,Invoice Sent,2024-04-09 22:27:23,Accounts Receivable,14969.66
+ORD-126,Payment Received,2024-04-12 07:54:38,Accounts Receivable,14969.66
+ORD-127,Order Created,2024-01-06 00:00:00,Sales Rep,49865.52
+ORD-127,Credit Check,2024-01-08 03:42:59,Finance Team,49865.52
+ORD-127,Goods Issued,2024-01-11 16:21:28,Warehouse,49865.52
+ORD-127,Invoice Sent,2024-01-14 23:00:40,Accounts Receivable,49865.52
+ORD-127,Invoice Sent,2024-01-17 14:13:50,Accounts Receivable,49865.52
+ORD-127,Payment Received,2024-01-19 09:53:09,Accounts Receivable,49865.52
+ORD-128,Order Created,2024-06-27 00:00:00,Sales Rep,9373.49
+ORD-128,Credit Check,2024-06-29 15:24:04,Finance Team,9373.49
+ORD-128,Goods Issued,2024-07-02 01:53:14,Warehouse,9373.49
+ORD-128,Invoice Sent,2024-07-04 03:34:08,Accounts Receivable,9373.49
+ORD-128,Invoice Sent,2024-07-06 02:26:48,Accounts Receivable,9373.49
+ORD-128,Payment Received,2024-07-08 18:41:55,Accounts Receivable,9373.49
+ORD-129,Order Created,2024-06-02 00:00:00,Sales Rep,11048.8
+ORD-129,Credit Check,2024-06-03 15:32:11,Finance Team,11048.8
+ORD-129,Goods Issued,2024-06-05 11:57:27,Warehouse,11048.8
+ORD-129,Invoice Sent,2024-06-07 12:19:22,Accounts Receivable,11048.8
+ORD-129,Invoice Sent,2024-06-08 23:57:30,Accounts Receivable,11048.8
+ORD-129,Payment Received,2024-06-10 05:28:14,Accounts Receivable,11048.8
+ORD-130,Order Created,2024-03-04 00:00:00,Sales Rep,30920.38
+ORD-130,Credit Check,2024-03-05 09:49:40,Finance Team,30920.38
+ORD-130,Goods Issued,2024-03-07 19:46:46,Warehouse,30920.38
+ORD-130,Invoice Sent,2024-03-11 06:15:48,Accounts Receivable,30920.38
+ORD-130,Invoice Sent,2024-03-12 21:39:15,Accounts Receivable,30920.38
+ORD-130,Payment Received,2024-03-15 12:39:43,Accounts Receivable,30920.38
+ORD-131,Order Created,2024-01-10 00:00:00,Sales Rep,19092.29
+ORD-131,Credit Check,2024-01-12 02:19:58,Finance Team,19092.29
+ORD-131,Goods Issued,2024-01-14 04:40:52,Warehouse,19092.29
+ORD-131,Invoice Sent,2024-01-15 14:21:51,Accounts Receivable,19092.29
+ORD-131,Invoice Sent,2024-01-17 23:13:25,Accounts Receivable,19092.29
+ORD-131,Payment Received,2024-01-19 03:26:28,Accounts Receivable,19092.29
+ORD-132,Order Created,2024-03-13 00:00:00,Sales Rep,7802.41
+ORD-132,Credit Check,2024-03-15 12:29:27,Finance Team,7802.41
+ORD-132,Goods Issued,2024-03-17 17:04:53,Warehouse,7802.41
+ORD-132,Invoice Sent,2024-03-19 15:43:02,Accounts Receivable,7802.41
+ORD-132,Invoice Sent,2024-03-21 11:29:08,Accounts Receivable,7802.41
+ORD-132,Payment Received,2024-03-23 04:13:52,Accounts Receivable,7802.41
+ORD-133,Order Created,2024-03-02 00:00:00,Sales Rep,46546.93
+ORD-133,Credit Check,2024-03-04 23:46:05,Finance Team,46546.93
+ORD-133,Goods Issued,2024-03-07 04:05:55,Warehouse,46546.93
+ORD-133,Invoice Sent,2024-03-10 14:38:09,Accounts Receivable,46546.93
+ORD-133,Invoice Sent,2024-03-13 14:12:02,Accounts Receivable,46546.93
+ORD-133,Payment Received,2024-03-15 06:48:31,Accounts Receivable,46546.93
+ORD-134,Order Created,2024-01-01 00:00:00,Sales Rep,19582.2
+ORD-134,Credit Check,2024-01-03 11:34:25,Finance Team,19582.2
+ORD-134,Goods Issued,2024-01-05 15:08:54,Warehouse,19582.2
+ORD-134,Invoice Sent,2024-01-08 07:33:22,Accounts Receivable,19582.2
+ORD-134,Invoice Sent,2024-01-09 14:15:55,Accounts Receivable,19582.2
+ORD-134,Payment Received,2024-01-12 04:26:17,Accounts Receivable,19582.2
+ORD-135,Order Created,2024-01-30 00:00:00,Sales Rep,10879.74
+ORD-135,Credit Check,2024-02-01 15:36:22,Finance Team,10879.74
+ORD-135,Goods Issued,2024-02-03 00:33:13,Warehouse,10879.74
+ORD-135,Invoice Sent,2024-02-04 11:52:01,Accounts Receivable,10879.74
+ORD-135,Invoice Sent,2024-02-06 18:17:14,Accounts Receivable,10879.74
+ORD-135,Payment Received,2024-02-09 13:51:53,Accounts Receivable,10879.74
+ORD-136,Order Created,2024-02-11 00:00:00,Sales Rep,16493.63
+ORD-136,Credit Check,2024-02-12 18:50:14,Finance Team,16493.63
+ORD-136,Goods Issued,2024-02-15 10:02:02,Warehouse,16493.63
+ORD-136,Invoice Sent,2024-02-17 07:06:45,Accounts Receivable,16493.63
+ORD-136,Invoice Sent,2024-02-19 01:12:21,Accounts Receivable,16493.63
+ORD-136,Payment Received,2024-02-20 23:24:52,Accounts Receivable,16493.63
+ORD-137,Order Created,2024-01-23 00:00:00,Sales Rep,15767.52
+ORD-137,Credit Check,2024-01-24 21:03:35,Finance Team,15767.52
+ORD-137,Goods Issued,2024-01-27 00:46:44,Warehouse,15767.52
+ORD-137,Invoice Sent,2024-01-28 17:50:11,Accounts Receivable,15767.52
+ORD-137,Invoice Sent,2024-01-30 12:37:39,Accounts Receivable,15767.52
+ORD-137,Payment Received,2024-02-01 14:09:24,Accounts Receivable,15767.52
+ORD-138,Order Created,2024-04-13 00:00:00,Sales Rep,4264.34
+ORD-138,Credit Check,2024-04-15 05:57:48,Finance Team,4264.34
+ORD-138,Goods Issued,2024-04-16 11:34:28,Warehouse,4264.34
+ORD-138,Invoice Sent,2024-04-19 08:41:11,Accounts Receivable,4264.34
+ORD-138,Invoice Sent,2024-04-21 14:48:59,Accounts Receivable,4264.34
+ORD-138,Payment Received,2024-04-23 06:53:30,Accounts Receivable,4264.34
+ORD-139,Order Created,2024-01-15 00:00:00,Sales Rep,7824.33
+ORD-139,Credit Check,2024-01-17 18:10:27,Finance Team,7824.33
+ORD-139,Goods Issued,2024-01-19 17:57:16,Warehouse,7824.33
+ORD-139,Invoice Sent,2024-01-22 05:32:40,Accounts Receivable,7824.33
+ORD-139,Invoice Sent,2024-01-24 09:03:21,Accounts Receivable,7824.33
+ORD-139,Payment Received,2024-01-27 08:56:42,Accounts Receivable,7824.33
+ORD-140,Order Created,2024-06-03 00:00:00,Sales Rep,37867.75
+ORD-140,Credit Check,2024-06-05 23:39:04,Finance Team,37867.75
+ORD-140,Goods Issued,2024-06-07 06:22:57,Warehouse,37867.75
+ORD-140,Invoice Sent,2024-06-09 20:00:30,Accounts Receivable,37867.75
+ORD-140,Invoice Sent,2024-06-12 08:36:23,Accounts Receivable,37867.75
+ORD-140,Payment Received,2024-06-15 15:54:29,Accounts Receivable,37867.75
+ORD-141,Order Created,2024-02-07 00:00:00,Sales Rep,17762.01
+ORD-141,Credit Check,2024-02-09 01:45:03,Finance Team,17762.01
+ORD-141,Goods Issued,2024-02-10 19:56:04,Warehouse,17762.01
+ORD-141,Invoice Sent,2024-02-12 17:52:13,Accounts Receivable,17762.01
+ORD-141,Invoice Sent,2024-02-14 22:51:37,Accounts Receivable,17762.01
+ORD-141,Payment Received,2024-02-16 22:58:13,Accounts Receivable,17762.01
+ORD-142,Order Created,2024-06-05 00:00:00,Sales Rep,27453.17
+ORD-142,Credit Check,2024-06-06 11:00:14,Finance Team,27453.17
+ORD-142,Goods Issued,2024-06-08 21:40:19,Warehouse,27453.17
+ORD-142,Invoice Sent,2024-06-11 08:14:02,Accounts Receivable,27453.17
+ORD-142,Invoice Sent,2024-06-13 15:00:32,Accounts Receivable,27453.17
+ORD-142,Payment Received,2024-06-16 00:19:06,Accounts Receivable,27453.17
+ORD-143,Order Created,2024-02-12 00:00:00,Sales Rep,27593.5
+ORD-143,Credit Check,2024-02-14 04:45:12,Finance Team,27593.5
+ORD-143,Goods Issued,2024-02-16 20:26:23,Warehouse,27593.5
+ORD-143,Invoice Sent,2024-02-19 18:28:31,Accounts Receivable,27593.5
+ORD-143,Invoice Sent,2024-02-21 10:54:59,Accounts Receivable,27593.5
+ORD-143,Payment Received,2024-02-22 21:49:45,Accounts Receivable,27593.5
+ORD-144,Order Created,2024-03-30 00:00:00,Sales Rep,21756.25
+ORD-144,Credit Check,2024-04-01 21:28:10,Finance Team,21756.25
+ORD-144,Goods Issued,2024-04-03 04:49:49,Warehouse,21756.25
+ORD-144,Invoice Sent,2024-04-05 08:58:10,Accounts Receivable,21756.25
+ORD-144,Invoice Sent,2024-04-07 09:15:07,Accounts Receivable,21756.25
+ORD-144,Payment Received,2024-04-09 14:36:07,Accounts Receivable,21756.25
+ORD-145,Order Created,2024-02-29 00:00:00,Sales Rep,1887.4
+ORD-145,Credit Check,2024-03-02 04:27:43,Finance Team,1887.4
+ORD-145,Goods Issued,2024-03-03 09:22:06,Warehouse,1887.4
+ORD-145,Invoice Sent,2024-03-06 05:28:06,Accounts Receivable,1887.4
+ORD-145,Invoice Sent,2024-03-08 19:23:33,Accounts Receivable,1887.4
+ORD-145,Payment Received,2024-03-09 20:29:51,Accounts Receivable,1887.4
+ORD-146,Order Created,2024-04-01 00:00:00,Sales Rep,32916.99
+ORD-146,Credit Check,2024-04-03 02:22:02,Finance Team,32916.99
+ORD-146,Goods Issued,2024-04-04 11:08:14,Warehouse,32916.99
+ORD-146,Invoice Sent,2024-04-05 20:23:27,Accounts Receivable,32916.99
+ORD-146,Invoice Sent,2024-04-07 01:23:41,Accounts Receivable,32916.99
+ORD-146,Payment Received,2024-04-10 06:36:15,Accounts Receivable,32916.99
+ORD-147,Order Created,2024-01-01 00:00:00,Sales Rep,45623.62
+ORD-147,Credit Check,2024-01-02 11:19:21,Finance Team,45623.62
+ORD-147,Goods Issued,2024-01-06 00:50:57,Warehouse,45623.62
+ORD-147,Invoice Sent,2024-01-09 05:58:11,Accounts Receivable,45623.62
+ORD-147,Invoice Sent,2024-01-10 11:57:13,Accounts Receivable,45623.62
+ORD-147,Payment Received,2024-01-13 21:47:39,Accounts Receivable,45623.62
+ORD-148,Order Created,2024-02-24 00:00:00,Sales Rep,43624.92
+ORD-148,Credit Check,2024-02-25 17:53:52,Finance Team,43624.92
+ORD-148,Goods Issued,2024-02-28 09:42:45,Warehouse,43624.92
+ORD-148,Invoice Sent,2024-03-01 12:21:38,Accounts Receivable,43624.92
+ORD-148,Invoice Sent,2024-03-04 00:05:04,Accounts Receivable,43624.92
+ORD-148,Payment Received,2024-03-05 16:43:33,Accounts Receivable,43624.92
+ORD-149,Order Created,2024-06-02 00:00:00,Sales Rep,39601.7
+ORD-149,Credit Check,2024-06-04 00:00:34,Finance Team,39601.7
+ORD-149,Goods Issued,2024-06-06 03:44:38,Warehouse,39601.7
+ORD-149,Invoice Sent,2024-06-08 15:29:53,Accounts Receivable,39601.7
+ORD-149,Invoice Sent,2024-06-11 11:39:04,Accounts Receivable,39601.7
+ORD-149,Payment Received,2024-06-13 12:24:02,Accounts Receivable,39601.7
+ORD-150,Order Created,2024-06-10 00:00:00,Sales Rep,18000.71
+ORD-150,Credit Check,2024-06-12 20:05:08,Finance Team,18000.71
+ORD-150,Goods Issued,2024-06-15 00:15:54,Warehouse,18000.71
+ORD-150,Invoice Sent,2024-06-16 01:50:30,Accounts Receivable,18000.71
+ORD-150,Invoice Sent,2024-06-18 21:39:13,Accounts Receivable,18000.71
+ORD-150,Payment Received,2024-06-20 09:34:06,Accounts Receivable,18000.71
+ORD-151,Order Created,2024-06-28 00:00:00,Sales Rep,29303.97
+ORD-151,Credit Check,2024-06-29 20:06:30,Finance Team,29303.97
+ORD-151,Goods Issued,2024-07-02 16:01:15,Warehouse,29303.97
+ORD-151,Invoice Sent,2024-07-04 09:24:57,Accounts Receivable,29303.97
+ORD-151,Payment Received,2024-07-06 13:17:03,Accounts Receivable,29303.97
+ORD-152,Order Created,2024-06-04 00:00:00,Sales Rep,31980.95
+ORD-152,Credit Check,2024-06-05 17:03:01,Finance Team,31980.95
+ORD-152,Goods Issued,2024-06-08 03:31:27,Warehouse,31980.95
+ORD-152,Invoice Sent,2024-06-11 16:30:56,Accounts Receivable,31980.95
+ORD-152,Payment Received,2024-06-13 23:45:12,Accounts Receivable,31980.95
+ORD-153,Order Created,2024-03-26 00:00:00,Sales Rep,28307.96
+ORD-153,Credit Check,2024-03-27 04:05:48,Finance Team,28307.96
+ORD-153,Goods Issued,2024-03-30 03:56:48,Warehouse,28307.96
+ORD-153,Invoice Sent,2024-04-01 04:03:07,Accounts Receivable,28307.96
+ORD-153,Payment Received,2024-04-03 08:37:50,Accounts Receivable,28307.96
+ORD-154,Order Created,2024-06-27 00:00:00,Sales Rep,4286.75
+ORD-154,Credit Check,2024-06-28 10:04:31,Finance Team,4286.75
+ORD-154,Goods Issued,2024-07-01 05:10:55,Warehouse,4286.75
+ORD-154,Invoice Sent,2024-07-02 15:01:43,Accounts Receivable,4286.75
+ORD-154,Payment Received,2024-07-04 00:10:54,Accounts Receivable,4286.75
+ORD-155,Order Created,2024-01-30 00:00:00,Sales Rep,2790.93
+ORD-155,Credit Check,2024-02-01 16:09:18,Finance Team,2790.93
+ORD-155,Goods Issued,2024-02-03 20:21:10,Warehouse,2790.93
+ORD-155,Invoice Sent,2024-02-05 10:28:01,Accounts Receivable,2790.93
+ORD-155,Payment Received,2024-02-07 20:44:30,Accounts Receivable,2790.93
+ORD-156,Order Created,2024-04-22 00:00:00,Sales Rep,26854.74
+ORD-156,Credit Check,2024-04-23 19:14:11,Finance Team,26854.74
+ORD-156,Goods Issued,2024-04-25 22:05:57,Warehouse,26854.74
+ORD-156,Invoice Sent,2024-04-27 05:33:03,Accounts Receivable,26854.74
+ORD-156,Payment Received,2024-04-28 14:17:00,Accounts Receivable,26854.74
+ORD-157,Order Created,2024-04-12 00:00:00,Sales Rep,43227.5
+ORD-157,Credit Check,2024-04-15 00:11:13,Finance Team,43227.5
+ORD-157,Goods Issued,2024-04-16 20:40:17,Warehouse,43227.5
+ORD-157,Invoice Sent,2024-04-20 05:09:48,Accounts Receivable,43227.5
+ORD-157,Payment Received,2024-04-22 16:17:40,Accounts Receivable,43227.5
+ORD-158,Order Created,2024-02-24 00:00:00,Sales Rep,40236.74
+ORD-158,Credit Check,2024-02-25 13:47:39,Finance Team,40236.74
+ORD-158,Goods Issued,2024-02-28 11:50:03,Warehouse,40236.74
+ORD-158,Invoice Sent,2024-03-02 06:35:18,Accounts Receivable,40236.74
+ORD-158,Payment Received,2024-03-03 12:56:56,Accounts Receivable,40236.74
+ORD-159,Order Created,2024-03-12 00:00:00,Sales Rep,11876.64
+ORD-159,Credit Check,2024-03-13 04:59:49,Finance Team,11876.64
+ORD-159,Goods Issued,2024-03-15 19:23:35,Warehouse,11876.64
+ORD-159,Invoice Sent,2024-03-17 03:57:47,Accounts Receivable,11876.64
+ORD-159,Payment Received,2024-03-19 11:17:42,Accounts Receivable,11876.64
+ORD-160,Order Created,2024-06-10 00:00:00,Sales Rep,12670.96
+ORD-160,Credit Check,2024-06-12 14:39:18,Finance Team,12670.96
+ORD-160,Goods Issued,2024-06-15 14:06:50,Warehouse,12670.96
+ORD-160,Invoice Sent,2024-06-17 19:04:03,Accounts Receivable,12670.96
+ORD-160,Payment Received,2024-06-20 09:47:46,Accounts Receivable,12670.96
+ORD-161,Order Created,2024-06-13 00:00:00,Sales Rep,48169.82
+ORD-161,Credit Check,2024-06-14 12:55:34,Finance Team,48169.82
+ORD-161,Goods Issued,2024-06-16 17:08:04,Warehouse,48169.82
+ORD-161,Invoice Sent,2024-06-18 16:35:46,Accounts Receivable,48169.82
+ORD-161,Payment Received,2024-06-20 02:24:11,Accounts Receivable,48169.82
+ORD-162,Order Created,2024-06-09 00:00:00,Sales Rep,32028.8
+ORD-162,Credit Check,2024-06-10 16:46:27,Finance Team,32028.8
+ORD-162,Goods Issued,2024-06-11 23:06:09,Warehouse,32028.8
+ORD-162,Invoice Sent,2024-06-13 14:21:11,Accounts Receivable,32028.8
+ORD-162,Payment Received,2024-06-16 04:44:10,Accounts Receivable,32028.8
+ORD-163,Order Created,2024-01-02 00:00:00,Sales Rep,21649.8
+ORD-163,Credit Check,2024-01-04 19:42:35,Finance Team,21649.8
+ORD-163,Goods Issued,2024-01-07 01:41:54,Warehouse,21649.8
+ORD-163,Invoice Sent,2024-01-08 17:49:12,Accounts Receivable,21649.8
+ORD-163,Payment Received,2024-01-11 09:25:30,Accounts Receivable,21649.8
+ORD-164,Order Created,2024-04-28 00:00:00,Sales Rep,18789.9
+ORD-164,Credit Check,2024-04-29 12:52:01,Finance Team,18789.9
+ORD-164,Goods Issued,2024-05-01 18:49:34,Warehouse,18789.9
+ORD-164,Invoice Sent,2024-05-03 14:28:40,Accounts Receivable,18789.9
+ORD-164,Payment Received,2024-05-05 16:58:34,Accounts Receivable,18789.9
+ORD-165,Order Created,2024-06-20 00:00:00,Sales Rep,22370.2
+ORD-165,Credit Check,2024-06-21 10:32:11,Finance Team,22370.2
+ORD-165,Goods Issued,2024-06-24 09:18:53,Warehouse,22370.2
+ORD-165,Invoice Sent,2024-06-26 22:44:35,Accounts Receivable,22370.2
+ORD-165,Payment Received,2024-06-28 04:13:35,Accounts Receivable,22370.2
+ORD-166,Order Created,2024-02-28 00:00:00,Sales Rep,28723.05
+ORD-166,Credit Check,2024-03-01 18:56:18,Finance Team,28723.05
+ORD-166,Goods Issued,2024-03-04 09:19:53,Warehouse,28723.05
+ORD-166,Invoice Sent,2024-03-06 05:44:30,Accounts Receivable,28723.05
+ORD-166,Payment Received,2024-03-07 06:49:13,Accounts Receivable,28723.05
+ORD-167,Order Created,2024-02-09 00:00:00,Sales Rep,14165.19
+ORD-167,Credit Check,2024-02-11 09:32:40,Finance Team,14165.19
+ORD-167,Goods Issued,2024-02-13 04:52:01,Warehouse,14165.19
+ORD-167,Invoice Sent,2024-02-14 15:19:55,Accounts Receivable,14165.19
+ORD-167,Payment Received,2024-02-16 22:17:40,Accounts Receivable,14165.19
+ORD-168,Order Created,2024-06-02 00:00:00,Sales Rep,21663.49
+ORD-168,Credit Check,2024-06-04 01:13:59,Finance Team,21663.49
+ORD-168,Goods Issued,2024-06-05 09:28:25,Warehouse,21663.49
+ORD-168,Invoice Sent,2024-06-06 22:32:40,Accounts Receivable,21663.49
+ORD-168,Payment Received,2024-06-07 23:25:38,Accounts Receivable,21663.49
+ORD-169,Order Created,2024-03-25 00:00:00,Sales Rep,45800.64
+ORD-169,Credit Check,2024-03-28 03:44:49,Finance Team,45800.64
+ORD-169,Goods Issued,2024-03-30 13:14:13,Warehouse,45800.64
+ORD-169,Invoice Sent,2024-03-31 21:54:23,Accounts Receivable,45800.64
+ORD-169,Payment Received,2024-04-03 02:02:55,Accounts Receivable,45800.64
+ORD-170,Order Created,2024-03-16 00:00:00,Sales Rep,25375.78
+ORD-170,Credit Check,2024-03-17 09:54:29,Finance Team,25375.78
+ORD-170,Goods Issued,2024-03-18 10:26:09,Warehouse,25375.78
+ORD-170,Invoice Sent,2024-03-19 17:00:23,Accounts Receivable,25375.78
+ORD-170,Payment Received,2024-03-22 12:12:26,Accounts Receivable,25375.78
+ORD-171,Order Created,2024-06-16 00:00:00,Sales Rep,43820.61
+ORD-171,Credit Check,2024-06-17 19:14:31,Finance Team,43820.61
+ORD-171,Goods Issued,2024-06-20 12:30:30,Warehouse,43820.61
+ORD-171,Invoice Sent,2024-06-22 21:46:43,Accounts Receivable,43820.61
+ORD-171,Payment Received,2024-06-25 11:36:01,Accounts Receivable,43820.61
+ORD-172,Order Created,2024-05-01 00:00:00,Sales Rep,42067.24
+ORD-172,Credit Check,2024-05-03 05:06:33,Finance Team,42067.24
+ORD-172,Goods Issued,2024-05-05 06:17:32,Warehouse,42067.24
+ORD-172,Invoice Sent,2024-05-08 18:18:33,Accounts Receivable,42067.24
+ORD-172,Payment Received,2024-05-10 09:43:44,Accounts Receivable,42067.24
+ORD-173,Order Created,2024-04-24 00:00:00,Sales Rep,5426.51
+ORD-173,Credit Check,2024-04-25 11:46:36,Finance Team,5426.51
+ORD-173,Goods Issued,2024-04-27 06:27:46,Warehouse,5426.51
+ORD-173,Invoice Sent,2024-04-28 20:19:12,Accounts Receivable,5426.51
+ORD-173,Payment Received,2024-04-30 13:23:33,Accounts Receivable,5426.51
+ORD-174,Order Created,2024-02-08 00:00:00,Sales Rep,36233.25
+ORD-174,Credit Check,2024-02-10 15:57:33,Finance Team,36233.25
+ORD-174,Goods Issued,2024-02-14 03:26:21,Warehouse,36233.25
+ORD-174,Invoice Sent,2024-02-16 07:05:10,Accounts Receivable,36233.25
+ORD-174,Payment Received,2024-02-19 18:50:30,Accounts Receivable,36233.25
+ORD-175,Order Created,2024-02-25 00:00:00,Sales Rep,7615.06
+ORD-175,Credit Check,2024-02-26 10:19:01,Finance Team,7615.06
+ORD-175,Goods Issued,2024-02-27 11:48:50,Warehouse,7615.06
+ORD-175,Invoice Sent,2024-02-29 00:24:09,Accounts Receivable,7615.06
+ORD-175,Payment Received,2024-03-02 04:57:58,Accounts Receivable,7615.06
+ORD-176,Order Created,2024-04-18 00:00:00,Sales Rep,3519.86
+ORD-176,Credit Check,2024-04-19 07:25:27,Finance Team,3519.86
+ORD-176,Goods Issued,2024-04-21 13:20:39,Warehouse,3519.86
+ORD-176,Invoice Sent,2024-04-23 12:06:27,Accounts Receivable,3519.86
+ORD-176,Payment Received,2024-04-25 04:38:16,Accounts Receivable,3519.86
+ORD-177,Order Created,2024-05-08 00:00:00,Sales Rep,18225.47
+ORD-177,Credit Check,2024-05-09 23:47:00,Finance Team,18225.47
+ORD-177,Goods Issued,2024-05-12 08:49:36,Warehouse,18225.47
+ORD-177,Invoice Sent,2024-05-14 05:41:54,Accounts Receivable,18225.47
+ORD-177,Payment Received,2024-05-15 17:31:33,Accounts Receivable,18225.47
+ORD-178,Order Created,2024-04-17 00:00:00,Sales Rep,41136.01
+ORD-178,Credit Check,2024-04-19 20:48:52,Finance Team,41136.01
+ORD-178,Goods Issued,2024-04-21 17:17:24,Warehouse,41136.01
+ORD-178,Invoice Sent,2024-04-24 08:05:14,Accounts Receivable,41136.01
+ORD-178,Payment Received,2024-04-26 09:40:46,Accounts Receivable,41136.01
+ORD-179,Order Created,2024-02-18 00:00:00,Sales Rep,5487.52
+ORD-179,Credit Check,2024-02-19 06:34:02,Finance Team,5487.52
+ORD-179,Goods Issued,2024-02-22 04:10:43,Warehouse,5487.52
+ORD-179,Invoice Sent,2024-02-24 01:35:13,Accounts Receivable,5487.52
+ORD-179,Payment Received,2024-02-25 10:28:24,Accounts Receivable,5487.52
+ORD-180,Order Created,2024-03-23 00:00:00,Sales Rep,27553.15
+ORD-180,Credit Check,2024-03-25 11:08:48,Finance Team,27553.15
+ORD-180,Goods Issued,2024-03-28 01:51:42,Warehouse,27553.15
+ORD-180,Invoice Sent,2024-03-30 09:28:59,Accounts Receivable,27553.15
+ORD-180,Payment Received,2024-04-01 18:42:45,Accounts Receivable,27553.15
+ORD-181,Order Created,2024-01-25 00:00:00,Sales Rep,42610.59
+ORD-181,Credit Check,2024-01-28 08:50:01,Finance Team,42610.59
+ORD-181,Goods Issued,2024-01-31 02:52:53,Warehouse,42610.59
+ORD-181,Invoice Sent,2024-02-02 23:36:30,Accounts Receivable,42610.59
+ORD-181,Payment Received,2024-02-04 07:22:49,Accounts Receivable,42610.59
+ORD-182,Order Created,2024-02-01 00:00:00,Sales Rep,33825.96
+ORD-182,Credit Check,2024-02-03 21:26:28,Finance Team,33825.96
+ORD-182,Goods Issued,2024-02-07 07:32:07,Warehouse,33825.96
+ORD-182,Invoice Sent,2024-02-08 22:44:11,Accounts Receivable,33825.96
+ORD-182,Payment Received,2024-02-11 12:15:00,Accounts Receivable,33825.96
+ORD-183,Order Created,2024-01-14 00:00:00,Sales Rep,45858.93
+ORD-183,Credit Check,2024-01-15 11:44:31,Finance Team,45858.93
+ORD-183,Goods Issued,2024-01-18 10:38:56,Warehouse,45858.93
+ORD-183,Invoice Sent,2024-01-20 02:32:33,Accounts Receivable,45858.93
+ORD-183,Payment Received,2024-01-21 13:58:58,Accounts Receivable,45858.93
+ORD-184,Order Created,2024-03-22 00:00:00,Sales Rep,21666.37
+ORD-184,Credit Check,2024-03-24 11:45:47,Finance Team,21666.37
+ORD-184,Goods Issued,2024-03-25 14:23:50,Warehouse,21666.37
+ORD-184,Invoice Sent,2024-03-27 12:14:39,Accounts Receivable,21666.37
+ORD-184,Payment Received,2024-03-29 13:19:16,Accounts Receivable,21666.37
+ORD-185,Order Created,2024-01-14 00:00:00,Sales Rep,32582.79
+ORD-185,Credit Check,2024-01-16 15:08:42,Finance Team,32582.79
+ORD-185,Goods Issued,2024-01-18 09:11:37,Warehouse,32582.79
+ORD-185,Invoice Sent,2024-01-19 20:56:17,Accounts Receivable,32582.79
+ORD-185,Payment Received,2024-01-21 06:10:14,Accounts Receivable,32582.79
+ORD-186,Order Created,2024-06-16 00:00:00,Sales Rep,35118.15
+ORD-186,Credit Check,2024-06-18 06:12:12,Finance Team,35118.15
+ORD-186,Goods Issued,2024-06-20 10:18:06,Warehouse,35118.15
+ORD-186,Invoice Sent,2024-06-23 00:04:25,Accounts Receivable,35118.15
+ORD-186,Payment Received,2024-06-26 03:10:57,Accounts Receivable,35118.15
+ORD-187,Order Created,2024-06-01 00:00:00,Sales Rep,27381.67
+ORD-187,Credit Check,2024-06-03 11:25:01,Finance Team,27381.67
+ORD-187,Goods Issued,2024-06-05 12:23:06,Warehouse,27381.67
+ORD-187,Invoice Sent,2024-06-07 08:52:20,Accounts Receivable,27381.67
+ORD-187,Payment Received,2024-06-10 02:57:08,Accounts Receivable,27381.67
+ORD-188,Order Created,2024-06-18 00:00:00,Sales Rep,21457.8
+ORD-188,Credit Check,2024-06-20 23:32:10,Finance Team,21457.8
+ORD-188,Goods Issued,2024-06-21 23:32:52,Warehouse,21457.8
+ORD-188,Invoice Sent,2024-06-23 08:27:01,Accounts Receivable,21457.8
+ORD-188,Payment Received,2024-06-25 02:52:50,Accounts Receivable,21457.8
+ORD-189,Order Created,2024-05-02 00:00:00,Sales Rep,46696.91
+ORD-189,Credit Check,2024-05-05 14:16:51,Finance Team,46696.91
+ORD-189,Goods Issued,2024-05-07 15:16:55,Warehouse,46696.91
+ORD-189,Invoice Sent,2024-05-10 16:16:19,Accounts Receivable,46696.91
+ORD-189,Payment Received,2024-05-12 20:13:23,Accounts Receivable,46696.91
+ORD-190,Order Created,2024-01-16 00:00:00,Sales Rep,24513.91
+ORD-190,Credit Check,2024-01-18 17:56:11,Finance Team,24513.91
+ORD-190,Goods Issued,2024-01-21 17:10:21,Warehouse,24513.91
+ORD-190,Invoice Sent,2024-01-24 06:02:58,Accounts Receivable,24513.91
+ORD-190,Payment Received,2024-01-26 02:06:08,Accounts Receivable,24513.91
+ORD-191,Order Created,2024-05-12 00:00:00,Sales Rep,21646.49
+ORD-191,Credit Check,2024-05-14 11:08:56,Finance Team,21646.49
+ORD-191,Goods Issued,2024-05-15 11:18:34,Warehouse,21646.49
+ORD-191,Invoice Sent,2024-05-17 09:44:26,Accounts Receivable,21646.49
+ORD-191,Payment Received,2024-05-18 23:59:48,Accounts Receivable,21646.49
+ORD-192,Order Created,2024-05-25 00:00:00,Sales Rep,42788.27
+ORD-192,Credit Check,2024-05-26 18:15:20,Finance Team,42788.27
+ORD-192,Goods Issued,2024-05-28 01:28:49,Warehouse,42788.27
+ORD-192,Invoice Sent,2024-05-29 07:18:35,Accounts Receivable,42788.27
+ORD-192,Payment Received,2024-06-01 21:00:09,Accounts Receivable,42788.27
+ORD-193,Order Created,2024-02-18 00:00:00,Sales Rep,21960.88
+ORD-193,Credit Check,2024-02-19 18:47:53,Finance Team,21960.88
+ORD-193,Goods Issued,2024-02-21 00:46:16,Warehouse,21960.88
+ORD-193,Invoice Sent,2024-02-23 22:40:45,Accounts Receivable,21960.88
+ORD-193,Payment Received,2024-02-26 12:58:57,Accounts Receivable,21960.88
+ORD-194,Order Created,2024-05-03 00:00:00,Sales Rep,13690.15
+ORD-194,Credit Check,2024-05-04 20:02:37,Finance Team,13690.15
+ORD-194,Goods Issued,2024-05-07 14:14:29,Warehouse,13690.15
+ORD-194,Invoice Sent,2024-05-10 11:35:19,Accounts Receivable,13690.15
+ORD-194,Payment Received,2024-05-12 10:01:26,Accounts Receivable,13690.15
+ORD-195,Order Created,2024-06-01 00:00:00,Sales Rep,31057.16
+ORD-195,Credit Check,2024-06-03 23:37:01,Finance Team,31057.16
+ORD-195,Goods Issued,2024-06-05 08:09:37,Warehouse,31057.16
+ORD-195,Invoice Sent,2024-06-07 12:05:28,Accounts Receivable,31057.16
+ORD-195,Payment Received,2024-06-10 17:09:00,Accounts Receivable,31057.16
+ORD-196,Order Created,2024-04-19 00:00:00,Sales Rep,12297.89
+ORD-196,Credit Check,2024-04-20 11:04:19,Finance Team,12297.89
+ORD-196,Goods Issued,2024-04-21 19:32:43,Warehouse,12297.89
+ORD-196,Invoice Sent,2024-04-23 06:07:43,Accounts Receivable,12297.89
+ORD-196,Payment Received,2024-04-24 15:04:40,Accounts Receivable,12297.89
+ORD-197,Order Created,2024-01-06 00:00:00,Sales Rep,39199.64
+ORD-197,Credit Check,2024-01-09 02:55:27,Finance Team,39199.64
+ORD-197,Goods Issued,2024-01-11 19:59:58,Warehouse,39199.64
+ORD-197,Invoice Sent,2024-01-13 13:15:35,Accounts Receivable,39199.64
+ORD-197,Payment Received,2024-01-15 23:54:41,Accounts Receivable,39199.64
+ORD-198,Order Created,2024-03-01 00:00:00,Sales Rep,30266.43
+ORD-198,Credit Check,2024-03-02 19:47:21,Finance Team,30266.43
+ORD-198,Goods Issued,2024-03-05 06:16:03,Warehouse,30266.43
+ORD-198,Invoice Sent,2024-03-07 15:21:36,Accounts Receivable,30266.43
+ORD-198,Payment Received,2024-03-11 05:32:56,Accounts Receivable,30266.43
+ORD-199,Order Created,2024-01-13 00:00:00,Sales Rep,44974.37
+ORD-199,Credit Check,2024-01-14 17:41:30,Finance Team,44974.37
+ORD-199,Goods Issued,2024-01-17 05:25:17,Warehouse,44974.37
+ORD-199,Invoice Sent,2024-01-19 20:22:29,Accounts Receivable,44974.37
+ORD-199,Payment Received,2024-01-22 10:35:16,Accounts Receivable,44974.37
+ORD-200,Order Created,2024-04-14 00:00:00,Sales Rep,5482.86
+ORD-200,Credit Check,2024-04-15 18:46:34,Finance Team,5482.86
+ORD-200,Goods Issued,2024-04-17 07:52:41,Warehouse,5482.86
+ORD-200,Invoice Sent,2024-04-19 06:45:31,Accounts Receivable,5482.86
+ORD-200,Payment Received,2024-04-20 08:53:19,Accounts Receivable,5482.86
+ORD-201,Order Created,2024-06-18 00:00:00,Sales Rep,42757.48
+ORD-201,Credit Check,2024-06-21 03:25:41,Finance Team,42757.48
+ORD-201,Goods Issued,2024-06-23 21:58:12,Warehouse,42757.48
+ORD-201,Invoice Sent,2024-06-26 10:29:58,Accounts Receivable,42757.48
+ORD-201,Payment Received,2024-06-27 20:18:35,Accounts Receivable,42757.48
+ORD-202,Order Created,2024-02-07 00:00:00,Sales Rep,21014.21
+ORD-202,Credit Check,2024-02-08 12:28:05,Finance Team,21014.21
+ORD-202,Goods Issued,2024-02-10 23:11:32,Warehouse,21014.21
+ORD-202,Invoice Sent,2024-02-12 22:59:39,Accounts Receivable,21014.21
+ORD-202,Payment Received,2024-02-14 02:53:04,Accounts Receivable,21014.21
+ORD-203,Order Created,2024-01-28 00:00:00,Sales Rep,11788.98
+ORD-203,Credit Check,2024-01-29 03:39:15,Finance Team,11788.98
+ORD-203,Goods Issued,2024-01-31 20:30:43,Warehouse,11788.98
+ORD-203,Invoice Sent,2024-02-02 20:16:45,Accounts Receivable,11788.98
+ORD-203,Payment Received,2024-02-04 19:20:50,Accounts Receivable,11788.98
+ORD-204,Order Created,2024-03-07 00:00:00,Sales Rep,30027.98
+ORD-204,Credit Check,2024-03-09 00:50:01,Finance Team,30027.98
+ORD-204,Goods Issued,2024-03-11 20:41:15,Warehouse,30027.98
+ORD-204,Invoice Sent,2024-03-14 10:04:25,Accounts Receivable,30027.98
+ORD-204,Payment Received,2024-03-16 06:15:16,Accounts Receivable,30027.98
+ORD-205,Order Created,2024-05-26 00:00:00,Sales Rep,44052.87
+ORD-205,Credit Check,2024-05-29 06:48:21,Finance Team,44052.87
+ORD-205,Goods Issued,2024-05-31 01:44:04,Warehouse,44052.87
+ORD-205,Invoice Sent,2024-06-01 15:35:50,Accounts Receivable,44052.87
+ORD-205,Payment Received,2024-06-03 05:38:10,Accounts Receivable,44052.87
+ORD-206,Order Created,2024-02-14 00:00:00,Sales Rep,17366.44
+ORD-206,Credit Check,2024-02-16 09:28:43,Finance Team,17366.44
+ORD-206,Goods Issued,2024-02-18 18:07:31,Warehouse,17366.44
+ORD-206,Invoice Sent,2024-02-20 23:49:07,Accounts Receivable,17366.44
+ORD-206,Payment Received,2024-02-23 11:56:56,Accounts Receivable,17366.44
+ORD-207,Order Created,2024-02-14 00:00:00,Sales Rep,8771.65
+ORD-207,Credit Check,2024-02-16 17:50:54,Finance Team,8771.65
+ORD-207,Goods Issued,2024-02-17 19:15:08,Warehouse,8771.65
+ORD-207,Invoice Sent,2024-02-20 10:53:29,Accounts Receivable,8771.65
+ORD-207,Payment Received,2024-02-21 17:04:38,Accounts Receivable,8771.65
+ORD-208,Order Created,2024-06-06 00:00:00,Sales Rep,17420.82
+ORD-208,Credit Check,2024-06-08 19:37:03,Finance Team,17420.82
+ORD-208,Goods Issued,2024-06-09 19:40:17,Warehouse,17420.82
+ORD-208,Invoice Sent,2024-06-11 22:22:05,Accounts Receivable,17420.82
+ORD-208,Payment Received,2024-06-14 10:41:12,Accounts Receivable,17420.82
+ORD-209,Order Created,2024-01-13 00:00:00,Sales Rep,13675.73
+ORD-209,Credit Check,2024-01-15 05:36:44,Finance Team,13675.73
+ORD-209,Goods Issued,2024-01-18 04:42:33,Warehouse,13675.73
+ORD-209,Invoice Sent,2024-01-20 11:02:11,Accounts Receivable,13675.73
+ORD-209,Payment Received,2024-01-21 23:30:25,Accounts Receivable,13675.73
+ORD-210,Order Created,2024-03-28 00:00:00,Sales Rep,32066.28
+ORD-210,Credit Check,2024-03-31 03:57:21,Finance Team,32066.28
+ORD-210,Goods Issued,2024-04-01 16:09:16,Warehouse,32066.28
+ORD-210,Invoice Sent,2024-04-03 13:16:30,Accounts Receivable,32066.28
+ORD-210,Payment Received,2024-04-04 19:08:11,Accounts Receivable,32066.28
+ORD-211,Order Created,2024-03-03 00:00:00,Sales Rep,22179.8
+ORD-211,Credit Check,2024-03-04 18:49:23,Finance Team,22179.8
+ORD-211,Goods Issued,2024-03-06 03:26:20,Warehouse,22179.8
+ORD-211,Invoice Sent,2024-03-08 15:37:00,Accounts Receivable,22179.8
+ORD-211,Payment Received,2024-03-11 05:28:45,Accounts Receivable,22179.8
+ORD-212,Order Created,2024-03-08 00:00:00,Sales Rep,9513.92
+ORD-212,Credit Check,2024-03-09 14:26:46,Finance Team,9513.92
+ORD-212,Goods Issued,2024-03-12 00:26:18,Warehouse,9513.92
+ORD-212,Invoice Sent,2024-03-13 03:40:16,Accounts Receivable,9513.92
+ORD-212,Payment Received,2024-03-15 07:36:55,Accounts Receivable,9513.92
+ORD-213,Order Created,2024-04-29 00:00:00,Sales Rep,17948.27
+ORD-213,Credit Check,2024-04-30 02:11:44,Finance Team,17948.27
+ORD-213,Goods Issued,2024-05-02 20:01:45,Warehouse,17948.27
+ORD-213,Invoice Sent,2024-05-05 18:45:24,Accounts Receivable,17948.27
+ORD-213,Payment Received,2024-05-08 17:15:46,Accounts Receivable,17948.27
+ORD-214,Order Created,2024-06-28 00:00:00,Sales Rep,37732.94
+ORD-214,Credit Check,2024-07-01 00:28:33,Finance Team,37732.94
+ORD-214,Goods Issued,2024-07-02 06:41:31,Warehouse,37732.94
+ORD-214,Invoice Sent,2024-07-03 12:45:59,Accounts Receivable,37732.94
+ORD-214,Payment Received,2024-07-05 12:12:23,Accounts Receivable,37732.94
+ORD-215,Order Created,2024-06-27 00:00:00,Sales Rep,24943.52
+ORD-215,Credit Check,2024-06-28 12:07:13,Finance Team,24943.52
+ORD-215,Goods Issued,2024-06-29 12:10:11,Warehouse,24943.52
+ORD-215,Invoice Sent,2024-06-30 19:47:55,Accounts Receivable,24943.52
+ORD-215,Payment Received,2024-07-02 18:17:19,Accounts Receivable,24943.52
+ORD-216,Order Created,2024-04-08 00:00:00,Sales Rep,47270.88
+ORD-216,Credit Check,2024-04-10 06:47:59,Finance Team,47270.88
+ORD-216,Goods Issued,2024-04-11 21:01:28,Warehouse,47270.88
+ORD-216,Invoice Sent,2024-04-14 23:36:20,Accounts Receivable,47270.88
+ORD-216,Payment Received,2024-04-17 20:21:42,Accounts Receivable,47270.88
+ORD-217,Order Created,2024-05-09 00:00:00,Sales Rep,11817.71
+ORD-217,Credit Check,2024-05-11 13:05:43,Finance Team,11817.71
+ORD-217,Goods Issued,2024-05-13 00:08:17,Warehouse,11817.71
+ORD-217,Invoice Sent,2024-05-14 06:26:31,Accounts Receivable,11817.71
+ORD-217,Payment Received,2024-05-17 00:06:31,Accounts Receivable,11817.71
+ORD-218,Order Created,2024-04-01 00:00:00,Sales Rep,48198.6
+ORD-218,Credit Check,2024-04-03 22:55:16,Finance Team,48198.6
+ORD-218,Goods Issued,2024-04-07 08:06:35,Warehouse,48198.6
+ORD-218,Invoice Sent,2024-04-10 14:17:37,Accounts Receivable,48198.6
+ORD-218,Payment Received,2024-04-14 02:39:00,Accounts Receivable,48198.6
+ORD-219,Order Created,2024-05-10 00:00:00,Sales Rep,38244.61
+ORD-219,Credit Check,2024-05-11 22:46:06,Finance Team,38244.61
+ORD-219,Goods Issued,2024-05-13 22:02:35,Warehouse,38244.61
+ORD-219,Invoice Sent,2024-05-16 20:34:11,Accounts Receivable,38244.61
+ORD-219,Payment Received,2024-05-19 20:19:48,Accounts Receivable,38244.61
+ORD-220,Order Created,2024-01-25 00:00:00,Sales Rep,10817.6
+ORD-220,Credit Check,2024-01-27 10:18:58,Finance Team,10817.6
+ORD-220,Goods Issued,2024-01-29 13:19:42,Warehouse,10817.6
+ORD-220,Invoice Sent,2024-01-31 11:57:42,Accounts Receivable,10817.6
+ORD-220,Payment Received,2024-02-02 14:02:13,Accounts Receivable,10817.6
+ORD-221,Order Created,2024-05-24 00:00:00,Sales Rep,8803.04
+ORD-221,Credit Check,2024-05-25 04:22:33,Finance Team,8803.04
+ORD-221,Goods Issued,2024-05-26 11:45:05,Warehouse,8803.04
+ORD-221,Invoice Sent,2024-05-28 09:31:43,Accounts Receivable,8803.04
+ORD-221,Payment Received,2024-05-30 10:59:08,Accounts Receivable,8803.04
+ORD-222,Order Created,2024-04-02 00:00:00,Sales Rep,1875.23
+ORD-222,Credit Check,2024-04-03 06:17:59,Finance Team,1875.23
+ORD-222,Goods Issued,2024-04-04 07:51:39,Warehouse,1875.23
+ORD-222,Invoice Sent,2024-04-07 04:03:42,Accounts Receivable,1875.23
+ORD-222,Payment Received,2024-04-09 09:39:39,Accounts Receivable,1875.23
+ORD-223,Order Created,2024-06-01 00:00:00,Sales Rep,40030.33
+ORD-223,Credit Check,2024-06-02 04:52:15,Finance Team,40030.33
+ORD-223,Goods Issued,2024-06-04 20:08:04,Warehouse,40030.33
+ORD-223,Invoice Sent,2024-06-07 11:54:55,Accounts Receivable,40030.33
+ORD-223,Payment Received,2024-06-09 06:58:25,Accounts Receivable,40030.33
+ORD-224,Order Created,2024-06-24 00:00:00,Sales Rep,28362.22
+ORD-224,Credit Check,2024-06-25 23:35:47,Finance Team,28362.22
+ORD-224,Goods Issued,2024-06-27 02:40:42,Warehouse,28362.22
+ORD-224,Invoice Sent,2024-06-29 06:36:47,Accounts Receivable,28362.22
+ORD-224,Payment Received,2024-06-30 19:31:29,Accounts Receivable,28362.22
+ORD-225,Order Created,2024-05-18 00:00:00,Sales Rep,40080.4
+ORD-225,Credit Check,2024-05-21 13:29:55,Finance Team,40080.4
+ORD-225,Goods Issued,2024-05-23 02:54:52,Warehouse,40080.4
+ORD-225,Invoice Sent,2024-05-25 10:28:31,Accounts Receivable,40080.4
+ORD-225,Payment Received,2024-05-28 06:28:10,Accounts Receivable,40080.4
+ORD-226,Order Created,2024-04-04 00:00:00,Sales Rep,20381.71
+ORD-226,Credit Check,2024-04-06 10:39:02,Finance Team,20381.71
+ORD-226,Goods Issued,2024-04-08 18:11:08,Warehouse,20381.71
+ORD-226,Invoice Sent,2024-04-11 06:31:28,Accounts Receivable,20381.71
+ORD-226,Payment Received,2024-04-14 04:15:06,Accounts Receivable,20381.71
+ORD-227,Order Created,2024-01-11 00:00:00,Sales Rep,45483.11
+ORD-227,Credit Check,2024-01-13 08:28:37,Finance Team,45483.11
+ORD-227,Goods Issued,2024-01-14 19:19:16,Warehouse,45483.11
+ORD-227,Invoice Sent,2024-01-16 14:03:46,Accounts Receivable,45483.11
+ORD-227,Payment Received,2024-01-20 03:41:41,Accounts Receivable,45483.11
+ORD-228,Order Created,2024-03-20 00:00:00,Sales Rep,7982.28
+ORD-228,Credit Check,2024-03-21 23:09:11,Finance Team,7982.28
+ORD-228,Goods Issued,2024-03-23 09:14:59,Warehouse,7982.28
+ORD-228,Invoice Sent,2024-03-25 01:51:31,Accounts Receivable,7982.28
+ORD-228,Payment Received,2024-03-27 15:05:50,Accounts Receivable,7982.28
+ORD-229,Order Created,2024-04-06 00:00:00,Sales Rep,47120.64
+ORD-229,Credit Check,2024-04-08 10:37:12,Finance Team,47120.64
+ORD-229,Goods Issued,2024-04-09 20:28:52,Warehouse,47120.64
+ORD-229,Invoice Sent,2024-04-11 21:28:38,Accounts Receivable,47120.64
+ORD-229,Payment Received,2024-04-13 04:11:23,Accounts Receivable,47120.64
+ORD-230,Order Created,2024-05-29 00:00:00,Sales Rep,4850.35
+ORD-230,Credit Check,2024-05-30 15:27:37,Finance Team,4850.35
+ORD-230,Goods Issued,2024-06-02 14:22:44,Warehouse,4850.35
+ORD-230,Invoice Sent,2024-06-04 00:01:12,Accounts Receivable,4850.35
+ORD-230,Payment Received,2024-06-06 09:17:36,Accounts Receivable,4850.35
+ORD-231,Order Created,2024-04-15 00:00:00,Sales Rep,41250.6
+ORD-231,Credit Check,2024-04-16 14:26:49,Finance Team,41250.6
+ORD-231,Goods Issued,2024-04-18 01:16:12,Warehouse,41250.6
+ORD-231,Invoice Sent,2024-04-20 18:43:42,Accounts Receivable,41250.6
+ORD-231,Payment Received,2024-04-23 16:13:17,Accounts Receivable,41250.6
+ORD-232,Order Created,2024-01-06 00:00:00,Sales Rep,2547.72
+ORD-232,Credit Check,2024-01-08 05:35:49,Finance Team,2547.72
+ORD-232,Goods Issued,2024-01-10 11:01:06,Warehouse,2547.72
+ORD-232,Invoice Sent,2024-01-12 01:21:44,Accounts Receivable,2547.72
+ORD-232,Payment Received,2024-01-14 22:15:07,Accounts Receivable,2547.72
+ORD-233,Order Created,2024-04-01 00:00:00,Sales Rep,47420.17
+ORD-233,Credit Check,2024-04-04 02:58:46,Finance Team,47420.17
+ORD-233,Goods Issued,2024-04-06 03:19:54,Warehouse,47420.17
+ORD-233,Invoice Sent,2024-04-09 07:03:56,Accounts Receivable,47420.17
+ORD-233,Payment Received,2024-04-10 16:28:49,Accounts Receivable,47420.17
+ORD-234,Order Created,2024-05-11 00:00:00,Sales Rep,44846.02
+ORD-234,Credit Check,2024-05-13 15:12:52,Finance Team,44846.02
+ORD-234,Goods Issued,2024-05-16 17:09:48,Warehouse,44846.02
+ORD-234,Invoice Sent,2024-05-19 01:39:48,Accounts Receivable,44846.02
+ORD-234,Payment Received,2024-05-20 08:48:39,Accounts Receivable,44846.02
+ORD-235,Order Created,2024-01-14 00:00:00,Sales Rep,9035.97
+ORD-235,Credit Check,2024-01-15 03:55:05,Finance Team,9035.97
+ORD-235,Goods Issued,2024-01-16 06:48:54,Warehouse,9035.97
+ORD-235,Invoice Sent,2024-01-17 18:40:33,Accounts Receivable,9035.97
+ORD-235,Payment Received,2024-01-19 02:20:03,Accounts Receivable,9035.97
+ORD-236,Order Created,2024-05-01 00:00:00,Sales Rep,43717.39
+ORD-236,Credit Check,2024-05-02 23:45:05,Finance Team,43717.39
+ORD-236,Goods Issued,2024-05-05 07:38:02,Warehouse,43717.39
+ORD-236,Invoice Sent,2024-05-08 07:18:15,Accounts Receivable,43717.39
+ORD-236,Payment Received,2024-05-11 14:19:19,Accounts Receivable,43717.39
+ORD-237,Order Created,2024-02-01 00:00:00,Sales Rep,22249.11
+ORD-237,Credit Check,2024-02-02 23:54:48,Finance Team,22249.11
+ORD-237,Goods Issued,2024-02-05 02:34:15,Warehouse,22249.11
+ORD-237,Invoice Sent,2024-02-07 13:05:33,Accounts Receivable,22249.11
+ORD-237,Payment Received,2024-02-09 00:03:30,Accounts Receivable,22249.11
+ORD-238,Order Created,2024-04-14 00:00:00,Sales Rep,49820.36
+ORD-238,Credit Check,2024-04-16 09:12:45,Finance Team,49820.36
+ORD-238,Goods Issued,2024-04-17 18:42:31,Warehouse,49820.36
+ORD-238,Invoice Sent,2024-04-19 22:44:11,Accounts Receivable,49820.36
+ORD-238,Payment Received,2024-04-21 16:14:27,Accounts Receivable,49820.36
+ORD-239,Order Created,2024-04-06 00:00:00,Sales Rep,21501.59
+ORD-239,Credit Check,2024-04-08 16:20:30,Finance Team,21501.59
+ORD-239,Goods Issued,2024-04-10 00:42:10,Warehouse,21501.59
+ORD-239,Invoice Sent,2024-04-12 22:49:13,Accounts Receivable,21501.59
+ORD-239,Payment Received,2024-04-14 18:47:02,Accounts Receivable,21501.59
+ORD-240,Order Created,2024-02-06 00:00:00,Sales Rep,42466.02
+ORD-240,Credit Check,2024-02-08 00:43:33,Finance Team,42466.02
+ORD-240,Goods Issued,2024-02-10 02:53:51,Warehouse,42466.02
+ORD-240,Invoice Sent,2024-02-13 16:35:10,Accounts Receivable,42466.02
+ORD-240,Payment Received,2024-02-14 23:41:47,Accounts Receivable,42466.02
+ORD-241,Order Created,2024-04-05 00:00:00,Sales Rep,43484.54
+ORD-241,Credit Check,2024-04-07 14:40:19,Finance Team,43484.54
+ORD-241,Goods Issued,2024-04-08 21:09:55,Warehouse,43484.54
+ORD-241,Invoice Sent,2024-04-11 00:44:49,Accounts Receivable,43484.54
+ORD-241,Payment Received,2024-04-13 16:27:48,Accounts Receivable,43484.54
+ORD-242,Order Created,2024-06-12 00:00:00,Sales Rep,30288.45
+ORD-242,Credit Check,2024-06-14 05:05:28,Finance Team,30288.45
+ORD-242,Goods Issued,2024-06-16 01:50:11,Warehouse,30288.45
+ORD-242,Invoice Sent,2024-06-18 16:45:20,Accounts Receivable,30288.45
+ORD-242,Payment Received,2024-06-22 02:06:28,Accounts Receivable,30288.45
+ORD-243,Order Created,2024-01-18 00:00:00,Sales Rep,11322.45
+ORD-243,Credit Check,2024-01-20 06:18:53,Finance Team,11322.45
+ORD-243,Goods Issued,2024-01-22 17:30:15,Warehouse,11322.45
+ORD-243,Invoice Sent,2024-01-23 23:49:10,Accounts Receivable,11322.45
+ORD-243,Payment Received,2024-01-26 10:10:44,Accounts Receivable,11322.45
+ORD-244,Order Created,2024-03-27 00:00:00,Sales Rep,45542.59
+ORD-244,Credit Check,2024-03-29 17:14:03,Finance Team,45542.59
+ORD-244,Goods Issued,2024-03-31 19:30:37,Warehouse,45542.59
+ORD-244,Invoice Sent,2024-04-03 05:50:13,Accounts Receivable,45542.59
+ORD-244,Payment Received,2024-04-05 10:25:39,Accounts Receivable,45542.59
+ORD-245,Order Created,2024-02-10 00:00:00,Sales Rep,4387.51
+ORD-245,Credit Check,2024-02-11 11:52:01,Finance Team,4387.51
+ORD-245,Goods Issued,2024-02-14 05:39:47,Warehouse,4387.51
+ORD-245,Invoice Sent,2024-02-16 03:02:15,Accounts Receivable,4387.51
+ORD-245,Payment Received,2024-02-18 03:44:56,Accounts Receivable,4387.51
+ORD-246,Order Created,2024-05-09 00:00:00,Sales Rep,18602.44
+ORD-246,Credit Check,2024-05-10 04:34:21,Finance Team,18602.44
+ORD-246,Goods Issued,2024-05-12 11:52:28,Warehouse,18602.44
+ORD-246,Invoice Sent,2024-05-14 02:51:27,Accounts Receivable,18602.44
+ORD-246,Payment Received,2024-05-15 22:00:42,Accounts Receivable,18602.44
+ORD-247,Order Created,2024-01-05 00:00:00,Sales Rep,43041.33
+ORD-247,Credit Check,2024-01-06 23:31:51,Finance Team,43041.33
+ORD-247,Goods Issued,2024-01-10 00:52:58,Warehouse,43041.33
+ORD-247,Invoice Sent,2024-01-11 13:13:16,Accounts Receivable,43041.33
+ORD-247,Payment Received,2024-01-15 01:52:58,Accounts Receivable,43041.33
+ORD-248,Order Created,2024-05-18 00:00:00,Sales Rep,23235.69
+ORD-248,Credit Check,2024-05-20 18:25:05,Finance Team,23235.69
+ORD-248,Goods Issued,2024-05-22 15:38:06,Warehouse,23235.69
+ORD-248,Invoice Sent,2024-05-24 07:31:04,Accounts Receivable,23235.69
+ORD-248,Payment Received,2024-05-26 05:03:33,Accounts Receivable,23235.69
+ORD-249,Order Created,2024-04-14 00:00:00,Sales Rep,33800.13
+ORD-249,Credit Check,2024-04-16 05:37:08,Finance Team,33800.13
+ORD-249,Goods Issued,2024-04-18 00:44:42,Warehouse,33800.13
+ORD-249,Invoice Sent,2024-04-20 17:05:33,Accounts Receivable,33800.13
+ORD-249,Payment Received,2024-04-23 14:36:10,Accounts Receivable,33800.13
+ORD-250,Order Created,2024-01-28 00:00:00,Sales Rep,9185.05
+ORD-250,Credit Check,2024-01-29 01:45:36,Finance Team,9185.05
+ORD-250,Goods Issued,2024-01-31 13:06:27,Warehouse,9185.05
+ORD-250,Invoice Sent,2024-02-02 20:58:12,Accounts Receivable,9185.05
+ORD-250,Payment Received,2024-02-04 19:45:08,Accounts Receivable,9185.05
+ORD-251,Order Created,2024-02-13 00:00:00,Sales Rep,42364.35
+ORD-251,Credit Check,2024-02-15 06:30:39,Finance Team,42364.35
+ORD-251,Goods Issued,2024-02-18 13:05:22,Warehouse,42364.35
+ORD-251,Invoice Sent,2024-02-21 02:02:18,Accounts Receivable,42364.35
+ORD-251,Payment Received,2024-02-23 13:56:13,Accounts Receivable,42364.35
+ORD-252,Order Created,2024-03-18 00:00:00,Sales Rep,2675.2
+ORD-252,Credit Check,2024-03-19 02:44:24,Finance Team,2675.2
+ORD-252,Goods Issued,2024-03-21 04:14:10,Warehouse,2675.2
+ORD-252,Invoice Sent,2024-03-24 01:11:36,Accounts Receivable,2675.2
+ORD-252,Payment Received,2024-03-25 03:04:54,Accounts Receivable,2675.2
+ORD-253,Order Created,2024-02-28 00:00:00,Sales Rep,6983.39
+ORD-253,Credit Check,2024-02-29 15:10:31,Finance Team,6983.39
+ORD-253,Goods Issued,2024-03-02 15:31:21,Warehouse,6983.39
+ORD-253,Invoice Sent,2024-03-03 17:31:05,Accounts Receivable,6983.39
+ORD-253,Payment Received,2024-03-05 00:38:19,Accounts Receivable,6983.39
+ORD-254,Order Created,2024-02-12 00:00:00,Sales Rep,49344.88
+ORD-254,Credit Check,2024-02-13 05:48:03,Finance Team,49344.88
+ORD-254,Goods Issued,2024-02-15 05:12:48,Warehouse,49344.88
+ORD-254,Invoice Sent,2024-02-18 18:03:49,Accounts Receivable,49344.88
+ORD-254,Payment Received,2024-02-21 08:16:41,Accounts Receivable,49344.88
+ORD-255,Order Created,2024-06-19 00:00:00,Sales Rep,13457.0
+ORD-255,Credit Check,2024-06-20 23:27:52,Finance Team,13457.0
+ORD-255,Goods Issued,2024-06-23 07:28:26,Warehouse,13457.0
+ORD-255,Invoice Sent,2024-06-24 14:10:38,Accounts Receivable,13457.0
+ORD-255,Payment Received,2024-06-25 15:36:58,Accounts Receivable,13457.0
+ORD-256,Order Created,2024-03-20 00:00:00,Sales Rep,16088.57
+ORD-256,Credit Check,2024-03-22 21:06:40,Finance Team,16088.57
+ORD-256,Goods Issued,2024-03-25 08:17:25,Warehouse,16088.57
+ORD-256,Invoice Sent,2024-03-26 16:05:05,Accounts Receivable,16088.57
+ORD-256,Payment Received,2024-03-28 01:07:32,Accounts Receivable,16088.57
+ORD-257,Order Created,2024-06-05 00:00:00,Sales Rep,36810.64
+ORD-257,Credit Check,2024-06-07 06:21:36,Finance Team,36810.64
+ORD-257,Goods Issued,2024-06-10 13:09:54,Warehouse,36810.64
+ORD-257,Invoice Sent,2024-06-12 04:10:07,Accounts Receivable,36810.64
+ORD-257,Payment Received,2024-06-15 00:51:50,Accounts Receivable,36810.64
+ORD-258,Order Created,2024-06-19 00:00:00,Sales Rep,42067.65
+ORD-258,Credit Check,2024-06-21 20:09:18,Finance Team,42067.65
+ORD-258,Goods Issued,2024-06-24 05:35:32,Warehouse,42067.65
+ORD-258,Invoice Sent,2024-06-26 21:58:49,Accounts Receivable,42067.65
+ORD-258,Payment Received,2024-06-30 04:49:45,Accounts Receivable,42067.65
+ORD-259,Order Created,2024-03-16 00:00:00,Sales Rep,28959.88
+ORD-259,Credit Check,2024-03-17 05:25:45,Finance Team,28959.88
+ORD-259,Goods Issued,2024-03-19 19:36:49,Warehouse,28959.88
+ORD-259,Invoice Sent,2024-03-22 15:42:37,Accounts Receivable,28959.88
+ORD-259,Payment Received,2024-03-24 20:32:22,Accounts Receivable,28959.88
+ORD-260,Order Created,2024-05-21 00:00:00,Sales Rep,47102.89
+ORD-260,Credit Check,2024-05-23 03:29:11,Finance Team,47102.89
+ORD-260,Goods Issued,2024-05-25 21:47:51,Warehouse,47102.89
+ORD-260,Invoice Sent,2024-05-27 08:44:14,Accounts Receivable,47102.89
+ORD-260,Payment Received,2024-05-30 03:25:45,Accounts Receivable,47102.89
+ORD-261,Order Created,2024-03-03 00:00:00,Sales Rep,49971.27
+ORD-261,Credit Check,2024-03-06 13:05:06,Finance Team,49971.27
+ORD-261,Goods Issued,2024-03-08 17:19:23,Warehouse,49971.27
+ORD-261,Invoice Sent,2024-03-12 00:16:42,Accounts Receivable,49971.27
+ORD-261,Payment Received,2024-03-15 02:08:38,Accounts Receivable,49971.27
+ORD-262,Order Created,2024-03-08 00:00:00,Sales Rep,28783.8
+ORD-262,Credit Check,2024-03-10 07:13:28,Finance Team,28783.8
+ORD-262,Goods Issued,2024-03-12 19:57:13,Warehouse,28783.8
+ORD-262,Invoice Sent,2024-03-15 16:23:10,Accounts Receivable,28783.8
+ORD-262,Payment Received,2024-03-17 13:25:06,Accounts Receivable,28783.8
+ORD-263,Order Created,2024-05-20 00:00:00,Sales Rep,45167.41
+ORD-263,Credit Check,2024-05-23 02:45:14,Finance Team,45167.41
+ORD-263,Goods Issued,2024-05-25 08:38:37,Warehouse,45167.41
+ORD-263,Invoice Sent,2024-05-28 12:33:03,Accounts Receivable,45167.41
+ORD-263,Payment Received,2024-05-30 00:16:29,Accounts Receivable,45167.41
+ORD-264,Order Created,2024-03-29 00:00:00,Sales Rep,27679.97
+ORD-264,Credit Check,2024-03-30 15:45:44,Finance Team,27679.97
+ORD-264,Goods Issued,2024-04-01 22:00:44,Warehouse,27679.97
+ORD-264,Invoice Sent,2024-04-04 03:17:03,Accounts Receivable,27679.97
+ORD-264,Payment Received,2024-04-06 06:19:45,Accounts Receivable,27679.97
+ORD-265,Order Created,2024-04-02 00:00:00,Sales Rep,19640.57
+ORD-265,Credit Check,2024-04-03 21:32:14,Finance Team,19640.57
+ORD-265,Goods Issued,2024-04-05 08:56:21,Warehouse,19640.57
+ORD-265,Invoice Sent,2024-04-07 02:51:19,Accounts Receivable,19640.57
+ORD-265,Payment Received,2024-04-08 13:45:51,Accounts Receivable,19640.57
+ORD-266,Order Created,2024-04-08 00:00:00,Sales Rep,4586.6
+ORD-266,Credit Check,2024-04-09 08:05:07,Finance Team,4586.6
+ORD-266,Goods Issued,2024-04-11 14:55:44,Warehouse,4586.6
+ORD-266,Invoice Sent,2024-04-14 03:22:39,Accounts Receivable,4586.6
+ORD-266,Payment Received,2024-04-16 03:23:55,Accounts Receivable,4586.6
+ORD-267,Order Created,2024-03-12 00:00:00,Sales Rep,27575.82
+ORD-267,Credit Check,2024-03-14 00:54:57,Finance Team,27575.82
+ORD-267,Goods Issued,2024-03-15 23:54:59,Warehouse,27575.82
+ORD-267,Invoice Sent,2024-03-17 01:08:50,Accounts Receivable,27575.82
+ORD-267,Payment Received,2024-03-18 17:31:38,Accounts Receivable,27575.82
+ORD-268,Order Created,2024-02-17 00:00:00,Sales Rep,19629.59
+ORD-268,Credit Check,2024-02-19 03:50:53,Finance Team,19629.59
+ORD-268,Goods Issued,2024-02-21 05:27:40,Warehouse,19629.59
+ORD-268,Invoice Sent,2024-02-23 10:38:26,Accounts Receivable,19629.59
+ORD-268,Payment Received,2024-02-25 23:21:18,Accounts Receivable,19629.59
+ORD-269,Order Created,2024-04-17 00:00:00,Sales Rep,40836.3
+ORD-269,Credit Check,2024-04-20 11:50:17,Finance Team,40836.3
+ORD-269,Goods Issued,2024-04-21 17:41:18,Warehouse,40836.3
+ORD-269,Invoice Sent,2024-04-23 09:45:54,Accounts Receivable,40836.3
+ORD-269,Payment Received,2024-04-24 15:00:02,Accounts Receivable,40836.3
+ORD-270,Order Created,2024-05-03 00:00:00,Sales Rep,32726.26
+ORD-270,Credit Check,2024-05-06 11:47:18,Finance Team,32726.26
+ORD-270,Goods Issued,2024-05-09 06:17:55,Warehouse,32726.26
+ORD-270,Invoice Sent,2024-05-11 08:59:27,Accounts Receivable,32726.26
+ORD-270,Payment Received,2024-05-13 01:08:49,Accounts Receivable,32726.26
+ORD-271,Order Created,2024-01-19 00:00:00,Sales Rep,24479.98
+ORD-271,Credit Check,2024-01-20 04:52:05,Finance Team,24479.98
+ORD-271,Goods Issued,2024-01-22 04:11:24,Warehouse,24479.98
+ORD-271,Invoice Sent,2024-01-23 16:30:55,Accounts Receivable,24479.98
+ORD-271,Payment Received,2024-01-25 06:11:21,Accounts Receivable,24479.98
+ORD-272,Order Created,2024-06-04 00:00:00,Sales Rep,16057.21
+ORD-272,Credit Check,2024-06-06 01:52:47,Finance Team,16057.21
+ORD-272,Goods Issued,2024-06-07 16:49:21,Warehouse,16057.21
+ORD-272,Invoice Sent,2024-06-09 22:07:06,Accounts Receivable,16057.21
+ORD-272,Payment Received,2024-06-12 08:29:37,Accounts Receivable,16057.21
+ORD-273,Order Created,2024-05-11 00:00:00,Sales Rep,14358.58
+ORD-273,Credit Check,2024-05-13 15:30:44,Finance Team,14358.58
+ORD-273,Goods Issued,2024-05-15 16:35:29,Warehouse,14358.58
+ORD-273,Invoice Sent,2024-05-16 22:30:22,Accounts Receivable,14358.58
+ORD-273,Payment Received,2024-05-19 15:45:29,Accounts Receivable,14358.58
+ORD-274,Order Created,2024-06-07 00:00:00,Sales Rep,40189.27
+ORD-274,Credit Check,2024-06-09 21:38:27,Finance Team,40189.27
+ORD-274,Goods Issued,2024-06-11 08:35:49,Warehouse,40189.27
+ORD-274,Invoice Sent,2024-06-13 22:04:27,Accounts Receivable,40189.27
+ORD-274,Payment Received,2024-06-15 17:39:08,Accounts Receivable,40189.27
+ORD-275,Order Created,2024-04-27 00:00:00,Sales Rep,48183.42
+ORD-275,Credit Check,2024-04-30 03:13:30,Finance Team,48183.42
+ORD-275,Goods Issued,2024-05-02 15:43:05,Warehouse,48183.42
+ORD-275,Invoice Sent,2024-05-03 23:01:07,Accounts Receivable,48183.42
+ORD-275,Payment Received,2024-05-06 16:17:17,Accounts Receivable,48183.42
+ORD-276,Order Created,2024-04-28 00:00:00,Sales Rep,47618.76
+ORD-276,Credit Check,2024-04-30 17:32:52,Finance Team,47618.76
+ORD-276,Goods Issued,2024-05-03 04:01:19,Warehouse,47618.76
+ORD-276,Invoice Sent,2024-05-05 19:00:35,Accounts Receivable,47618.76
+ORD-276,Payment Received,2024-05-08 21:31:46,Accounts Receivable,47618.76
+ORD-277,Order Created,2024-05-01 00:00:00,Sales Rep,32683.69
+ORD-277,Credit Check,2024-05-03 01:34:49,Finance Team,32683.69
+ORD-277,Goods Issued,2024-05-06 10:33:35,Warehouse,32683.69
+ORD-277,Invoice Sent,2024-05-09 11:42:31,Accounts Receivable,32683.69
+ORD-277,Payment Received,2024-05-12 00:34:15,Accounts Receivable,32683.69
+ORD-278,Order Created,2024-03-08 00:00:00,Sales Rep,13526.6
+ORD-278,Credit Check,2024-03-09 13:11:26,Finance Team,13526.6
+ORD-278,Goods Issued,2024-03-12 04:40:34,Warehouse,13526.6
+ORD-278,Invoice Sent,2024-03-14 01:00:56,Accounts Receivable,13526.6
+ORD-278,Payment Received,2024-03-16 09:03:28,Accounts Receivable,13526.6
+ORD-279,Order Created,2024-06-12 00:00:00,Sales Rep,5681.23
+ORD-279,Credit Check,2024-06-13 07:11:08,Finance Team,5681.23
+ORD-279,Goods Issued,2024-06-15 03:32:06,Warehouse,5681.23
+ORD-279,Invoice Sent,2024-06-16 10:52:42,Accounts Receivable,5681.23
+ORD-279,Payment Received,2024-06-17 22:10:10,Accounts Receivable,5681.23
+ORD-280,Order Created,2024-06-09 00:00:00,Sales Rep,43593.72
+ORD-280,Credit Check,2024-06-10 17:17:03,Finance Team,43593.72
+ORD-280,Goods Issued,2024-06-12 03:35:50,Warehouse,43593.72
+ORD-280,Invoice Sent,2024-06-13 09:45:32,Accounts Receivable,43593.72
+ORD-280,Payment Received,2024-06-16 03:32:11,Accounts Receivable,43593.72
+ORD-281,Order Created,2024-06-08 00:00:00,Sales Rep,30747.61
+ORD-281,Credit Check,2024-06-10 17:32:47,Finance Team,30747.61
+ORD-281,Goods Issued,2024-06-12 13:08:34,Warehouse,30747.61
+ORD-281,Invoice Sent,2024-06-15 06:20:49,Accounts Receivable,30747.61
+ORD-281,Payment Received,2024-06-16 14:30:50,Accounts Receivable,30747.61
+ORD-282,Order Created,2024-03-04 00:00:00,Sales Rep,7946.95
+ORD-282,Credit Check,2024-03-05 06:32:56,Finance Team,7946.95
+ORD-282,Goods Issued,2024-03-07 15:54:57,Warehouse,7946.95
+ORD-282,Invoice Sent,2024-03-09 11:19:24,Accounts Receivable,7946.95
+ORD-282,Payment Received,2024-03-11 07:52:36,Accounts Receivable,7946.95
+ORD-283,Order Created,2024-01-24 00:00:00,Sales Rep,36162.29
+ORD-283,Credit Check,2024-01-25 12:11:43,Finance Team,36162.29
+ORD-283,Goods Issued,2024-01-26 22:59:32,Warehouse,36162.29
+ORD-283,Invoice Sent,2024-01-29 21:30:50,Accounts Receivable,36162.29
+ORD-283,Payment Received,2024-02-01 11:37:45,Accounts Receivable,36162.29
+ORD-284,Order Created,2024-02-05 00:00:00,Sales Rep,14433.87
+ORD-284,Credit Check,2024-02-06 04:06:41,Finance Team,14433.87
+ORD-284,Goods Issued,2024-02-08 23:01:57,Warehouse,14433.87
+ORD-284,Invoice Sent,2024-02-10 08:14:32,Accounts Receivable,14433.87
+ORD-284,Payment Received,2024-02-11 23:45:51,Accounts Receivable,14433.87
+ORD-285,Order Created,2024-06-17 00:00:00,Sales Rep,12106.16
+ORD-285,Credit Check,2024-06-19 05:37:24,Finance Team,12106.16
+ORD-285,Goods Issued,2024-06-21 02:51:32,Warehouse,12106.16
+ORD-285,Invoice Sent,2024-06-23 18:47:18,Accounts Receivable,12106.16
+ORD-285,Payment Received,2024-06-26 02:55:46,Accounts Receivable,12106.16
+ORD-286,Order Created,2024-06-08 00:00:00,Sales Rep,4426.65
+ORD-286,Credit Check,2024-06-10 01:55:14,Finance Team,4426.65
+ORD-286,Goods Issued,2024-06-12 20:09:51,Warehouse,4426.65
+ORD-286,Invoice Sent,2024-06-15 03:24:23,Accounts Receivable,4426.65
+ORD-286,Payment Received,2024-06-17 04:59:18,Accounts Receivable,4426.65
+ORD-287,Order Created,2024-01-03 00:00:00,Sales Rep,16892.35
+ORD-287,Credit Check,2024-01-04 09:08:08,Finance Team,16892.35
+ORD-287,Goods Issued,2024-01-05 11:38:52,Warehouse,16892.35
+ORD-287,Invoice Sent,2024-01-07 05:48:53,Accounts Receivable,16892.35
+ORD-287,Payment Received,2024-01-08 23:14:09,Accounts Receivable,16892.35
+ORD-288,Order Created,2024-01-30 00:00:00,Sales Rep,49778.54
+ORD-288,Credit Check,2024-02-01 00:00:48,Finance Team,49778.54
+ORD-288,Goods Issued,2024-02-03 14:14:56,Warehouse,49778.54
+ORD-288,Invoice Sent,2024-02-05 00:09:43,Accounts Receivable,49778.54
+ORD-288,Payment Received,2024-02-08 12:21:14,Accounts Receivable,49778.54
+ORD-289,Order Created,2024-02-16 00:00:00,Sales Rep,32113.04
+ORD-289,Credit Check,2024-02-17 16:22:25,Finance Team,32113.04
+ORD-289,Goods Issued,2024-02-20 04:02:14,Warehouse,32113.04
+ORD-289,Invoice Sent,2024-02-21 14:24:21,Accounts Receivable,32113.04
+ORD-289,Payment Received,2024-02-23 21:08:50,Accounts Receivable,32113.04
+ORD-290,Order Created,2024-05-24 00:00:00,Sales Rep,38052.0
+ORD-290,Credit Check,2024-05-25 22:07:44,Finance Team,38052.0
+ORD-290,Goods Issued,2024-05-29 11:26:54,Warehouse,38052.0
+ORD-290,Invoice Sent,2024-05-31 19:36:06,Accounts Receivable,38052.0
+ORD-290,Payment Received,2024-06-02 22:26:07,Accounts Receivable,38052.0
+ORD-291,Order Created,2024-04-24 00:00:00,Sales Rep,6871.62
+ORD-291,Credit Check,2024-04-25 07:18:57,Finance Team,6871.62
+ORD-291,Goods Issued,2024-04-28 06:57:18,Warehouse,6871.62
+ORD-291,Invoice Sent,2024-05-01 03:27:04,Accounts Receivable,6871.62
+ORD-291,Payment Received,2024-05-03 05:22:08,Accounts Receivable,6871.62
+ORD-292,Order Created,2024-05-28 00:00:00,Sales Rep,42259.63
+ORD-292,Credit Check,2024-05-29 10:09:09,Finance Team,42259.63
+ORD-292,Goods Issued,2024-05-31 05:45:31,Warehouse,42259.63
+ORD-292,Invoice Sent,2024-06-03 07:56:30,Accounts Receivable,42259.63
+ORD-292,Payment Received,2024-06-06 14:32:51,Accounts Receivable,42259.63
+ORD-293,Order Created,2024-02-07 00:00:00,Sales Rep,30815.83
+ORD-293,Credit Check,2024-02-08 13:58:33,Finance Team,30815.83
+ORD-293,Goods Issued,2024-02-09 22:24:39,Warehouse,30815.83
+ORD-293,Invoice Sent,2024-02-11 09:59:15,Accounts Receivable,30815.83
+ORD-293,Payment Received,2024-02-13 03:53:00,Accounts Receivable,30815.83
+ORD-294,Order Created,2024-04-14 00:00:00,Sales Rep,17742.05
+ORD-294,Credit Check,2024-04-15 04:12:24,Finance Team,17742.05
+ORD-294,Goods Issued,2024-04-18 01:10:50,Warehouse,17742.05
+ORD-294,Invoice Sent,2024-04-20 03:45:48,Accounts Receivable,17742.05
+ORD-294,Payment Received,2024-04-21 18:25:42,Accounts Receivable,17742.05
+ORD-295,Order Created,2024-05-30 00:00:00,Sales Rep,20452.09
+ORD-295,Credit Check,2024-06-01 21:14:04,Finance Team,20452.09
+ORD-295,Goods Issued,2024-06-04 15:09:17,Warehouse,20452.09
+ORD-295,Invoice Sent,2024-06-05 22:55:09,Accounts Receivable,20452.09
+ORD-295,Payment Received,2024-06-08 12:39:38,Accounts Receivable,20452.09
+ORD-296,Order Created,2024-02-29 00:00:00,Sales Rep,29154.78
+ORD-296,Credit Check,2024-03-02 16:52:06,Finance Team,29154.78
+ORD-296,Goods Issued,2024-03-04 02:52:36,Warehouse,29154.78
+ORD-296,Invoice Sent,2024-03-06 23:32:43,Accounts Receivable,29154.78
+ORD-296,Payment Received,2024-03-08 05:07:51,Accounts Receivable,29154.78
+ORD-297,Order Created,2024-02-04 00:00:00,Sales Rep,41055.04
+ORD-297,Credit Check,2024-02-06 19:38:23,Finance Team,41055.04
+ORD-297,Goods Issued,2024-02-09 07:06:38,Warehouse,41055.04
+ORD-297,Invoice Sent,2024-02-12 05:27:53,Accounts Receivable,41055.04
+ORD-297,Payment Received,2024-02-13 18:24:08,Accounts Receivable,41055.04
+ORD-298,Order Created,2024-01-14 00:00:00,Sales Rep,11387.14
+ORD-298,Credit Check,2024-01-15 03:53:02,Finance Team,11387.14
+ORD-298,Goods Issued,2024-01-16 23:13:37,Warehouse,11387.14
+ORD-298,Invoice Sent,2024-01-18 07:33:22,Accounts Receivable,11387.14
+ORD-298,Payment Received,2024-01-20 16:54:50,Accounts Receivable,11387.14
+ORD-299,Order Created,2024-01-20 00:00:00,Sales Rep,17958.89
+ORD-299,Credit Check,2024-01-22 03:30:21,Finance Team,17958.89
+ORD-299,Goods Issued,2024-01-25 00:16:37,Warehouse,17958.89
+ORD-299,Invoice Sent,2024-01-27 03:53:05,Accounts Receivable,17958.89
+ORD-299,Payment Received,2024-01-29 02:53:38,Accounts Receivable,17958.89
+ORD-300,Order Created,2024-04-04 00:00:00,Sales Rep,16372.66
+ORD-300,Credit Check,2024-04-05 23:22:44,Finance Team,16372.66
+ORD-300,Goods Issued,2024-04-08 04:28:44,Warehouse,16372.66
+ORD-300,Invoice Sent,2024-04-10 17:11:23,Accounts Receivable,16372.66
+ORD-300,Payment Received,2024-04-12 01:34:56,Accounts Receivable,16372.66
+ORD-301,Order Created,2024-06-17 00:00:00,Sales Rep,25625.74
+ORD-301,Credit Check,2024-06-19 15:36:34,Finance Team,25625.74
+ORD-301,Goods Issued,2024-06-21 23:35:32,Warehouse,25625.74
+ORD-301,Invoice Sent,2024-06-23 05:26:12,Accounts Receivable,25625.74
+ORD-301,Payment Received,2024-06-25 04:23:31,Accounts Receivable,25625.74
+ORD-302,Order Created,2024-03-19 00:00:00,Sales Rep,25799.27
+ORD-302,Credit Check,2024-03-21 22:13:46,Finance Team,25799.27
+ORD-302,Goods Issued,2024-03-24 00:36:24,Warehouse,25799.27
+ORD-302,Invoice Sent,2024-03-26 22:57:59,Accounts Receivable,25799.27
+ORD-302,Payment Received,2024-03-28 19:43:34,Accounts Receivable,25799.27
+ORD-303,Order Created,2024-03-18 00:00:00,Sales Rep,16278.99
+ORD-303,Credit Check,2024-03-20 18:03:10,Finance Team,16278.99
+ORD-303,Goods Issued,2024-03-22 07:23:06,Warehouse,16278.99
+ORD-303,Invoice Sent,2024-03-25 00:15:16,Accounts Receivable,16278.99
+ORD-303,Payment Received,2024-03-26 00:16:14,Accounts Receivable,16278.99
+ORD-304,Order Created,2024-05-09 00:00:00,Sales Rep,1866.7
+ORD-304,Credit Check,2024-05-11 07:12:34,Finance Team,1866.7
+ORD-304,Goods Issued,2024-05-12 14:30:24,Warehouse,1866.7
+ORD-304,Invoice Sent,2024-05-13 17:27:05,Accounts Receivable,1866.7
+ORD-304,Payment Received,2024-05-16 06:55:41,Accounts Receivable,1866.7
+ORD-305,Order Created,2024-05-09 00:00:00,Sales Rep,23530.22
+ORD-305,Credit Check,2024-05-10 23:15:39,Finance Team,23530.22
+ORD-305,Goods Issued,2024-05-13 11:27:54,Warehouse,23530.22
+ORD-305,Invoice Sent,2024-05-15 17:12:03,Accounts Receivable,23530.22
+ORD-305,Payment Received,2024-05-17 07:28:26,Accounts Receivable,23530.22
+ORD-306,Order Created,2024-05-16 00:00:00,Sales Rep,22086.52
+ORD-306,Credit Check,2024-05-17 06:49:40,Finance Team,22086.52
+ORD-306,Goods Issued,2024-05-18 12:39:16,Warehouse,22086.52
+ORD-306,Invoice Sent,2024-05-20 03:12:41,Accounts Receivable,22086.52
+ORD-306,Payment Received,2024-05-21 08:03:42,Accounts Receivable,22086.52
+ORD-307,Order Created,2024-04-06 00:00:00,Sales Rep,34915.91
+ORD-307,Credit Check,2024-04-08 10:08:33,Finance Team,34915.91
+ORD-307,Goods Issued,2024-04-12 00:21:08,Warehouse,34915.91
+ORD-307,Invoice Sent,2024-04-15 04:02:13,Accounts Receivable,34915.91
+ORD-307,Payment Received,2024-04-17 20:16:25,Accounts Receivable,34915.91
+ORD-308,Order Created,2024-02-21 00:00:00,Sales Rep,16006.43
+ORD-308,Credit Check,2024-02-23 07:28:29,Finance Team,16006.43
+ORD-308,Goods Issued,2024-02-26 00:10:46,Warehouse,16006.43
+ORD-308,Invoice Sent,2024-02-28 10:56:48,Accounts Receivable,16006.43
+ORD-308,Payment Received,2024-03-02 00:58:02,Accounts Receivable,16006.43
+ORD-309,Order Created,2024-01-07 00:00:00,Sales Rep,20835.12
+ORD-309,Credit Check,2024-01-09 01:13:27,Finance Team,20835.12
+ORD-309,Goods Issued,2024-01-11 00:20:33,Warehouse,20835.12
+ORD-309,Invoice Sent,2024-01-12 08:49:59,Accounts Receivable,20835.12
+ORD-309,Payment Received,2024-01-14 03:24:47,Accounts Receivable,20835.12
+ORD-310,Order Created,2024-05-09 00:00:00,Sales Rep,48227.29
+ORD-310,Credit Check,2024-05-10 12:30:25,Finance Team,48227.29
+ORD-310,Goods Issued,2024-05-12 17:25:02,Warehouse,48227.29
+ORD-310,Invoice Sent,2024-05-15 19:44:26,Accounts Receivable,48227.29
+ORD-310,Payment Received,2024-05-18 10:04:21,Accounts Receivable,48227.29
+ORD-311,Order Created,2024-04-29 00:00:00,Sales Rep,34367.77
+ORD-311,Credit Check,2024-05-01 11:38:01,Finance Team,34367.77
+ORD-311,Goods Issued,2024-05-03 04:49:46,Warehouse,34367.77
+ORD-311,Invoice Sent,2024-05-04 10:19:39,Accounts Receivable,34367.77
+ORD-311,Payment Received,2024-05-06 05:01:15,Accounts Receivable,34367.77
+ORD-312,Order Created,2024-03-22 00:00:00,Sales Rep,48817.81
+ORD-312,Credit Check,2024-03-23 08:31:18,Finance Team,48817.81
+ORD-312,Goods Issued,2024-03-24 15:46:39,Warehouse,48817.81
+ORD-312,Invoice Sent,2024-03-26 17:58:14,Accounts Receivable,48817.81
+ORD-312,Payment Received,2024-03-28 14:05:01,Accounts Receivable,48817.81
+ORD-313,Order Created,2024-05-28 00:00:00,Sales Rep,32658.42
+ORD-313,Credit Check,2024-05-31 05:26:05,Finance Team,32658.42
+ORD-313,Goods Issued,2024-06-01 15:53:04,Warehouse,32658.42
+ORD-313,Invoice Sent,2024-06-04 00:48:25,Accounts Receivable,32658.42
+ORD-313,Payment Received,2024-06-05 14:15:00,Accounts Receivable,32658.42
+ORD-314,Order Created,2024-03-22 00:00:00,Sales Rep,16909.12
+ORD-314,Credit Check,2024-03-23 22:50:55,Finance Team,16909.12
+ORD-314,Goods Issued,2024-03-25 16:53:29,Warehouse,16909.12
+ORD-314,Invoice Sent,2024-03-27 11:49:34,Accounts Receivable,16909.12
+ORD-314,Payment Received,2024-03-29 09:52:47,Accounts Receivable,16909.12
+ORD-315,Order Created,2024-05-20 00:00:00,Sales Rep,39465.81
+ORD-315,Credit Check,2024-05-21 12:28:08,Finance Team,39465.81
+ORD-315,Goods Issued,2024-05-22 23:09:10,Warehouse,39465.81
+ORD-315,Invoice Sent,2024-05-25 17:53:37,Accounts Receivable,39465.81
+ORD-315,Payment Received,2024-05-29 05:00:02,Accounts Receivable,39465.81
+ORD-316,Order Created,2024-02-17 00:00:00,Sales Rep,40635.29
+ORD-316,Credit Check,2024-02-18 19:28:08,Finance Team,40635.29
+ORD-316,Goods Issued,2024-02-22 00:42:11,Warehouse,40635.29
+ORD-316,Invoice Sent,2024-02-23 07:42:59,Accounts Receivable,40635.29
+ORD-316,Payment Received,2024-02-26 16:27:29,Accounts Receivable,40635.29
+ORD-317,Order Created,2024-02-03 00:00:00,Sales Rep,23612.4
+ORD-317,Credit Check,2024-02-04 18:32:41,Finance Team,23612.4
+ORD-317,Goods Issued,2024-02-06 16:09:02,Warehouse,23612.4
+ORD-317,Invoice Sent,2024-02-08 03:02:42,Accounts Receivable,23612.4
+ORD-317,Payment Received,2024-02-10 21:44:08,Accounts Receivable,23612.4
+ORD-318,Order Created,2024-06-21 00:00:00,Sales Rep,23080.36
+ORD-318,Credit Check,2024-06-22 07:12:29,Finance Team,23080.36
+ORD-318,Goods Issued,2024-06-24 18:36:17,Warehouse,23080.36
+ORD-318,Invoice Sent,2024-06-26 19:11:29,Accounts Receivable,23080.36
+ORD-318,Payment Received,2024-06-29 03:50:33,Accounts Receivable,23080.36
+ORD-319,Order Created,2024-03-27 00:00:00,Sales Rep,3041.97
+ORD-319,Credit Check,2024-03-29 10:23:00,Finance Team,3041.97
+ORD-319,Goods Issued,2024-03-30 13:50:36,Warehouse,3041.97
+ORD-319,Invoice Sent,2024-03-31 17:15:50,Accounts Receivable,3041.97
+ORD-319,Payment Received,2024-04-01 17:50:42,Accounts Receivable,3041.97
+ORD-320,Order Created,2024-01-21 00:00:00,Sales Rep,47868.57
+ORD-320,Credit Check,2024-01-23 03:07:31,Finance Team,47868.57
+ORD-320,Goods Issued,2024-01-25 10:32:01,Warehouse,47868.57
+ORD-320,Invoice Sent,2024-01-29 00:26:56,Accounts Receivable,47868.57
+ORD-320,Payment Received,2024-02-01 13:09:51,Accounts Receivable,47868.57
+ORD-321,Order Created,2024-01-28 00:00:00,Sales Rep,47173.45
+ORD-321,Credit Check,2024-01-30 01:14:19,Finance Team,47173.45
+ORD-321,Goods Issued,2024-02-01 05:46:39,Warehouse,47173.45
+ORD-321,Invoice Sent,2024-02-03 18:14:07,Accounts Receivable,47173.45
+ORD-321,Payment Received,2024-02-06 22:52:27,Accounts Receivable,47173.45
+ORD-322,Order Created,2024-05-17 00:00:00,Sales Rep,4366.93
+ORD-322,Credit Check,2024-05-18 01:00:19,Finance Team,4366.93
+ORD-322,Goods Issued,2024-05-19 04:56:58,Warehouse,4366.93
+ORD-322,Invoice Sent,2024-05-22 03:24:24,Accounts Receivable,4366.93
+ORD-322,Payment Received,2024-05-23 17:35:17,Accounts Receivable,4366.93
+ORD-323,Order Created,2024-06-01 00:00:00,Sales Rep,38691.93
+ORD-323,Credit Check,2024-06-04 13:01:01,Finance Team,38691.93
+ORD-323,Goods Issued,2024-06-07 08:15:23,Warehouse,38691.93
+ORD-323,Invoice Sent,2024-06-08 13:39:25,Accounts Receivable,38691.93
+ORD-323,Payment Received,2024-06-10 09:10:08,Accounts Receivable,38691.93
+ORD-324,Order Created,2024-04-14 00:00:00,Sales Rep,13774.95
+ORD-324,Credit Check,2024-04-16 06:54:26,Finance Team,13774.95
+ORD-324,Goods Issued,2024-04-18 08:21:42,Warehouse,13774.95
+ORD-324,Invoice Sent,2024-04-19 10:22:32,Accounts Receivable,13774.95
+ORD-324,Payment Received,2024-04-22 08:51:46,Accounts Receivable,13774.95
+ORD-325,Order Created,2024-05-19 00:00:00,Sales Rep,40137.0
+ORD-325,Credit Check,2024-05-21 08:07:18,Finance Team,40137.0
+ORD-325,Goods Issued,2024-05-22 19:29:08,Warehouse,40137.0
+ORD-325,Invoice Sent,2024-05-25 04:16:48,Accounts Receivable,40137.0
+ORD-325,Payment Received,2024-05-28 14:05:21,Accounts Receivable,40137.0
+ORD-326,Order Created,2024-02-01 00:00:00,Sales Rep,26517.64
+ORD-326,Credit Check,2024-02-03 07:30:39,Finance Team,26517.64
+ORD-326,Goods Issued,2024-02-04 13:39:34,Warehouse,26517.64
+ORD-326,Invoice Sent,2024-02-06 05:53:47,Accounts Receivable,26517.64
+ORD-326,Payment Received,2024-02-09 02:26:39,Accounts Receivable,26517.64
+ORD-327,Order Created,2024-06-01 00:00:00,Sales Rep,12006.16
+ORD-327,Credit Check,2024-06-02 18:02:51,Finance Team,12006.16
+ORD-327,Goods Issued,2024-06-04 20:27:07,Warehouse,12006.16
+ORD-327,Invoice Sent,2024-06-06 15:06:26,Accounts Receivable,12006.16
+ORD-327,Payment Received,2024-06-07 22:57:51,Accounts Receivable,12006.16
+ORD-328,Order Created,2024-06-20 00:00:00,Sales Rep,14415.77
+ORD-328,Credit Check,2024-06-21 09:28:42,Finance Team,14415.77
+ORD-328,Goods Issued,2024-06-24 04:03:03,Warehouse,14415.77
+ORD-328,Invoice Sent,2024-06-26 11:02:59,Accounts Receivable,14415.77
+ORD-328,Payment Received,2024-06-28 00:46:24,Accounts Receivable,14415.77
+ORD-329,Order Created,2024-04-28 00:00:00,Sales Rep,40981.4
+ORD-329,Credit Check,2024-05-01 07:26:45,Finance Team,40981.4
+ORD-329,Goods Issued,2024-05-03 03:07:53,Warehouse,40981.4
+ORD-329,Invoice Sent,2024-05-05 15:16:00,Accounts Receivable,40981.4
+ORD-329,Payment Received,2024-05-08 08:42:16,Accounts Receivable,40981.4
+ORD-330,Order Created,2024-05-05 00:00:00,Sales Rep,11832.11
+ORD-330,Credit Check,2024-05-07 16:24:57,Finance Team,11832.11
+ORD-330,Goods Issued,2024-05-10 03:23:00,Warehouse,11832.11
+ORD-330,Invoice Sent,2024-05-12 16:39:10,Accounts Receivable,11832.11
+ORD-330,Payment Received,2024-05-15 00:08:55,Accounts Receivable,11832.11
+ORD-331,Order Created,2024-03-26 00:00:00,Sales Rep,9694.01
+ORD-331,Credit Check,2024-03-28 12:09:10,Finance Team,9694.01
+ORD-331,Goods Issued,2024-03-30 01:04:51,Warehouse,9694.01
+ORD-331,Invoice Sent,2024-04-01 02:58:46,Accounts Receivable,9694.01
+ORD-331,Payment Received,2024-04-03 13:55:15,Accounts Receivable,9694.01
+ORD-332,Order Created,2024-06-28 00:00:00,Sales Rep,6289.24
+ORD-332,Credit Check,2024-06-30 15:15:13,Finance Team,6289.24
+ORD-332,Goods Issued,2024-07-02 01:30:08,Warehouse,6289.24
+ORD-332,Invoice Sent,2024-07-04 01:46:59,Accounts Receivable,6289.24
+ORD-332,Payment Received,2024-07-06 18:08:12,Accounts Receivable,6289.24
+ORD-333,Order Created,2024-06-19 00:00:00,Sales Rep,36907.28
+ORD-333,Credit Check,2024-06-22 00:28:17,Finance Team,36907.28
+ORD-333,Goods Issued,2024-06-25 00:05:33,Warehouse,36907.28
+ORD-333,Invoice Sent,2024-06-27 16:08:25,Accounts Receivable,36907.28
+ORD-333,Payment Received,2024-06-29 03:02:31,Accounts Receivable,36907.28
+ORD-334,Order Created,2024-01-30 00:00:00,Sales Rep,8426.9
+ORD-334,Credit Check,2024-02-01 17:55:10,Finance Team,8426.9
+ORD-334,Goods Issued,2024-02-04 00:27:41,Warehouse,8426.9
+ORD-334,Invoice Sent,2024-02-06 12:59:43,Accounts Receivable,8426.9
+ORD-334,Payment Received,2024-02-07 20:40:43,Accounts Receivable,8426.9
+ORD-335,Order Created,2024-05-23 00:00:00,Sales Rep,23616.32
+ORD-335,Credit Check,2024-05-25 14:57:50,Finance Team,23616.32
+ORD-335,Goods Issued,2024-05-28 02:33:58,Warehouse,23616.32
+ORD-335,Invoice Sent,2024-05-30 20:52:33,Accounts Receivable,23616.32
+ORD-335,Payment Received,2024-06-01 10:12:54,Accounts Receivable,23616.32
+ORD-336,Order Created,2024-03-04 00:00:00,Sales Rep,10503.74
+ORD-336,Credit Check,2024-03-06 14:24:12,Finance Team,10503.74
+ORD-336,Goods Issued,2024-03-08 00:11:49,Warehouse,10503.74
+ORD-336,Invoice Sent,2024-03-10 02:50:28,Accounts Receivable,10503.74
+ORD-336,Payment Received,2024-03-12 14:01:43,Accounts Receivable,10503.74
+ORD-337,Order Created,2024-06-03 00:00:00,Sales Rep,31183.29
+ORD-337,Credit Check,2024-06-05 20:25:19,Finance Team,31183.29
+ORD-337,Goods Issued,2024-06-07 22:50:13,Warehouse,31183.29
+ORD-337,Invoice Sent,2024-06-10 10:39:57,Accounts Receivable,31183.29
+ORD-337,Payment Received,2024-06-12 21:39:27,Accounts Receivable,31183.29
+ORD-338,Order Created,2024-02-27 00:00:00,Sales Rep,42554.34
+ORD-338,Credit Check,2024-02-28 06:50:02,Finance Team,42554.34
+ORD-338,Goods Issued,2024-03-02 06:35:17,Warehouse,42554.34
+ORD-338,Invoice Sent,2024-03-03 23:03:03,Accounts Receivable,42554.34
+ORD-338,Payment Received,2024-03-07 11:02:10,Accounts Receivable,42554.34
+ORD-339,Order Created,2024-03-15 00:00:00,Sales Rep,19029.1
+ORD-339,Credit Check,2024-03-17 12:18:02,Finance Team,19029.1
+ORD-339,Goods Issued,2024-03-20 04:42:55,Warehouse,19029.1
+ORD-339,Invoice Sent,2024-03-22 03:17:26,Accounts Receivable,19029.1
+ORD-339,Payment Received,2024-03-24 03:23:20,Accounts Receivable,19029.1
+ORD-340,Order Created,2024-04-20 00:00:00,Sales Rep,7110.99
+ORD-340,Credit Check,2024-04-21 21:31:59,Finance Team,7110.99
+ORD-340,Goods Issued,2024-04-24 08:11:33,Warehouse,7110.99
+ORD-340,Invoice Sent,2024-04-27 02:43:48,Accounts Receivable,7110.99
+ORD-340,Payment Received,2024-04-29 07:11:46,Accounts Receivable,7110.99
+ORD-341,Order Created,2024-02-23 00:00:00,Sales Rep,20184.76
+ORD-341,Credit Check,2024-02-25 09:23:22,Finance Team,20184.76
+ORD-341,Goods Issued,2024-02-26 09:32:38,Warehouse,20184.76
+ORD-341,Invoice Sent,2024-02-28 15:17:03,Accounts Receivable,20184.76
+ORD-341,Payment Received,2024-03-01 08:20:53,Accounts Receivable,20184.76
+ORD-342,Order Created,2024-01-20 00:00:00,Sales Rep,39915.67
+ORD-342,Credit Check,2024-01-22 03:58:26,Finance Team,39915.67
+ORD-342,Goods Issued,2024-01-25 11:07:53,Warehouse,39915.67
+ORD-342,Invoice Sent,2024-01-27 21:18:49,Accounts Receivable,39915.67
+ORD-342,Payment Received,2024-01-30 19:46:55,Accounts Receivable,39915.67
+ORD-343,Order Created,2024-02-24 00:00:00,Sales Rep,6102.73
+ORD-343,Credit Check,2024-02-26 09:44:28,Finance Team,6102.73
+ORD-343,Goods Issued,2024-02-27 12:16:33,Warehouse,6102.73
+ORD-343,Invoice Sent,2024-02-29 11:37:57,Accounts Receivable,6102.73
+ORD-343,Payment Received,2024-03-02 16:24:08,Accounts Receivable,6102.73
+ORD-344,Order Created,2024-02-29 00:00:00,Sales Rep,30505.14
+ORD-344,Credit Check,2024-03-01 23:21:12,Finance Team,30505.14
+ORD-344,Goods Issued,2024-03-04 16:48:55,Warehouse,30505.14
+ORD-344,Invoice Sent,2024-03-06 06:11:51,Accounts Receivable,30505.14
+ORD-344,Payment Received,2024-03-09 03:03:12,Accounts Receivable,30505.14
+ORD-345,Order Created,2024-02-27 00:00:00,Sales Rep,37550.34
+ORD-345,Credit Check,2024-02-29 21:33:44,Finance Team,37550.34
+ORD-345,Goods Issued,2024-03-03 23:47:11,Warehouse,37550.34
+ORD-345,Invoice Sent,2024-03-06 10:22:52,Accounts Receivable,37550.34
+ORD-345,Payment Received,2024-03-08 16:32:12,Accounts Receivable,37550.34
+ORD-346,Order Created,2024-04-22 00:00:00,Sales Rep,8225.17
+ORD-346,Credit Check,2024-04-23 20:49:58,Finance Team,8225.17
+ORD-346,Goods Issued,2024-04-25 01:05:08,Warehouse,8225.17
+ORD-346,Invoice Sent,2024-04-26 11:40:30,Accounts Receivable,8225.17
+ORD-346,Payment Received,2024-04-28 16:23:23,Accounts Receivable,8225.17
+ORD-347,Order Created,2024-02-26 00:00:00,Sales Rep,37047.49
+ORD-347,Credit Check,2024-02-29 10:32:50,Finance Team,37047.49
+ORD-347,Goods Issued,2024-03-03 04:21:32,Warehouse,37047.49
+ORD-347,Invoice Sent,2024-03-05 09:25:22,Accounts Receivable,37047.49
+ORD-347,Payment Received,2024-03-08 02:52:00,Accounts Receivable,37047.49
+ORD-348,Order Created,2024-05-22 00:00:00,Sales Rep,39496.93
+ORD-348,Credit Check,2024-05-24 04:24:37,Finance Team,39496.93
+ORD-348,Goods Issued,2024-05-27 09:34:59,Warehouse,39496.93
+ORD-348,Invoice Sent,2024-05-29 12:29:30,Accounts Receivable,39496.93
+ORD-348,Payment Received,2024-06-01 02:13:54,Accounts Receivable,39496.93
+ORD-349,Order Created,2024-03-01 00:00:00,Sales Rep,29800.7
+ORD-349,Credit Check,2024-03-03 23:01:22,Finance Team,29800.7
+ORD-349,Goods Issued,2024-03-05 06:57:25,Warehouse,29800.7
+ORD-349,Invoice Sent,2024-03-07 16:34:09,Accounts Receivable,29800.7
+ORD-349,Payment Received,2024-03-09 20:41:17,Accounts Receivable,29800.7
+ORD-350,Order Created,2024-03-21 00:00:00,Sales Rep,29737.48
+ORD-350,Credit Check,2024-03-23 20:37:17,Finance Team,29737.48
+ORD-350,Goods Issued,2024-03-26 10:11:07,Warehouse,29737.48
+ORD-350,Invoice Sent,2024-03-27 12:52:48,Accounts Receivable,29737.48
+ORD-350,Payment Received,2024-03-30 05:48:39,Accounts Receivable,29737.48
+ORD-351,Order Created,2024-03-09 00:00:00,Sales Rep,12051.53
+ORD-351,Credit Check,2024-03-11 16:24:46,Finance Team,12051.53
+ORD-351,Goods Issued,2024-03-13 01:20:44,Warehouse,12051.53
+ORD-351,Invoice Sent,2024-03-15 15:52:21,Accounts Receivable,12051.53
+ORD-351,Payment Received,2024-03-17 13:51:55,Accounts Receivable,12051.53
+ORD-352,Order Created,2024-03-10 00:00:00,Sales Rep,24665.47
+ORD-352,Credit Check,2024-03-12 06:17:46,Finance Team,24665.47
+ORD-352,Goods Issued,2024-03-13 08:41:18,Warehouse,24665.47
+ORD-352,Invoice Sent,2024-03-16 04:04:35,Accounts Receivable,24665.47
+ORD-352,Payment Received,2024-03-18 23:43:37,Accounts Receivable,24665.47
+ORD-353,Order Created,2024-04-09 00:00:00,Sales Rep,39230.44
+ORD-353,Credit Check,2024-04-12 00:53:36,Finance Team,39230.44
+ORD-353,Goods Issued,2024-04-13 14:50:47,Warehouse,39230.44
+ORD-353,Invoice Sent,2024-04-16 06:47:44,Accounts Receivable,39230.44
+ORD-353,Payment Received,2024-04-17 19:23:31,Accounts Receivable,39230.44
+ORD-354,Order Created,2024-05-31 00:00:00,Sales Rep,37817.38
+ORD-354,Credit Check,2024-06-02 07:59:26,Finance Team,37817.38
+ORD-354,Goods Issued,2024-06-03 13:33:45,Warehouse,37817.38
+ORD-354,Invoice Sent,2024-06-05 10:38:55,Accounts Receivable,37817.38
+ORD-354,Payment Received,2024-06-06 18:01:02,Accounts Receivable,37817.38
+ORD-355,Order Created,2024-05-14 00:00:00,Sales Rep,2778.09
+ORD-355,Credit Check,2024-05-15 11:51:17,Finance Team,2778.09
+ORD-355,Goods Issued,2024-05-18 07:21:18,Warehouse,2778.09
+ORD-355,Invoice Sent,2024-05-19 19:20:00,Accounts Receivable,2778.09
+ORD-355,Payment Received,2024-05-21 08:23:13,Accounts Receivable,2778.09
+ORD-356,Order Created,2024-04-15 00:00:00,Sales Rep,38210.51
+ORD-356,Credit Check,2024-04-18 05:27:35,Finance Team,38210.51
+ORD-356,Goods Issued,2024-04-20 01:42:16,Warehouse,38210.51
+ORD-356,Invoice Sent,2024-04-21 15:30:44,Accounts Receivable,38210.51
+ORD-356,Payment Received,2024-04-24 21:27:00,Accounts Receivable,38210.51
+ORD-357,Order Created,2024-03-22 00:00:00,Sales Rep,3278.53
+ORD-357,Credit Check,2024-03-24 19:30:32,Finance Team,3278.53
+ORD-357,Goods Issued,2024-03-26 02:11:33,Warehouse,3278.53
+ORD-357,Invoice Sent,2024-03-28 03:44:56,Accounts Receivable,3278.53
+ORD-357,Payment Received,2024-03-29 23:28:53,Accounts Receivable,3278.53
+ORD-358,Order Created,2024-05-06 00:00:00,Sales Rep,18019.82
+ORD-358,Credit Check,2024-05-07 11:21:56,Finance Team,18019.82
+ORD-358,Goods Issued,2024-05-09 22:31:23,Warehouse,18019.82
+ORD-358,Invoice Sent,2024-05-12 00:50:33,Accounts Receivable,18019.82
+ORD-358,Payment Received,2024-05-13 06:59:09,Accounts Receivable,18019.82
+ORD-359,Order Created,2024-05-28 00:00:00,Sales Rep,44224.65
+ORD-359,Credit Check,2024-05-29 07:48:36,Finance Team,44224.65
+ORD-359,Goods Issued,2024-05-31 12:43:57,Warehouse,44224.65
+ORD-359,Invoice Sent,2024-06-02 08:31:03,Accounts Receivable,44224.65
+ORD-359,Payment Received,2024-06-05 07:24:46,Accounts Receivable,44224.65
+ORD-360,Order Created,2024-03-22 00:00:00,Sales Rep,49083.56
+ORD-360,Credit Check,2024-03-23 13:08:59,Finance Team,49083.56
+ORD-360,Goods Issued,2024-03-26 11:43:08,Warehouse,49083.56
+ORD-360,Invoice Sent,2024-03-28 03:31:53,Accounts Receivable,49083.56
+ORD-360,Payment Received,2024-03-30 03:48:55,Accounts Receivable,49083.56
+ORD-361,Order Created,2024-03-25 00:00:00,Sales Rep,16126.24
+ORD-361,Credit Check,2024-03-27 05:12:33,Finance Team,16126.24
+ORD-361,Goods Issued,2024-03-28 21:59:08,Warehouse,16126.24
+ORD-361,Invoice Sent,2024-03-30 03:27:43,Accounts Receivable,16126.24
+ORD-361,Payment Received,2024-03-31 10:43:19,Accounts Receivable,16126.24
+ORD-362,Order Created,2024-03-11 00:00:00,Sales Rep,12040.53
+ORD-362,Credit Check,2024-03-13 08:49:12,Finance Team,12040.53
+ORD-362,Goods Issued,2024-03-15 10:59:06,Warehouse,12040.53
+ORD-362,Invoice Sent,2024-03-18 10:03:00,Accounts Receivable,12040.53
+ORD-362,Payment Received,2024-03-19 20:57:56,Accounts Receivable,12040.53
+ORD-363,Order Created,2024-02-12 00:00:00,Sales Rep,20794.92
+ORD-363,Credit Check,2024-02-13 03:14:53,Finance Team,20794.92
+ORD-363,Goods Issued,2024-02-15 13:13:26,Warehouse,20794.92
+ORD-363,Invoice Sent,2024-02-17 15:18:50,Accounts Receivable,20794.92
+ORD-363,Payment Received,2024-02-18 19:14:12,Accounts Receivable,20794.92
+ORD-364,Order Created,2024-03-05 00:00:00,Sales Rep,23456.73
+ORD-364,Credit Check,2024-03-06 20:34:27,Finance Team,23456.73
+ORD-364,Goods Issued,2024-03-08 03:20:25,Warehouse,23456.73
+ORD-364,Invoice Sent,2024-03-10 11:13:16,Accounts Receivable,23456.73
+ORD-364,Payment Received,2024-03-11 21:35:37,Accounts Receivable,23456.73
+ORD-365,Order Created,2024-05-23 00:00:00,Sales Rep,5780.56
+ORD-365,Credit Check,2024-05-24 19:45:53,Finance Team,5780.56
+ORD-365,Goods Issued,2024-05-27 03:00:41,Warehouse,5780.56
+ORD-365,Invoice Sent,2024-05-29 05:11:31,Accounts Receivable,5780.56
+ORD-365,Payment Received,2024-05-30 08:10:52,Accounts Receivable,5780.56
+ORD-366,Order Created,2024-02-28 00:00:00,Sales Rep,26112.63
+ORD-366,Credit Check,2024-02-29 22:02:36,Finance Team,26112.63
+ORD-366,Goods Issued,2024-03-02 00:32:14,Warehouse,26112.63
+ORD-366,Invoice Sent,2024-03-04 14:16:43,Accounts Receivable,26112.63
+ORD-366,Payment Received,2024-03-05 23:56:39,Accounts Receivable,26112.63
+ORD-367,Order Created,2024-01-20 00:00:00,Sales Rep,13672.42
+ORD-367,Credit Check,2024-01-22 02:09:09,Finance Team,13672.42
+ORD-367,Goods Issued,2024-01-24 14:33:25,Warehouse,13672.42
+ORD-367,Invoice Sent,2024-01-27 02:45:15,Accounts Receivable,13672.42
+ORD-367,Payment Received,2024-01-28 03:36:56,Accounts Receivable,13672.42
+ORD-368,Order Created,2024-03-19 00:00:00,Sales Rep,7186.44
+ORD-368,Credit Check,2024-03-21 18:13:11,Finance Team,7186.44
+ORD-368,Goods Issued,2024-03-24 12:00:27,Warehouse,7186.44
+ORD-368,Invoice Sent,2024-03-25 23:28:11,Accounts Receivable,7186.44
+ORD-368,Payment Received,2024-03-27 21:07:45,Accounts Receivable,7186.44
+ORD-369,Order Created,2024-01-26 00:00:00,Sales Rep,49264.49
+ORD-369,Credit Check,2024-01-28 12:56:22,Finance Team,49264.49
+ORD-369,Goods Issued,2024-01-31 01:33:52,Warehouse,49264.49
+ORD-369,Invoice Sent,2024-02-01 11:47:15,Accounts Receivable,49264.49
+ORD-369,Payment Received,2024-02-03 12:22:57,Accounts Receivable,49264.49
+ORD-370,Order Created,2024-02-11 00:00:00,Sales Rep,14839.11
+ORD-370,Credit Check,2024-02-12 23:53:42,Finance Team,14839.11
+ORD-370,Goods Issued,2024-02-14 04:57:27,Warehouse,14839.11
+ORD-370,Invoice Sent,2024-02-16 12:28:59,Accounts Receivable,14839.11
+ORD-370,Payment Received,2024-02-19 03:56:38,Accounts Receivable,14839.11
+ORD-371,Order Created,2024-05-26 00:00:00,Sales Rep,19640.58
+ORD-371,Credit Check,2024-05-27 21:10:17,Finance Team,19640.58
+ORD-371,Goods Issued,2024-05-29 06:33:38,Warehouse,19640.58
+ORD-371,Invoice Sent,2024-05-30 15:31:24,Accounts Receivable,19640.58
+ORD-371,Payment Received,2024-05-31 20:02:13,Accounts Receivable,19640.58
+ORD-372,Order Created,2024-02-10 00:00:00,Sales Rep,18476.88
+ORD-372,Credit Check,2024-02-12 03:43:28,Finance Team,18476.88
+ORD-372,Goods Issued,2024-02-14 10:11:03,Warehouse,18476.88
+ORD-372,Invoice Sent,2024-02-17 00:29:03,Accounts Receivable,18476.88
+ORD-372,Payment Received,2024-02-18 19:29:27,Accounts Receivable,18476.88
+ORD-373,Order Created,2024-04-13 00:00:00,Sales Rep,45839.41
+ORD-373,Credit Check,2024-04-15 10:45:46,Finance Team,45839.41
+ORD-373,Goods Issued,2024-04-17 17:20:41,Warehouse,45839.41
+ORD-373,Invoice Sent,2024-04-20 06:16:31,Accounts Receivable,45839.41
+ORD-373,Payment Received,2024-04-21 20:38:20,Accounts Receivable,45839.41
+ORD-374,Order Created,2024-04-18 00:00:00,Sales Rep,31060.18
+ORD-374,Credit Check,2024-04-21 08:59:37,Finance Team,31060.18
+ORD-374,Goods Issued,2024-04-23 05:44:36,Warehouse,31060.18
+ORD-374,Invoice Sent,2024-04-26 19:11:39,Accounts Receivable,31060.18
+ORD-374,Payment Received,2024-04-28 08:05:57,Accounts Receivable,31060.18
+ORD-375,Order Created,2024-01-08 00:00:00,Sales Rep,10898.77
+ORD-375,Credit Check,2024-01-10 18:54:41,Finance Team,10898.77
+ORD-375,Goods Issued,2024-01-13 02:19:03,Warehouse,10898.77
+ORD-375,Invoice Sent,2024-01-14 09:37:06,Accounts Receivable,10898.77
+ORD-375,Payment Received,2024-01-16 06:45:14,Accounts Receivable,10898.77
+ORD-376,Order Created,2024-01-19 00:00:00,Sales Rep,31149.6
+ORD-376,Credit Check,2024-01-22 07:37:37,Finance Team,31149.6
+ORD-376,Goods Issued,2024-01-25 10:42:53,Warehouse,31149.6
+ORD-376,Invoice Sent,2024-01-27 20:36:52,Accounts Receivable,31149.6
+ORD-376,Payment Received,2024-01-31 09:07:16,Accounts Receivable,31149.6
+ORD-377,Order Created,2024-04-28 00:00:00,Sales Rep,21470.29
+ORD-377,Credit Check,2024-04-29 05:52:36,Finance Team,21470.29
+ORD-377,Goods Issued,2024-05-01 16:41:08,Warehouse,21470.29
+ORD-377,Invoice Sent,2024-05-03 08:11:24,Accounts Receivable,21470.29
+ORD-377,Payment Received,2024-05-06 08:03:00,Accounts Receivable,21470.29
+ORD-378,Order Created,2024-02-28 00:00:00,Sales Rep,49009.34
+ORD-378,Credit Check,2024-02-29 14:08:40,Finance Team,49009.34
+ORD-378,Goods Issued,2024-03-01 19:40:15,Warehouse,49009.34
+ORD-378,Invoice Sent,2024-03-04 08:42:45,Accounts Receivable,49009.34
+ORD-378,Payment Received,2024-03-06 19:53:27,Accounts Receivable,49009.34
+ORD-379,Order Created,2024-06-10 00:00:00,Sales Rep,36248.33
+ORD-379,Credit Check,2024-06-11 16:52:54,Finance Team,36248.33
+ORD-379,Goods Issued,2024-06-13 19:30:49,Warehouse,36248.33
+ORD-379,Invoice Sent,2024-06-17 08:23:05,Accounts Receivable,36248.33
+ORD-379,Payment Received,2024-06-19 08:35:12,Accounts Receivable,36248.33
+ORD-380,Order Created,2024-06-26 00:00:00,Sales Rep,15528.0
+ORD-380,Credit Check,2024-06-27 05:18:57,Finance Team,15528.0
+ORD-380,Goods Issued,2024-06-29 17:46:33,Warehouse,15528.0
+ORD-380,Invoice Sent,2024-07-02 17:12:10,Accounts Receivable,15528.0
+ORD-380,Payment Received,2024-07-05 12:27:54,Accounts Receivable,15528.0
+ORD-381,Order Created,2024-05-10 00:00:00,Sales Rep,32931.73
+ORD-381,Credit Check,2024-05-13 07:28:39,Finance Team,32931.73
+ORD-381,Goods Issued,2024-05-15 18:32:34,Warehouse,32931.73
+ORD-381,Invoice Sent,2024-05-17 13:25:00,Accounts Receivable,32931.73
+ORD-381,Payment Received,2024-05-19 00:43:20,Accounts Receivable,32931.73
+ORD-382,Order Created,2024-06-09 00:00:00,Sales Rep,5271.79
+ORD-382,Credit Check,2024-06-10 11:30:50,Finance Team,5271.79
+ORD-382,Goods Issued,2024-06-11 18:19:43,Warehouse,5271.79
+ORD-382,Invoice Sent,2024-06-13 11:01:47,Accounts Receivable,5271.79
+ORD-382,Payment Received,2024-06-15 08:38:47,Accounts Receivable,5271.79
+ORD-383,Order Created,2024-01-23 00:00:00,Sales Rep,37692.49
+ORD-383,Credit Check,2024-01-25 16:33:55,Finance Team,37692.49
+ORD-383,Goods Issued,2024-01-27 17:39:44,Warehouse,37692.49
+ORD-383,Invoice Sent,2024-01-30 22:55:46,Accounts Receivable,37692.49
+ORD-383,Payment Received,2024-02-02 06:52:32,Accounts Receivable,37692.49
+ORD-384,Order Created,2024-06-11 00:00:00,Sales Rep,48976.14
+ORD-384,Credit Check,2024-06-12 06:35:32,Finance Team,48976.14
+ORD-384,Goods Issued,2024-06-15 05:58:32,Warehouse,48976.14
+ORD-384,Invoice Sent,2024-06-16 16:54:03,Accounts Receivable,48976.14
+ORD-384,Payment Received,2024-06-18 15:50:25,Accounts Receivable,48976.14
+ORD-385,Order Created,2024-02-16 00:00:00,Sales Rep,1187.04
+ORD-385,Credit Check,2024-02-17 08:23:39,Finance Team,1187.04
+ORD-385,Goods Issued,2024-02-20 01:28:10,Warehouse,1187.04
+ORD-385,Invoice Sent,2024-02-21 12:22:27,Accounts Receivable,1187.04
+ORD-385,Payment Received,2024-02-24 04:33:08,Accounts Receivable,1187.04
+ORD-386,Order Created,2024-03-07 00:00:00,Sales Rep,14684.53
+ORD-386,Credit Check,2024-03-09 09:19:09,Finance Team,14684.53
+ORD-386,Goods Issued,2024-03-11 09:55:35,Warehouse,14684.53
+ORD-386,Invoice Sent,2024-03-13 00:34:53,Accounts Receivable,14684.53
+ORD-386,Payment Received,2024-03-14 10:47:18,Accounts Receivable,14684.53
+ORD-387,Order Created,2024-04-26 00:00:00,Sales Rep,2626.28
+ORD-387,Credit Check,2024-04-27 19:35:55,Finance Team,2626.28
+ORD-387,Goods Issued,2024-04-30 08:02:33,Warehouse,2626.28
+ORD-387,Invoice Sent,2024-05-03 03:24:56,Accounts Receivable,2626.28
+ORD-387,Payment Received,2024-05-04 14:35:18,Accounts Receivable,2626.28
+ORD-388,Order Created,2024-03-17 00:00:00,Sales Rep,40562.41
+ORD-388,Credit Check,2024-03-20 08:34:24,Finance Team,40562.41
+ORD-388,Goods Issued,2024-03-23 02:51:28,Warehouse,40562.41
+ORD-388,Invoice Sent,2024-03-26 10:00:48,Accounts Receivable,40562.41
+ORD-388,Payment Received,2024-03-27 14:49:27,Accounts Receivable,40562.41
+ORD-389,Order Created,2024-04-07 00:00:00,Sales Rep,9284.97
+ORD-389,Credit Check,2024-04-08 21:27:31,Finance Team,9284.97
+ORD-389,Goods Issued,2024-04-10 19:33:21,Warehouse,9284.97
+ORD-389,Invoice Sent,2024-04-13 13:03:17,Accounts Receivable,9284.97
+ORD-389,Payment Received,2024-04-15 15:17:38,Accounts Receivable,9284.97
+ORD-390,Order Created,2024-01-30 00:00:00,Sales Rep,19639.63
+ORD-390,Credit Check,2024-02-01 14:30:46,Finance Team,19639.63
+ORD-390,Goods Issued,2024-02-03 13:30:30,Warehouse,19639.63
+ORD-390,Invoice Sent,2024-02-04 14:22:20,Accounts Receivable,19639.63
+ORD-390,Payment Received,2024-02-06 10:36:06,Accounts Receivable,19639.63
+ORD-391,Order Created,2024-04-11 00:00:00,Sales Rep,2331.58
+ORD-391,Credit Check,2024-04-12 13:26:30,Finance Team,2331.58
+ORD-391,Goods Issued,2024-04-15 06:38:31,Warehouse,2331.58
+ORD-391,Invoice Sent,2024-04-16 20:40:07,Accounts Receivable,2331.58
+ORD-391,Payment Received,2024-04-19 16:23:08,Accounts Receivable,2331.58
+ORD-392,Order Created,2024-01-28 00:00:00,Sales Rep,37944.13
+ORD-392,Credit Check,2024-01-29 05:50:13,Finance Team,37944.13
+ORD-392,Goods Issued,2024-02-01 18:05:42,Warehouse,37944.13
+ORD-392,Invoice Sent,2024-02-04 16:45:04,Accounts Receivable,37944.13
+ORD-392,Payment Received,2024-02-06 15:06:17,Accounts Receivable,37944.13
+ORD-393,Order Created,2024-01-19 00:00:00,Sales Rep,41640.34
+ORD-393,Credit Check,2024-01-22 07:04:14,Finance Team,41640.34
+ORD-393,Goods Issued,2024-01-23 18:21:18,Warehouse,41640.34
+ORD-393,Invoice Sent,2024-01-26 15:41:15,Accounts Receivable,41640.34
+ORD-393,Payment Received,2024-01-29 03:37:54,Accounts Receivable,41640.34
+ORD-394,Order Created,2024-01-30 00:00:00,Sales Rep,5730.19
+ORD-394,Credit Check,2024-01-31 02:12:50,Finance Team,5730.19
+ORD-394,Goods Issued,2024-02-02 05:26:17,Warehouse,5730.19
+ORD-394,Invoice Sent,2024-02-03 19:03:42,Accounts Receivable,5730.19
+ORD-394,Payment Received,2024-02-06 10:38:22,Accounts Receivable,5730.19
+ORD-395,Order Created,2024-03-18 00:00:00,Sales Rep,4637.8
+ORD-395,Credit Check,2024-03-20 11:40:23,Finance Team,4637.8
+ORD-395,Goods Issued,2024-03-21 13:59:02,Warehouse,4637.8
+ORD-395,Invoice Sent,2024-03-24 09:19:23,Accounts Receivable,4637.8
+ORD-395,Payment Received,2024-03-27 02:13:54,Accounts Receivable,4637.8
+ORD-396,Order Created,2024-04-19 00:00:00,Sales Rep,33722.43
+ORD-396,Credit Check,2024-04-21 00:24:26,Finance Team,33722.43
+ORD-396,Goods Issued,2024-04-24 14:10:31,Warehouse,33722.43
+ORD-396,Invoice Sent,2024-04-27 07:02:35,Accounts Receivable,33722.43
+ORD-396,Payment Received,2024-04-29 18:26:49,Accounts Receivable,33722.43
+ORD-397,Order Created,2024-06-24 00:00:00,Sales Rep,42069.46
+ORD-397,Credit Check,2024-06-25 06:47:49,Finance Team,42069.46
+ORD-397,Goods Issued,2024-06-27 21:10:00,Warehouse,42069.46
+ORD-397,Invoice Sent,2024-07-01 11:18:13,Accounts Receivable,42069.46
+ORD-397,Payment Received,2024-07-04 17:23:31,Accounts Receivable,42069.46
+ORD-398,Order Created,2024-03-09 00:00:00,Sales Rep,26550.84
+ORD-398,Credit Check,2024-03-10 12:06:38,Finance Team,26550.84
+ORD-398,Goods Issued,2024-03-11 22:40:53,Warehouse,26550.84
+ORD-398,Invoice Sent,2024-03-13 22:07:24,Accounts Receivable,26550.84
+ORD-398,Payment Received,2024-03-16 09:31:36,Accounts Receivable,26550.84
+ORD-399,Order Created,2024-05-16 00:00:00,Sales Rep,26736.75
+ORD-399,Credit Check,2024-05-18 08:07:17,Finance Team,26736.75
+ORD-399,Goods Issued,2024-05-20 23:55:38,Warehouse,26736.75
+ORD-399,Invoice Sent,2024-05-23 18:07:06,Accounts Receivable,26736.75
+ORD-399,Payment Received,2024-05-25 21:33:48,Accounts Receivable,26736.75
+ORD-400,Order Created,2024-06-23 00:00:00,Sales Rep,26354.87
+ORD-400,Credit Check,2024-06-24 03:56:45,Finance Team,26354.87
+ORD-400,Goods Issued,2024-06-26 23:39:30,Warehouse,26354.87
+ORD-400,Invoice Sent,2024-06-28 21:57:04,Accounts Receivable,26354.87
+ORD-400,Payment Received,2024-06-30 04:33:08,Accounts Receivable,26354.87
+ORD-401,Order Created,2024-02-21 00:00:00,Sales Rep,17699.97
+ORD-401,Credit Check,2024-02-22 21:16:56,Finance Team,17699.97
+ORD-401,Goods Issued,2024-02-25 02:25:21,Warehouse,17699.97
+ORD-401,Invoice Sent,2024-02-27 08:43:31,Accounts Receivable,17699.97
+ORD-401,Payment Received,2024-02-29 13:07:36,Accounts Receivable,17699.97
+ORD-402,Order Created,2024-05-11 00:00:00,Sales Rep,35429.05
+ORD-402,Credit Check,2024-05-13 19:45:43,Finance Team,35429.05
+ORD-402,Goods Issued,2024-05-15 08:08:51,Warehouse,35429.05
+ORD-402,Invoice Sent,2024-05-17 02:26:12,Accounts Receivable,35429.05
+ORD-402,Payment Received,2024-05-20 04:33:12,Accounts Receivable,35429.05
+ORD-403,Order Created,2024-06-10 00:00:00,Sales Rep,48567.54
+ORD-403,Credit Check,2024-06-12 08:02:19,Finance Team,48567.54
+ORD-403,Goods Issued,2024-06-15 21:30:29,Warehouse,48567.54
+ORD-403,Invoice Sent,2024-06-17 17:48:00,Accounts Receivable,48567.54
+ORD-403,Payment Received,2024-06-19 22:02:30,Accounts Receivable,48567.54
+ORD-404,Order Created,2024-05-24 00:00:00,Sales Rep,44682.52
+ORD-404,Credit Check,2024-05-25 07:05:25,Finance Team,44682.52
+ORD-404,Goods Issued,2024-05-27 22:41:06,Warehouse,44682.52
+ORD-404,Invoice Sent,2024-05-31 07:45:00,Accounts Receivable,44682.52
+ORD-404,Payment Received,2024-06-02 02:18:29,Accounts Receivable,44682.52
+ORD-405,Order Created,2024-04-02 00:00:00,Sales Rep,24012.45
+ORD-405,Credit Check,2024-04-03 22:42:09,Finance Team,24012.45
+ORD-405,Goods Issued,2024-04-06 04:35:00,Warehouse,24012.45
+ORD-405,Invoice Sent,2024-04-08 03:07:52,Accounts Receivable,24012.45
+ORD-405,Payment Received,2024-04-10 00:36:35,Accounts Receivable,24012.45
+ORD-406,Order Created,2024-06-25 00:00:00,Sales Rep,24240.13
+ORD-406,Credit Check,2024-06-27 00:47:43,Finance Team,24240.13
+ORD-406,Goods Issued,2024-06-28 01:03:35,Warehouse,24240.13
+ORD-406,Invoice Sent,2024-06-29 01:25:39,Accounts Receivable,24240.13
+ORD-406,Payment Received,2024-06-30 11:56:34,Accounts Receivable,24240.13
+ORD-407,Order Created,2024-05-03 00:00:00,Sales Rep,2799.35
+ORD-407,Credit Check,2024-05-04 13:40:32,Finance Team,2799.35
+ORD-407,Goods Issued,2024-05-06 11:53:32,Warehouse,2799.35
+ORD-407,Invoice Sent,2024-05-08 08:56:32,Accounts Receivable,2799.35
+ORD-407,Payment Received,2024-05-09 19:25:50,Accounts Receivable,2799.35
+ORD-408,Order Created,2024-02-23 00:00:00,Sales Rep,20443.05
+ORD-408,Credit Check,2024-02-25 20:43:27,Finance Team,20443.05
+ORD-408,Goods Issued,2024-02-27 15:46:51,Warehouse,20443.05
+ORD-408,Invoice Sent,2024-02-28 19:57:40,Accounts Receivable,20443.05
+ORD-408,Payment Received,2024-03-02 01:34:49,Accounts Receivable,20443.05
+ORD-409,Order Created,2024-02-20 00:00:00,Sales Rep,6578.08
+ORD-409,Credit Check,2024-02-22 18:14:00,Finance Team,6578.08
+ORD-409,Goods Issued,2024-02-24 21:49:22,Warehouse,6578.08
+ORD-409,Invoice Sent,2024-02-25 23:14:48,Accounts Receivable,6578.08
+ORD-409,Payment Received,2024-02-28 07:40:01,Accounts Receivable,6578.08
+ORD-410,Order Created,2024-05-18 00:00:00,Sales Rep,3197.82
+ORD-410,Credit Check,2024-05-19 06:18:41,Finance Team,3197.82
+ORD-410,Goods Issued,2024-05-20 19:29:54,Warehouse,3197.82
+ORD-410,Invoice Sent,2024-05-22 14:26:17,Accounts Receivable,3197.82
+ORD-410,Payment Received,2024-05-24 10:41:09,Accounts Receivable,3197.82
+ORD-411,Order Created,2024-04-18 00:00:00,Sales Rep,21140.03
+ORD-411,Credit Check,2024-04-20 05:10:46,Finance Team,21140.03
+ORD-411,Goods Issued,2024-04-21 20:01:45,Warehouse,21140.03
+ORD-411,Invoice Sent,2024-04-24 11:34:16,Accounts Receivable,21140.03
+ORD-411,Payment Received,2024-04-27 09:24:51,Accounts Receivable,21140.03
+ORD-412,Order Created,2024-01-08 00:00:00,Sales Rep,41238.72
+ORD-412,Credit Check,2024-01-11 06:30:06,Finance Team,41238.72
+ORD-412,Goods Issued,2024-01-12 11:25:23,Warehouse,41238.72
+ORD-412,Invoice Sent,2024-01-15 09:33:18,Accounts Receivable,41238.72
+ORD-412,Payment Received,2024-01-18 14:08:22,Accounts Receivable,41238.72
+ORD-413,Order Created,2024-03-24 00:00:00,Sales Rep,2987.38
+ORD-413,Credit Check,2024-03-26 08:57:22,Finance Team,2987.38
+ORD-413,Goods Issued,2024-03-27 14:27:06,Warehouse,2987.38
+ORD-413,Invoice Sent,2024-03-29 08:52:33,Accounts Receivable,2987.38
+ORD-413,Payment Received,2024-03-31 06:46:31,Accounts Receivable,2987.38
+ORD-414,Order Created,2024-05-26 00:00:00,Sales Rep,19083.6
+ORD-414,Credit Check,2024-05-28 04:37:24,Finance Team,19083.6
+ORD-414,Goods Issued,2024-05-30 07:00:12,Warehouse,19083.6
+ORD-414,Invoice Sent,2024-06-02 02:13:07,Accounts Receivable,19083.6
+ORD-414,Payment Received,2024-06-03 21:37:20,Accounts Receivable,19083.6
+ORD-415,Order Created,2024-02-10 00:00:00,Sales Rep,16732.97
+ORD-415,Credit Check,2024-02-12 21:12:10,Finance Team,16732.97
+ORD-415,Goods Issued,2024-02-15 05:17:39,Warehouse,16732.97
+ORD-415,Invoice Sent,2024-02-17 13:52:13,Accounts Receivable,16732.97
+ORD-415,Payment Received,2024-02-19 07:14:33,Accounts Receivable,16732.97
+ORD-416,Order Created,2024-01-10 00:00:00,Sales Rep,30089.38
+ORD-416,Credit Check,2024-01-12 09:43:26,Finance Team,30089.38
+ORD-416,Goods Issued,2024-01-13 22:31:22,Warehouse,30089.38
+ORD-416,Invoice Sent,2024-01-15 09:59:22,Accounts Receivable,30089.38
+ORD-416,Payment Received,2024-01-16 23:40:42,Accounts Receivable,30089.38
+ORD-417,Order Created,2024-06-03 00:00:00,Sales Rep,9420.58
+ORD-417,Credit Check,2024-06-05 11:34:01,Finance Team,9420.58
+ORD-417,Goods Issued,2024-06-07 13:00:24,Warehouse,9420.58
+ORD-417,Invoice Sent,2024-06-10 04:47:58,Accounts Receivable,9420.58
+ORD-417,Payment Received,2024-06-13 04:22:48,Accounts Receivable,9420.58
+ORD-418,Order Created,2024-06-17 00:00:00,Sales Rep,41180.62
+ORD-418,Credit Check,2024-06-19 05:06:33,Finance Team,41180.62
+ORD-418,Goods Issued,2024-06-21 02:54:12,Warehouse,41180.62
+ORD-418,Invoice Sent,2024-06-23 11:41:49,Accounts Receivable,41180.62
+ORD-418,Payment Received,2024-06-26 01:44:37,Accounts Receivable,41180.62
+ORD-419,Order Created,2024-03-02 00:00:00,Sales Rep,3143.21
+ORD-419,Credit Check,2024-03-04 02:48:53,Finance Team,3143.21
+ORD-419,Goods Issued,2024-03-05 19:17:12,Warehouse,3143.21
+ORD-419,Invoice Sent,2024-03-08 06:17:13,Accounts Receivable,3143.21
+ORD-419,Payment Received,2024-03-10 13:35:49,Accounts Receivable,3143.21
+ORD-420,Order Created,2024-04-16 00:00:00,Sales Rep,42434.61
+ORD-420,Credit Check,2024-04-18 05:33:50,Finance Team,42434.61
+ORD-420,Goods Issued,2024-04-21 01:07:36,Warehouse,42434.61
+ORD-420,Invoice Sent,2024-04-22 21:47:19,Accounts Receivable,42434.61
+ORD-420,Payment Received,2024-04-24 20:13:57,Accounts Receivable,42434.61
+ORD-421,Order Created,2024-04-17 00:00:00,Sales Rep,39660.27
+ORD-421,Credit Check,2024-04-20 02:47:12,Finance Team,39660.27
+ORD-421,Goods Issued,2024-04-23 06:57:29,Warehouse,39660.27
+ORD-421,Invoice Sent,2024-04-26 13:09:13,Accounts Receivable,39660.27
+ORD-421,Payment Received,2024-04-29 22:45:07,Accounts Receivable,39660.27
+ORD-422,Order Created,2024-04-13 00:00:00,Sales Rep,22118.28
+ORD-422,Credit Check,2024-04-15 18:42:11,Finance Team,22118.28
+ORD-422,Goods Issued,2024-04-16 19:17:38,Warehouse,22118.28
+ORD-422,Invoice Sent,2024-04-18 13:03:24,Accounts Receivable,22118.28
+ORD-422,Payment Received,2024-04-19 14:22:22,Accounts Receivable,22118.28
+ORD-423,Order Created,2024-05-31 00:00:00,Sales Rep,20255.74
+ORD-423,Credit Check,2024-06-01 17:58:42,Finance Team,20255.74
+ORD-423,Goods Issued,2024-06-03 01:59:16,Warehouse,20255.74
+ORD-423,Invoice Sent,2024-06-04 22:39:11,Accounts Receivable,20255.74
+ORD-423,Payment Received,2024-06-06 05:29:51,Accounts Receivable,20255.74
+ORD-424,Order Created,2024-02-16 00:00:00,Sales Rep,44614.75
+ORD-424,Credit Check,2024-02-17 13:41:48,Finance Team,44614.75
+ORD-424,Goods Issued,2024-02-18 19:57:45,Warehouse,44614.75
+ORD-424,Invoice Sent,2024-02-21 13:57:43,Accounts Receivable,44614.75
+ORD-424,Payment Received,2024-02-24 07:26:51,Accounts Receivable,44614.75
+ORD-425,Order Created,2024-05-05 00:00:00,Sales Rep,17689.6
+ORD-425,Credit Check,2024-05-07 04:36:26,Finance Team,17689.6
+ORD-425,Goods Issued,2024-05-08 09:28:04,Warehouse,17689.6
+ORD-425,Invoice Sent,2024-05-11 02:07:50,Accounts Receivable,17689.6
+ORD-425,Payment Received,2024-05-13 03:37:21,Accounts Receivable,17689.6
+ORD-426,Order Created,2024-03-05 00:00:00,Sales Rep,42244.44
+ORD-426,Credit Check,2024-03-06 10:51:46,Finance Team,42244.44
+ORD-426,Goods Issued,2024-03-08 01:18:10,Warehouse,42244.44
+ORD-426,Invoice Sent,2024-03-11 14:05:29,Accounts Receivable,42244.44
+ORD-426,Payment Received,2024-03-13 08:03:08,Accounts Receivable,42244.44
+ORD-427,Order Created,2024-03-07 00:00:00,Sales Rep,48895.15
+ORD-427,Credit Check,2024-03-10 12:19:38,Finance Team,48895.15
+ORD-427,Goods Issued,2024-03-12 15:15:27,Warehouse,48895.15
+ORD-427,Invoice Sent,2024-03-13 22:18:13,Accounts Receivable,48895.15
+ORD-427,Payment Received,2024-03-15 04:53:12,Accounts Receivable,48895.15
+ORD-428,Order Created,2024-02-20 00:00:00,Sales Rep,20011.35
+ORD-428,Credit Check,2024-02-21 01:07:15,Finance Team,20011.35
+ORD-428,Goods Issued,2024-02-23 13:25:08,Warehouse,20011.35
+ORD-428,Invoice Sent,2024-02-25 11:25:41,Accounts Receivable,20011.35
+ORD-428,Payment Received,2024-02-27 01:18:43,Accounts Receivable,20011.35
+ORD-429,Order Created,2024-05-04 00:00:00,Sales Rep,45104.08
+ORD-429,Credit Check,2024-05-06 02:08:05,Finance Team,45104.08
+ORD-429,Goods Issued,2024-05-08 04:31:24,Warehouse,45104.08
+ORD-429,Invoice Sent,2024-05-10 12:37:34,Accounts Receivable,45104.08
+ORD-429,Payment Received,2024-05-12 19:00:29,Accounts Receivable,45104.08
+ORD-430,Order Created,2024-04-22 00:00:00,Sales Rep,49748.04
+ORD-430,Credit Check,2024-04-23 09:52:49,Finance Team,49748.04
+ORD-430,Goods Issued,2024-04-26 01:38:11,Warehouse,49748.04
+ORD-430,Invoice Sent,2024-04-27 15:10:04,Accounts Receivable,49748.04
+ORD-430,Payment Received,2024-04-28 21:44:59,Accounts Receivable,49748.04
+ORD-431,Order Created,2024-01-22 00:00:00,Sales Rep,48566.37
+ORD-431,Credit Check,2024-01-24 11:59:06,Finance Team,48566.37
+ORD-431,Goods Issued,2024-01-26 01:39:49,Warehouse,48566.37
+ORD-431,Invoice Sent,2024-01-28 14:21:27,Accounts Receivable,48566.37
+ORD-431,Payment Received,2024-01-31 02:21:35,Accounts Receivable,48566.37
+ORD-432,Order Created,2024-05-02 00:00:00,Sales Rep,38333.19
+ORD-432,Credit Check,2024-05-05 05:06:01,Finance Team,38333.19
+ORD-432,Goods Issued,2024-05-07 06:25:00,Warehouse,38333.19
+ORD-432,Invoice Sent,2024-05-10 10:50:28,Accounts Receivable,38333.19
+ORD-432,Payment Received,2024-05-13 08:28:49,Accounts Receivable,38333.19
+ORD-433,Order Created,2024-03-25 00:00:00,Sales Rep,9681.38
+ORD-433,Credit Check,2024-03-26 16:26:15,Finance Team,9681.38
+ORD-433,Goods Issued,2024-03-28 05:24:33,Warehouse,9681.38
+ORD-433,Invoice Sent,2024-03-31 03:47:50,Accounts Receivable,9681.38
+ORD-433,Payment Received,2024-04-02 06:34:02,Accounts Receivable,9681.38
+ORD-434,Order Created,2024-04-01 00:00:00,Sales Rep,18016.57
+ORD-434,Credit Check,2024-04-03 03:58:59,Finance Team,18016.57
+ORD-434,Goods Issued,2024-04-06 03:58:10,Warehouse,18016.57
+ORD-434,Invoice Sent,2024-04-07 11:11:40,Accounts Receivable,18016.57
+ORD-434,Payment Received,2024-04-10 02:23:55,Accounts Receivable,18016.57
+ORD-435,Order Created,2024-01-17 00:00:00,Sales Rep,11158.14
+ORD-435,Credit Check,2024-01-19 11:15:35,Finance Team,11158.14
+ORD-435,Goods Issued,2024-01-21 01:40:59,Warehouse,11158.14
+ORD-435,Invoice Sent,2024-01-22 17:19:21,Accounts Receivable,11158.14
+ORD-435,Payment Received,2024-01-25 07:21:49,Accounts Receivable,11158.14
+ORD-436,Order Created,2024-03-25 00:00:00,Sales Rep,23610.83
+ORD-436,Credit Check,2024-03-26 07:06:11,Finance Team,23610.83
+ORD-436,Goods Issued,2024-03-29 00:01:33,Warehouse,23610.83
+ORD-436,Invoice Sent,2024-03-31 10:08:54,Accounts Receivable,23610.83
+ORD-436,Payment Received,2024-04-03 05:40:54,Accounts Receivable,23610.83
+ORD-437,Order Created,2024-03-31 00:00:00,Sales Rep,7486.25
+ORD-437,Credit Check,2024-04-02 19:39:13,Finance Team,7486.25
+ORD-437,Goods Issued,2024-04-05 06:19:00,Warehouse,7486.25
+ORD-437,Invoice Sent,2024-04-07 07:55:09,Accounts Receivable,7486.25
+ORD-437,Payment Received,2024-04-10 01:40:39,Accounts Receivable,7486.25
+ORD-438,Order Created,2024-05-18 00:00:00,Sales Rep,7401.96
+ORD-438,Credit Check,2024-05-20 02:22:02,Finance Team,7401.96
+ORD-438,Goods Issued,2024-05-21 05:08:20,Warehouse,7401.96
+ORD-438,Invoice Sent,2024-05-23 13:48:55,Accounts Receivable,7401.96
+ORD-438,Payment Received,2024-05-25 12:13:15,Accounts Receivable,7401.96
+ORD-439,Order Created,2024-03-10 00:00:00,Sales Rep,2688.6
+ORD-439,Credit Check,2024-03-11 07:08:31,Finance Team,2688.6
+ORD-439,Goods Issued,2024-03-13 05:21:02,Warehouse,2688.6
+ORD-439,Invoice Sent,2024-03-16 04:26:16,Accounts Receivable,2688.6
+ORD-439,Payment Received,2024-03-18 03:38:29,Accounts Receivable,2688.6
+ORD-440,Order Created,2024-04-11 00:00:00,Sales Rep,43313.83
+ORD-440,Credit Check,2024-04-13 10:53:34,Finance Team,43313.83
+ORD-440,Goods Issued,2024-04-16 00:06:17,Warehouse,43313.83
+ORD-440,Invoice Sent,2024-04-18 06:19:10,Accounts Receivable,43313.83
+ORD-440,Payment Received,2024-04-20 22:00:39,Accounts Receivable,43313.83
+ORD-441,Order Created,2024-06-27 00:00:00,Sales Rep,46018.0
+ORD-441,Credit Check,2024-06-30 08:19:13,Finance Team,46018.0
+ORD-441,Goods Issued,2024-07-02 15:23:05,Warehouse,46018.0
+ORD-441,Invoice Sent,2024-07-04 21:43:40,Accounts Receivable,46018.0
+ORD-441,Payment Received,2024-07-07 13:12:35,Accounts Receivable,46018.0
+ORD-442,Order Created,2024-05-14 00:00:00,Sales Rep,29978.93
+ORD-442,Credit Check,2024-05-16 21:53:24,Finance Team,29978.93
+ORD-442,Goods Issued,2024-05-18 07:30:46,Warehouse,29978.93
+ORD-442,Invoice Sent,2024-05-19 12:45:27,Accounts Receivable,29978.93
+ORD-442,Payment Received,2024-05-22 05:44:52,Accounts Receivable,29978.93
+ORD-443,Order Created,2024-04-22 00:00:00,Sales Rep,22518.34
+ORD-443,Credit Check,2024-04-23 14:19:29,Finance Team,22518.34
+ORD-443,Goods Issued,2024-04-25 01:51:47,Warehouse,22518.34
+ORD-443,Invoice Sent,2024-04-26 16:50:03,Accounts Receivable,22518.34
+ORD-443,Payment Received,2024-04-28 05:07:28,Accounts Receivable,22518.34
+ORD-444,Order Created,2024-06-23 00:00:00,Sales Rep,2508.71
+ORD-444,Credit Check,2024-06-25 06:04:35,Finance Team,2508.71
+ORD-444,Goods Issued,2024-06-28 02:32:34,Warehouse,2508.71
+ORD-444,Invoice Sent,2024-06-29 03:27:37,Accounts Receivable,2508.71
+ORD-444,Payment Received,2024-07-01 02:20:55,Accounts Receivable,2508.71
+ORD-445,Order Created,2024-06-19 00:00:00,Sales Rep,34698.38
+ORD-445,Credit Check,2024-06-22 07:01:47,Finance Team,34698.38
+ORD-445,Goods Issued,2024-06-24 18:11:53,Warehouse,34698.38
+ORD-445,Invoice Sent,2024-06-27 11:25:57,Accounts Receivable,34698.38
+ORD-445,Payment Received,2024-06-30 05:21:15,Accounts Receivable,34698.38
+ORD-446,Order Created,2024-06-17 00:00:00,Sales Rep,41170.09
+ORD-446,Credit Check,2024-06-18 20:51:23,Finance Team,41170.09
+ORD-446,Goods Issued,2024-06-20 13:47:35,Warehouse,41170.09
+ORD-446,Invoice Sent,2024-06-24 01:44:31,Accounts Receivable,41170.09
+ORD-446,Payment Received,2024-06-25 07:03:09,Accounts Receivable,41170.09
+ORD-447,Order Created,2024-01-08 00:00:00,Sales Rep,49893.22
+ORD-447,Credit Check,2024-01-11 14:05:30,Finance Team,49893.22
+ORD-447,Goods Issued,2024-01-13 00:03:53,Warehouse,49893.22
+ORD-447,Invoice Sent,2024-01-14 04:59:54,Accounts Receivable,49893.22
+ORD-447,Payment Received,2024-01-15 12:20:31,Accounts Receivable,49893.22
+ORD-448,Order Created,2024-02-06 00:00:00,Sales Rep,17747.34
+ORD-448,Credit Check,2024-02-08 11:32:34,Finance Team,17747.34
+ORD-448,Goods Issued,2024-02-09 18:23:58,Warehouse,17747.34
+ORD-448,Invoice Sent,2024-02-12 06:33:51,Accounts Receivable,17747.34
+ORD-448,Payment Received,2024-02-14 19:28:21,Accounts Receivable,17747.34
+ORD-449,Order Created,2024-05-06 00:00:00,Sales Rep,33268.49
+ORD-449,Credit Check,2024-05-09 07:44:34,Finance Team,33268.49
+ORD-449,Goods Issued,2024-05-12 04:51:53,Warehouse,33268.49
+ORD-449,Invoice Sent,2024-05-13 15:40:42,Accounts Receivable,33268.49
+ORD-449,Payment Received,2024-05-15 19:27:59,Accounts Receivable,33268.49
+ORD-450,Order Created,2024-05-07 00:00:00,Sales Rep,36434.32
+ORD-450,Credit Check,2024-05-09 20:23:40,Finance Team,36434.32
+ORD-450,Goods Issued,2024-05-11 02:36:20,Warehouse,36434.32
+ORD-450,Invoice Sent,2024-05-13 01:02:21,Accounts Receivable,36434.32
+ORD-450,Payment Received,2024-05-15 13:28:08,Accounts Receivable,36434.32
+ORD-451,Order Created,2024-06-21 00:00:00,Sales Rep,31972.4
+ORD-451,Credit Check,2024-06-23 20:59:26,Finance Team,31972.4
+ORD-451,Goods Issued,2024-06-25 02:08:29,Warehouse,31972.4
+ORD-451,Invoice Sent,2024-06-26 12:45:20,Accounts Receivable,31972.4
+ORD-451,Payment Received,2024-06-29 19:36:24,Accounts Receivable,31972.4
+ORD-452,Order Created,2024-05-24 00:00:00,Sales Rep,34405.68
+ORD-452,Credit Check,2024-05-26 09:38:09,Finance Team,34405.68
+ORD-452,Goods Issued,2024-05-29 12:12:00,Warehouse,34405.68
+ORD-452,Invoice Sent,2024-06-01 09:43:41,Accounts Receivable,34405.68
+ORD-452,Payment Received,2024-06-02 17:25:16,Accounts Receivable,34405.68
+ORD-453,Order Created,2024-01-13 00:00:00,Sales Rep,4572.19
+ORD-453,Credit Check,2024-01-15 08:00:32,Finance Team,4572.19
+ORD-453,Goods Issued,2024-01-16 18:08:32,Warehouse,4572.19
+ORD-453,Invoice Sent,2024-01-19 11:35:08,Accounts Receivable,4572.19
+ORD-453,Payment Received,2024-01-21 06:50:54,Accounts Receivable,4572.19
+ORD-454,Order Created,2024-04-29 00:00:00,Sales Rep,15333.24
+ORD-454,Credit Check,2024-04-30 19:26:41,Finance Team,15333.24
+ORD-454,Goods Issued,2024-05-03 14:56:17,Warehouse,15333.24
+ORD-454,Invoice Sent,2024-05-05 06:22:12,Accounts Receivable,15333.24
+ORD-454,Payment Received,2024-05-07 05:14:20,Accounts Receivable,15333.24
+ORD-455,Order Created,2024-06-06 00:00:00,Sales Rep,12075.42
+ORD-455,Credit Check,2024-06-08 22:59:27,Finance Team,12075.42
+ORD-455,Goods Issued,2024-06-11 03:57:31,Warehouse,12075.42
+ORD-455,Invoice Sent,2024-06-12 21:08:01,Accounts Receivable,12075.42
+ORD-455,Payment Received,2024-06-15 04:13:44,Accounts Receivable,12075.42
+ORD-456,Order Created,2024-03-21 00:00:00,Sales Rep,7023.11
+ORD-456,Credit Check,2024-03-23 10:32:59,Finance Team,7023.11
+ORD-456,Goods Issued,2024-03-26 04:09:46,Warehouse,7023.11
+ORD-456,Invoice Sent,2024-03-28 01:57:08,Accounts Receivable,7023.11
+ORD-456,Payment Received,2024-03-30 17:22:51,Accounts Receivable,7023.11
+ORD-457,Order Created,2024-05-27 00:00:00,Sales Rep,28178.21
+ORD-457,Credit Check,2024-05-29 08:45:56,Finance Team,28178.21
+ORD-457,Goods Issued,2024-05-30 20:22:42,Warehouse,28178.21
+ORD-457,Invoice Sent,2024-06-02 06:38:53,Accounts Receivable,28178.21
+ORD-457,Payment Received,2024-06-04 22:07:47,Accounts Receivable,28178.21
+ORD-458,Order Created,2024-01-22 00:00:00,Sales Rep,40393.97
+ORD-458,Credit Check,2024-01-24 13:14:43,Finance Team,40393.97
+ORD-458,Goods Issued,2024-01-26 00:57:17,Warehouse,40393.97
+ORD-458,Invoice Sent,2024-01-29 10:33:43,Accounts Receivable,40393.97
+ORD-458,Payment Received,2024-02-01 08:52:18,Accounts Receivable,40393.97
+ORD-459,Order Created,2024-06-07 00:00:00,Sales Rep,20670.84
+ORD-459,Credit Check,2024-06-08 13:38:42,Finance Team,20670.84
+ORD-459,Goods Issued,2024-06-09 20:04:08,Warehouse,20670.84
+ORD-459,Invoice Sent,2024-06-12 02:17:15,Accounts Receivable,20670.84
+ORD-459,Payment Received,2024-06-13 04:53:44,Accounts Receivable,20670.84
+ORD-460,Order Created,2024-03-19 00:00:00,Sales Rep,37683.62
+ORD-460,Credit Check,2024-03-20 10:43:05,Finance Team,37683.62
+ORD-460,Goods Issued,2024-03-22 02:24:25,Warehouse,37683.62
+ORD-460,Invoice Sent,2024-03-25 04:18:31,Accounts Receivable,37683.62
+ORD-460,Payment Received,2024-03-28 02:17:41,Accounts Receivable,37683.62
+ORD-461,Order Created,2024-03-27 00:00:00,Sales Rep,30080.8
+ORD-461,Credit Check,2024-03-29 14:23:46,Finance Team,30080.8
+ORD-461,Goods Issued,2024-03-31 22:05:36,Warehouse,30080.8
+ORD-461,Invoice Sent,2024-04-02 22:29:55,Accounts Receivable,30080.8
+ORD-461,Payment Received,2024-04-06 09:28:07,Accounts Receivable,30080.8
+ORD-462,Order Created,2024-06-04 00:00:00,Sales Rep,5053.06
+ORD-462,Credit Check,2024-06-05 04:53:27,Finance Team,5053.06
+ORD-462,Goods Issued,2024-06-06 22:10:55,Warehouse,5053.06
+ORD-462,Invoice Sent,2024-06-08 11:09:39,Accounts Receivable,5053.06
+ORD-462,Payment Received,2024-06-11 03:36:40,Accounts Receivable,5053.06
+ORD-463,Order Created,2024-04-09 00:00:00,Sales Rep,16354.05
+ORD-463,Credit Check,2024-04-11 19:32:44,Finance Team,16354.05
+ORD-463,Goods Issued,2024-04-14 16:48:31,Warehouse,16354.05
+ORD-463,Invoice Sent,2024-04-16 13:04:59,Accounts Receivable,16354.05
+ORD-463,Payment Received,2024-04-18 07:11:39,Accounts Receivable,16354.05
+ORD-464,Order Created,2024-06-27 00:00:00,Sales Rep,46879.74
+ORD-464,Credit Check,2024-06-28 09:56:35,Finance Team,46879.74
+ORD-464,Goods Issued,2024-07-01 06:18:55,Warehouse,46879.74
+ORD-464,Invoice Sent,2024-07-03 15:33:32,Accounts Receivable,46879.74
+ORD-464,Payment Received,2024-07-05 18:41:15,Accounts Receivable,46879.74
+ORD-465,Order Created,2024-04-29 00:00:00,Sales Rep,32002.88
+ORD-465,Credit Check,2024-05-01 19:43:43,Finance Team,32002.88
+ORD-465,Goods Issued,2024-05-03 08:32:30,Warehouse,32002.88
+ORD-465,Invoice Sent,2024-05-05 03:59:08,Accounts Receivable,32002.88
+ORD-465,Payment Received,2024-05-08 11:12:54,Accounts Receivable,32002.88
+ORD-466,Order Created,2024-01-24 00:00:00,Sales Rep,9957.55
+ORD-466,Credit Check,2024-01-26 12:31:47,Finance Team,9957.55
+ORD-466,Goods Issued,2024-01-29 10:10:00,Warehouse,9957.55
+ORD-466,Invoice Sent,2024-01-31 19:53:19,Accounts Receivable,9957.55
+ORD-466,Payment Received,2024-02-02 10:11:43,Accounts Receivable,9957.55
+ORD-467,Order Created,2024-05-19 00:00:00,Sales Rep,6162.88
+ORD-467,Credit Check,2024-05-21 23:58:27,Finance Team,6162.88
+ORD-467,Goods Issued,2024-05-23 05:00:18,Warehouse,6162.88
+ORD-467,Invoice Sent,2024-05-25 04:56:11,Accounts Receivable,6162.88
+ORD-467,Payment Received,2024-05-26 23:25:20,Accounts Receivable,6162.88
+ORD-468,Order Created,2024-04-08 00:00:00,Sales Rep,43425.19
+ORD-468,Credit Check,2024-04-10 07:09:48,Finance Team,43425.19
+ORD-468,Goods Issued,2024-04-11 23:59:42,Warehouse,43425.19
+ORD-468,Invoice Sent,2024-04-14 02:01:57,Accounts Receivable,43425.19
+ORD-468,Payment Received,2024-04-16 04:08:02,Accounts Receivable,43425.19
+ORD-469,Order Created,2024-01-13 00:00:00,Sales Rep,3565.4
+ORD-469,Credit Check,2024-01-14 19:59:31,Finance Team,3565.4
+ORD-469,Goods Issued,2024-01-17 11:27:24,Warehouse,3565.4
+ORD-469,Invoice Sent,2024-01-20 04:16:24,Accounts Receivable,3565.4
+ORD-469,Payment Received,2024-01-21 14:26:57,Accounts Receivable,3565.4
+ORD-470,Order Created,2024-02-23 00:00:00,Sales Rep,33210.32
+ORD-470,Credit Check,2024-02-26 07:29:49,Finance Team,33210.32
+ORD-470,Goods Issued,2024-02-28 00:43:25,Warehouse,33210.32
+ORD-470,Invoice Sent,2024-03-01 20:33:56,Accounts Receivable,33210.32
+ORD-470,Payment Received,2024-03-04 12:22:20,Accounts Receivable,33210.32
+ORD-471,Order Created,2024-01-08 00:00:00,Sales Rep,15469.77
+ORD-471,Credit Check,2024-01-10 07:16:43,Finance Team,15469.77
+ORD-471,Goods Issued,2024-01-12 18:43:52,Warehouse,15469.77
+ORD-471,Invoice Sent,2024-01-14 09:52:53,Accounts Receivable,15469.77
+ORD-471,Payment Received,2024-01-16 16:50:00,Accounts Receivable,15469.77
+ORD-472,Order Created,2024-02-23 00:00:00,Sales Rep,20361.41
+ORD-472,Credit Check,2024-02-24 09:33:44,Finance Team,20361.41
+ORD-472,Goods Issued,2024-02-27 04:17:33,Warehouse,20361.41
+ORD-472,Invoice Sent,2024-02-28 18:05:17,Accounts Receivable,20361.41
+ORD-472,Payment Received,2024-03-01 11:44:31,Accounts Receivable,20361.41
+ORD-473,Order Created,2024-04-27 00:00:00,Sales Rep,3846.51
+ORD-473,Credit Check,2024-04-29 13:32:12,Finance Team,3846.51
+ORD-473,Goods Issued,2024-05-01 15:38:21,Warehouse,3846.51
+ORD-473,Invoice Sent,2024-05-02 20:25:58,Accounts Receivable,3846.51
+ORD-473,Payment Received,2024-05-05 05:27:32,Accounts Receivable,3846.51
+ORD-474,Order Created,2024-04-11 00:00:00,Sales Rep,12852.56
+ORD-474,Credit Check,2024-04-12 16:11:33,Finance Team,12852.56
+ORD-474,Goods Issued,2024-04-13 17:07:13,Warehouse,12852.56
+ORD-474,Invoice Sent,2024-04-14 23:05:23,Accounts Receivable,12852.56
+ORD-474,Payment Received,2024-04-16 18:56:41,Accounts Receivable,12852.56
+ORD-475,Order Created,2024-04-20 00:00:00,Sales Rep,25150.36
+ORD-475,Credit Check,2024-04-21 15:51:05,Finance Team,25150.36
+ORD-475,Goods Issued,2024-04-24 11:20:34,Warehouse,25150.36
+ORD-475,Invoice Sent,2024-04-26 00:08:35,Accounts Receivable,25150.36
+ORD-475,Payment Received,2024-04-28 10:56:10,Accounts Receivable,25150.36
+ORD-476,Order Created,2024-05-01 00:00:00,Sales Rep,44004.7
+ORD-476,Credit Check,2024-05-03 10:41:46,Finance Team,44004.7
+ORD-476,Goods Issued,2024-05-06 06:31:21,Warehouse,44004.7
+ORD-476,Invoice Sent,2024-05-08 05:17:09,Accounts Receivable,44004.7
+ORD-476,Payment Received,2024-05-11 06:40:04,Accounts Receivable,44004.7
+ORD-477,Order Created,2024-04-13 00:00:00,Sales Rep,38873.15
+ORD-477,Credit Check,2024-04-14 12:22:31,Finance Team,38873.15
+ORD-477,Goods Issued,2024-04-17 18:32:46,Warehouse,38873.15
+ORD-477,Invoice Sent,2024-04-20 08:29:11,Accounts Receivable,38873.15
+ORD-477,Payment Received,2024-04-21 17:41:10,Accounts Receivable,38873.15
+ORD-478,Order Created,2024-06-10 00:00:00,Sales Rep,19746.44
+ORD-478,Credit Check,2024-06-11 08:43:24,Finance Team,19746.44
+ORD-478,Goods Issued,2024-06-13 05:37:40,Warehouse,19746.44
+ORD-478,Invoice Sent,2024-06-14 21:34:07,Accounts Receivable,19746.44
+ORD-478,Payment Received,2024-06-16 13:58:30,Accounts Receivable,19746.44
+ORD-479,Order Created,2024-01-07 00:00:00,Sales Rep,37212.3
+ORD-479,Credit Check,2024-01-09 00:51:01,Finance Team,37212.3
+ORD-479,Goods Issued,2024-01-11 03:03:44,Warehouse,37212.3
+ORD-479,Invoice Sent,2024-01-12 07:56:25,Accounts Receivable,37212.3
+ORD-479,Payment Received,2024-01-14 06:00:32,Accounts Receivable,37212.3
+ORD-480,Order Created,2024-05-14 00:00:00,Sales Rep,32676.48
+ORD-480,Credit Check,2024-05-17 07:26:42,Finance Team,32676.48
+ORD-480,Goods Issued,2024-05-20 03:09:30,Warehouse,32676.48
+ORD-480,Invoice Sent,2024-05-22 15:27:48,Accounts Receivable,32676.48
+ORD-480,Payment Received,2024-05-25 20:03:28,Accounts Receivable,32676.48
+ORD-481,Order Created,2024-02-14 00:00:00,Sales Rep,30701.18
+ORD-481,Credit Check,2024-02-16 03:43:30,Finance Team,30701.18
+ORD-481,Goods Issued,2024-02-18 01:58:22,Warehouse,30701.18
+ORD-481,Invoice Sent,2024-02-19 10:33:25,Accounts Receivable,30701.18
+ORD-481,Payment Received,2024-02-21 04:30:12,Accounts Receivable,30701.18
+ORD-482,Order Created,2024-06-04 00:00:00,Sales Rep,13083.58
+ORD-482,Credit Check,2024-06-05 22:43:23,Finance Team,13083.58
+ORD-482,Goods Issued,2024-06-07 01:35:22,Warehouse,13083.58
+ORD-482,Invoice Sent,2024-06-09 09:49:42,Accounts Receivable,13083.58
+ORD-482,Payment Received,2024-06-11 13:46:28,Accounts Receivable,13083.58
+ORD-483,Order Created,2024-04-28 00:00:00,Sales Rep,49520.24
+ORD-483,Credit Check,2024-05-01 02:01:36,Finance Team,49520.24
+ORD-483,Goods Issued,2024-05-04 15:55:38,Warehouse,49520.24
+ORD-483,Invoice Sent,2024-05-07 04:05:22,Accounts Receivable,49520.24
+ORD-483,Payment Received,2024-05-10 16:20:42,Accounts Receivable,49520.24
+ORD-484,Order Created,2024-01-17 00:00:00,Sales Rep,4704.65
+ORD-484,Credit Check,2024-01-18 10:49:05,Finance Team,4704.65
+ORD-484,Goods Issued,2024-01-19 20:13:05,Warehouse,4704.65
+ORD-484,Invoice Sent,2024-01-21 02:58:36,Accounts Receivable,4704.65
+ORD-484,Payment Received,2024-01-23 08:51:09,Accounts Receivable,4704.65
+ORD-485,Order Created,2024-02-14 00:00:00,Sales Rep,39284.77
+ORD-485,Credit Check,2024-02-15 20:42:40,Finance Team,39284.77
+ORD-485,Goods Issued,2024-02-19 10:03:16,Warehouse,39284.77
+ORD-485,Invoice Sent,2024-02-21 21:13:29,Accounts Receivable,39284.77
+ORD-485,Payment Received,2024-02-25 06:14:05,Accounts Receivable,39284.77
+ORD-486,Order Created,2024-03-05 00:00:00,Sales Rep,9030.17
+ORD-486,Credit Check,2024-03-06 16:34:09,Finance Team,9030.17
+ORD-486,Goods Issued,2024-03-09 12:36:30,Warehouse,9030.17
+ORD-486,Invoice Sent,2024-03-11 02:33:09,Accounts Receivable,9030.17
+ORD-486,Payment Received,2024-03-13 01:06:43,Accounts Receivable,9030.17
+ORD-487,Order Created,2024-06-22 00:00:00,Sales Rep,44616.92
+ORD-487,Credit Check,2024-06-23 08:22:58,Finance Team,44616.92
+ORD-487,Goods Issued,2024-06-24 21:40:03,Warehouse,44616.92
+ORD-487,Invoice Sent,2024-06-26 02:55:09,Accounts Receivable,44616.92
+ORD-487,Payment Received,2024-06-28 20:03:37,Accounts Receivable,44616.92
+ORD-488,Order Created,2024-02-23 00:00:00,Sales Rep,22936.0
+ORD-488,Credit Check,2024-02-24 19:57:02,Finance Team,22936.0
+ORD-488,Goods Issued,2024-02-26 10:26:34,Warehouse,22936.0
+ORD-488,Invoice Sent,2024-02-28 22:58:30,Accounts Receivable,22936.0
+ORD-488,Payment Received,2024-03-01 15:58:47,Accounts Receivable,22936.0
+ORD-489,Order Created,2024-02-15 00:00:00,Sales Rep,47504.49
+ORD-489,Credit Check,2024-02-16 09:11:28,Finance Team,47504.49
+ORD-489,Goods Issued,2024-02-18 05:48:51,Warehouse,47504.49
+ORD-489,Invoice Sent,2024-02-21 09:05:43,Accounts Receivable,47504.49
+ORD-489,Payment Received,2024-02-23 16:22:20,Accounts Receivable,47504.49
+ORD-490,Order Created,2024-05-20 00:00:00,Sales Rep,27782.28
+ORD-490,Credit Check,2024-05-21 22:00:45,Finance Team,27782.28
+ORD-490,Goods Issued,2024-05-24 00:56:04,Warehouse,27782.28
+ORD-490,Invoice Sent,2024-05-26 18:24:17,Accounts Receivable,27782.28
+ORD-490,Payment Received,2024-05-28 17:30:31,Accounts Receivable,27782.28
+ORD-491,Order Created,2024-04-17 00:00:00,Sales Rep,44986.06
+ORD-491,Credit Check,2024-04-20 05:23:39,Finance Team,44986.06
+ORD-491,Goods Issued,2024-04-23 18:42:39,Warehouse,44986.06
+ORD-491,Invoice Sent,2024-04-26 21:11:45,Accounts Receivable,44986.06
+ORD-491,Payment Received,2024-04-30 03:10:26,Accounts Receivable,44986.06
+ORD-492,Order Created,2024-03-10 00:00:00,Sales Rep,12856.88
+ORD-492,Credit Check,2024-03-11 05:13:36,Finance Team,12856.88
+ORD-492,Goods Issued,2024-03-13 11:46:50,Warehouse,12856.88
+ORD-492,Invoice Sent,2024-03-15 11:41:45,Accounts Receivable,12856.88
+ORD-492,Payment Received,2024-03-17 07:12:59,Accounts Receivable,12856.88
+ORD-493,Order Created,2024-03-16 00:00:00,Sales Rep,47697.98
+ORD-493,Credit Check,2024-03-17 19:44:58,Finance Team,47697.98
+ORD-493,Goods Issued,2024-03-20 01:43:14,Warehouse,47697.98
+ORD-493,Invoice Sent,2024-03-22 16:42:34,Accounts Receivable,47697.98
+ORD-493,Payment Received,2024-03-24 01:43:09,Accounts Receivable,47697.98
+ORD-494,Order Created,2024-06-02 00:00:00,Sales Rep,31494.82
+ORD-494,Credit Check,2024-06-03 05:37:02,Finance Team,31494.82
+ORD-494,Goods Issued,2024-06-06 10:11:25,Warehouse,31494.82
+ORD-494,Invoice Sent,2024-06-09 09:09:38,Accounts Receivable,31494.82
+ORD-494,Payment Received,2024-06-11 10:24:39,Accounts Receivable,31494.82
+ORD-495,Order Created,2024-02-12 00:00:00,Sales Rep,35217.25
+ORD-495,Credit Check,2024-02-14 10:50:09,Finance Team,35217.25
+ORD-495,Goods Issued,2024-02-17 23:55:44,Warehouse,35217.25
+ORD-495,Invoice Sent,2024-02-21 00:21:00,Accounts Receivable,35217.25
+ORD-495,Payment Received,2024-02-22 14:27:44,Accounts Receivable,35217.25
+ORD-496,Order Created,2024-04-05 00:00:00,Sales Rep,24368.11
+ORD-496,Credit Check,2024-04-06 14:52:47,Finance Team,24368.11
+ORD-496,Goods Issued,2024-04-08 02:01:04,Warehouse,24368.11
+ORD-496,Invoice Sent,2024-04-10 00:00:47,Accounts Receivable,24368.11
+ORD-496,Payment Received,2024-04-12 13:31:04,Accounts Receivable,24368.11
+ORD-497,Order Created,2024-03-26 00:00:00,Sales Rep,48048.22
+ORD-497,Credit Check,2024-03-29 06:03:35,Finance Team,48048.22
+ORD-497,Goods Issued,2024-03-31 21:35:47,Warehouse,48048.22
+ORD-497,Invoice Sent,2024-04-04 02:30:57,Accounts Receivable,48048.22
+ORD-497,Payment Received,2024-04-07 04:29:54,Accounts Receivable,48048.22
+ORD-498,Order Created,2024-06-04 00:00:00,Sales Rep,19472.29
+ORD-498,Credit Check,2024-06-05 10:58:35,Finance Team,19472.29
+ORD-498,Goods Issued,2024-06-07 17:25:33,Warehouse,19472.29
+ORD-498,Invoice Sent,2024-06-09 04:05:08,Accounts Receivable,19472.29
+ORD-498,Payment Received,2024-06-10 19:31:32,Accounts Receivable,19472.29
+ORD-499,Order Created,2024-06-24 00:00:00,Sales Rep,42554.06
+ORD-499,Credit Check,2024-06-25 10:17:41,Finance Team,42554.06
+ORD-499,Goods Issued,2024-06-27 15:47:17,Warehouse,42554.06
+ORD-499,Invoice Sent,2024-06-28 22:16:06,Accounts Receivable,42554.06
+ORD-499,Payment Received,2024-07-01 06:46:03,Accounts Receivable,42554.06
+ORD-500,Order Created,2024-01-10 00:00:00,Sales Rep,33459.27
+ORD-500,Credit Check,2024-01-13 08:43:10,Finance Team,33459.27
+ORD-500,Goods Issued,2024-01-14 22:22:44,Warehouse,33459.27
+ORD-500,Invoice Sent,2024-01-18 12:12:28,Accounts Receivable,33459.27
+ORD-500,Payment Received,2024-01-22 00:00:25,Accounts Receivable,33459.27
